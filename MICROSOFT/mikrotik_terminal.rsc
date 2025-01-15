@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: MICROSOFT DOCS
 # --------------------------------------------
-# Last Update - Tue Jan 14 06:00:38 +06 2025
+# Last Update - Wed Jan 15 06:00:13 +06 2025
 # --------------------------------------------
 # Total Prefixes: 473
 # --------------------------------------------
@@ -54,6 +54,8 @@ add address=13.117.0.0/16 list=MICROSOFT
 add address=13.118.0.0/15 list=MICROSOFT
 add address=13.123.0.0/16 list=MICROSOFT
 add address=13.240.0.0/16 list=MICROSOFT
+add address=13.241.0.0/16 list=MICROSOFT
+add address=13.242.0.0/15 list=MICROSOFT
 add address=20.0.0.0/11 list=MICROSOFT
 add address=20.33.0.0/16 list=MICROSOFT
 add address=20.34.0.0/15 list=MICROSOFT
@@ -415,8 +417,6 @@ add address=194.238.128.0/17 list=MICROSOFT
 add address=195.134.224.0/19 list=MICROSOFT
 add address=198.105.232.0/22 list=MICROSOFT
 add address=198.137.97.0/24 list=MICROSOFT
-add address=198.180.95.0/24 list=MICROSOFT
-add address=198.180.96.0/23 list=MICROSOFT
 add address=198.200.130.0/24 list=MICROSOFT
 add address=198.206.164.0/24 list=MICROSOFT
 add address=199.30.16.0/20 list=MICROSOFT
