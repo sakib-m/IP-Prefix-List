@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Thu Jan 16 06:01:25 +06 2025
+# Last Update - Fri Jan 17 06:01:16 +06 2025
 # --------------------------------------------
 # Total Prefixes: 499
 # --------------------------------------------
@@ -252,6 +252,7 @@ add address=2a03:2887:ff1b::/48 list=FACEBOOK
 add address=2a03:2887:ff1c::/48 list=FACEBOOK
 add address=2a03:2887:ff1d::/48 list=FACEBOOK
 add address=2a03:2887:ff1e::/48 list=FACEBOOK
+add address=2a03:2887:ff1f::/48 list=FACEBOOK
 add address=2a03:2887:ff23::/48 list=FACEBOOK
 add address=2a03:2887:ff27::/48 list=FACEBOOK
 add address=2a03:2887:ff28::/48 list=FACEBOOK
@@ -301,7 +302,6 @@ add address=2c0f:ef78:9::/48 list=FACEBOOK
 add address=2c0f:ef78:c::/48 list=FACEBOOK
 add address=2c0f:ef78:d::/48 list=FACEBOOK
 add address=2c0f:ef78:e::/48 list=FACEBOOK
-add address=2c0f:ef78:f::/48 list=FACEBOOK
 add address=2c0f:ef78:10::/48 list=FACEBOOK
 add address=2c0f:ef78:11::/48 list=FACEBOOK
 add address=2c0f:ef78:12::/48 list=FACEBOOK
