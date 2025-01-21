@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Mon Jan 20 06:01:25 +06 2025
+# Last Update - Tue Jan 21 06:01:32 +06 2025
 # --------------------------------------------
-# Total Prefixes: 1627
+# Total Prefixes: 1626
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -1367,6 +1367,7 @@ add address=185.194.230.0/24 list=ZENLAYER
 add address=185.200.244.0/24 list=ZENLAYER
 add address=185.207.112.0/22 list=ZENLAYER
 add address=185.211.132.0/24 list=ZENLAYER
+add address=185.213.193.0/24 list=ZENLAYER
 add address=185.217.194.0/24 list=ZENLAYER
 add address=185.218.142.0/24 list=ZENLAYER
 add address=185.226.196.0/24 list=ZENLAYER
@@ -1567,7 +1568,6 @@ add address=2602:ffe4:c56::/48 list=ZENLAYER
 add address=2602:ffe4:c57::/48 list=ZENLAYER
 add address=2602:ffe4:c58::/48 list=ZENLAYER
 add address=2602:ffe4:c5b::/48 list=ZENLAYER
-add address=2602:ffe4:c5c::/48 list=ZENLAYER
 add address=2602:ffe4:c5d::/48 list=ZENLAYER
 add address=2602:ffe4:c5e::/48 list=ZENLAYER
 add address=2602:ffe4:c62::/48 list=ZENLAYER
@@ -1577,7 +1577,6 @@ add address=2602:ffe4:c6c::/48 list=ZENLAYER
 add address=2602:ffe4:c6d::/48 list=ZENLAYER
 add address=2602:ffe4:c6e::/48 list=ZENLAYER
 add address=2602:ffe4:c70::/48 list=ZENLAYER
-add address=2602:ffe4:c79::/48 list=ZENLAYER
 add address=2604:980:1000::/36 list=ZENLAYER
 add address=2604:980:2000::/36 list=ZENLAYER
 add address=2604:980:3000::/36 list=ZENLAYER

@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Mon Jan 20 06:00:04 +06 2025
+# Last Update - Tue Jan 21 06:00:03 +06 2025
 # --------------------------------------------
 # Total Prefixes: 8357
 # --------------------------------------------
@@ -4433,7 +4433,6 @@ add address=2a05:d011::/36 list=AMAZON
 add address=2a05:d011:cbe:f700::/56 list=AMAZON
 add address=2a05:d012::/36 list=AMAZON
 add address=2a05:d012:c9e:d600::/56 list=AMAZON
-add address=2a05:d013::/36 list=AMAZON
 add address=2a05:d014:17a8:8b00::/56 list=AMAZON
 add address=2a05:d014::/35 list=AMAZON
 add address=2a05:d015::/36 list=AMAZON
@@ -4456,7 +4455,6 @@ add address=2a05:d01e:27f:ac00::/56 list=AMAZON
 add address=2a05:d01e::/36 list=AMAZON
 add address=2a05:d021::/36 list=AMAZON
 add address=2a05:d022::/36 list=AMAZON
-add address=2a05:d023::/36 list=AMAZON
 add address=2a05:d024::/36 list=AMAZON
 add address=2a05:d025:1000::/36 list=AMAZON
 add address=2a05:d025:451:7d00::/56 list=AMAZON
@@ -5868,6 +5866,7 @@ add address=43.216.0.0/15 list=AMAZON
 add address=43.216.39.0/24 list=AMAZON
 add address=43.216.52.0/23 list=AMAZON
 add address=43.216.61.0/24 list=AMAZON
+add address=43.216.62.0/24 list=AMAZON
 add address=43.216.63.0/24 list=AMAZON
 add address=43.216.64.0/24 list=AMAZON
 add address=43.216.65.0/24 list=AMAZON
@@ -7834,6 +7833,7 @@ add address=56.138.0.0/16 list=AMAZON
 add address=56.139.0.0/16 list=AMAZON
 add address=56.155.0.0/17 list=AMAZON
 add address=56.155.128.0/17 list=AMAZON
+add address=56.155.19.0/24 list=AMAZON
 add address=56.156.0.0/15 list=AMAZON
 add address=56.159.0.0/16 list=AMAZON
 add address=56.162.0.0/16 list=AMAZON
