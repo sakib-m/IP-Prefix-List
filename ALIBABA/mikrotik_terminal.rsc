@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Tue Mar  4 06:00:43 +06 2025
+# Last Update - Wed Mar  5 06:00:43 +06 2025
 # --------------------------------------------
-# Total Prefixes: 1644
+# Total Prefixes: 1653
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -214,6 +214,9 @@ add address=43.96.88.0/24 list=ALIBABA
 add address=43.98.0.0/16 list=ALIBABA
 add address=43.98.0.0/17 list=ALIBABA
 add address=43.98.128.0/17 list=ALIBABA
+add address=43.99.0.0/16 list=ALIBABA
+add address=43.99.0.0/17 list=ALIBABA
+add address=43.99.128.0/17 list=ALIBABA
 add address=45.196.28.0/24 list=ALIBABA
 add address=45.199.179.0/24 list=ALIBABA
 add address=47.52.0.0/16 list=ALIBABA
@@ -300,6 +303,9 @@ add address=47.79.112.0/20 list=ALIBABA
 add address=47.79.128.0/19 list=ALIBABA
 add address=47.79.128.0/20 list=ALIBABA
 add address=47.79.144.0/20 list=ALIBABA
+add address=47.79.192.0/18 list=ALIBABA
+add address=47.79.192.0/19 list=ALIBABA
+add address=47.79.224.0/19 list=ALIBABA
 add address=47.80.0.0/18 list=ALIBABA
 add address=47.80.0.0/19 list=ALIBABA
 add address=47.80.32.0/19 list=ALIBABA
@@ -496,7 +502,6 @@ add address=47.245.128.0/17 list=ALIBABA
 add address=47.245.128.0/18 list=ALIBABA
 add address=47.245.192.0/18 list=ALIBABA
 add address=47.246.32.0/22 list=ALIBABA
-add address=47.246.64.0/24 list=ALIBABA
 add address=47.246.66.0/24 list=ALIBABA
 add address=47.246.67.0/24 list=ALIBABA
 add address=47.246.68.0/23 list=ALIBABA
@@ -735,7 +740,6 @@ add address=8.148.32.0/24 list=ALIBABA
 add address=8.148.33.0/24 list=ALIBABA
 add address=8.148.34.0/24 list=ALIBABA
 add address=8.148.35.0/24 list=ALIBABA
-add address=8.148.40.0/24 list=ALIBABA
 add address=8.148.64.0/19 list=ALIBABA
 add address=8.148.64.0/20 list=ALIBABA
 add address=8.148.80.0/20 list=ALIBABA
@@ -757,7 +761,9 @@ add address=8.150.4.0/23 list=ALIBABA
 add address=8.150.6.0/23 list=ALIBABA
 add address=8.152.0.0/16 list=ALIBABA
 add address=8.152.0.0/17 list=ALIBABA
+add address=8.152.75.0/24 list=ALIBABA
 add address=8.152.128.0/17 list=ALIBABA
+add address=8.152.180.0/24 list=ALIBABA
 add address=8.153.0.0/16 list=ALIBABA
 add address=8.153.0.0/17 list=ALIBABA
 add address=8.153.128.0/17 list=ALIBABA
@@ -767,6 +773,9 @@ add address=8.154.128.0/17 list=ALIBABA
 add address=8.155.0.0/16 list=ALIBABA
 add address=8.155.0.0/17 list=ALIBABA
 add address=8.155.128.0/17 list=ALIBABA
+add address=8.155.196.0/24 list=ALIBABA
+add address=8.155.198.0/24 list=ALIBABA
+add address=8.155.199.0/24 list=ALIBABA
 add address=8.156.0.0/16 list=ALIBABA
 add address=8.156.0.0/17 list=ALIBABA
 add address=8.156.128.0/17 list=ALIBABA
