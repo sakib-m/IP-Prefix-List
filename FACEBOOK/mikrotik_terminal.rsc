@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sat Mar  8 06:00:58 +06 2025
+# Last Update - Sun Mar  9 06:00:57 +06 2025
 # --------------------------------------------
-# Total Prefixes: 503
+# Total Prefixes: 506
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -75,6 +75,7 @@ add address=129.134.187.0/24 list=FACEBOOK
 add address=129.134.188.0/24 list=FACEBOOK
 add address=129.134.189.0/24 list=FACEBOOK
 add address=129.134.190.0/24 list=FACEBOOK
+add address=129.134.191.0/24 list=FACEBOOK
 add address=157.240.128.0/24 list=FACEBOOK
 add address=157.240.129.0/24 list=FACEBOOK
 add address=157.240.131.0/24 list=FACEBOOK
@@ -96,6 +97,7 @@ add address=157.240.186.0/24 list=FACEBOOK
 add address=157.240.187.0/24 list=FACEBOOK
 add address=157.240.188.0/24 list=FACEBOOK
 add address=157.240.189.0/24 list=FACEBOOK
+add address=157.240.190.0/24 list=FACEBOOK
 add address=163.114.128.0/20 list=FACEBOOK
 add address=163.114.128.0/24 list=FACEBOOK
 add address=163.114.129.0/24 list=FACEBOOK
@@ -248,6 +250,7 @@ add address=2a03:2887:ff05::/48 list=FACEBOOK
 add address=2a03:2887:ff06::/48 list=FACEBOOK
 add address=2a03:2887:ff07::/48 list=FACEBOOK
 add address=2a03:2887:ff09::/48 list=FACEBOOK
+add address=2a03:2887:ff0a::/48 list=FACEBOOK
 add address=2a03:2887:ff1b::/48 list=FACEBOOK
 add address=2a03:2887:ff1c::/48 list=FACEBOOK
 add address=2a03:2887:ff1d::/48 list=FACEBOOK
@@ -260,7 +263,6 @@ add address=2a03:2887:ff29::/48 list=FACEBOOK
 add address=2a03:2887:ff2a::/48 list=FACEBOOK
 add address=2a03:2887:ff2b::/48 list=FACEBOOK
 add address=2a03:2887:ff2f::/48 list=FACEBOOK
-add address=2a03:2887:ff30::/48 list=FACEBOOK
 add address=2a03:2887:ff33::/48 list=FACEBOOK
 add address=2a03:2887:ff37::/48 list=FACEBOOK
 add address=2a03:2887:ff38::/48 list=FACEBOOK
@@ -298,6 +300,7 @@ add address=2a03:2887:ff66::/48 list=FACEBOOK
 add address=2a03:2887:ff67::/48 list=FACEBOOK
 add address=2a03:2887:ff68::/48 list=FACEBOOK
 add address=2a03:2887:ff69::/48 list=FACEBOOK
+add address=2a03:2887:ff70::/48 list=FACEBOOK
 add address=2c0f:ef78:3::/48 list=FACEBOOK
 add address=2c0f:ef78:5::/48 list=FACEBOOK
 add address=2c0f:ef78:9::/48 list=FACEBOOK

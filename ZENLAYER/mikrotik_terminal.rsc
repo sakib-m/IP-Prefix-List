@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sat Mar  8 06:01:09 +06 2025
+# Last Update - Sun Mar  9 06:01:07 +06 2025
 # --------------------------------------------
-# Total Prefixes: 1653
+# Total Prefixes: 1656
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -368,8 +368,6 @@ add address=69.28.53.0/24 list=ZENLAYER
 add address=69.28.59.0/24 list=ZENLAYER
 add address=69.28.63.0/24 list=ZENLAYER
 add address=69.165.77.0/24 list=ZENLAYER
-add address=82.26.77.0/24 list=ZENLAYER
-add address=82.27.204.0/24 list=ZENLAYER
 add address=82.153.228.0/23 list=ZENLAYER
 add address=84.32.39.0/24 list=ZENLAYER
 add address=85.237.211.0/24 list=ZENLAYER
@@ -531,7 +529,6 @@ add address=98.98.228.0/24 list=ZENLAYER
 add address=98.98.229.0/24 list=ZENLAYER
 add address=98.98.232.0/24 list=ZENLAYER
 add address=98.98.233.0/24 list=ZENLAYER
-add address=98.98.234.0/24 list=ZENLAYER
 add address=98.98.235.0/24 list=ZENLAYER
 add address=98.98.236.0/24 list=ZENLAYER
 add address=98.98.237.0/24 list=ZENLAYER
@@ -1016,7 +1013,6 @@ add address=128.14.120.0/23 list=ZENLAYER
 add address=128.14.120.0/24 list=ZENLAYER
 add address=128.14.122.0/23 list=ZENLAYER
 add address=128.14.124.0/23 list=ZENLAYER
-add address=128.14.127.0/24 list=ZENLAYER
 add address=128.14.128.0/19 list=ZENLAYER
 add address=128.14.128.0/21 list=ZENLAYER
 add address=128.14.136.0/23 list=ZENLAYER
@@ -1129,9 +1125,12 @@ add address=129.227.254.0/24 list=ZENLAYER
 add address=140.150.8.0/24 list=ZENLAYER
 add address=140.150.13.0/24 list=ZENLAYER
 add address=140.150.17.0/24 list=ZENLAYER
-add address=140.228.26.0/24 list=ZENLAYER
+add address=140.233.185.0/24 list=ZENLAYER
 add address=141.11.48.0/24 list=ZENLAYER
+add address=146.103.46.0/24 list=ZENLAYER
+add address=147.79.1.0/24 list=ZENLAYER
 add address=149.40.236.0/24 list=ZENLAYER
+add address=151.242.63.0/24 list=ZENLAYER
 add address=152.32.230.0/24 list=ZENLAYER
 add address=152.32.232.0/24 list=ZENLAYER
 add address=154.22.100.0/23 list=ZENLAYER
@@ -1372,13 +1371,13 @@ add address=172.96.119.0/24 list=ZENLAYER
 add address=172.96.120.0/23 list=ZENLAYER
 add address=172.96.125.0/24 list=ZENLAYER
 add address=172.96.127.0/24 list=ZENLAYER
-add address=172.99.22.0/24 list=ZENLAYER
 add address=172.247.32.0/24 list=ZENLAYER
 add address=172.247.34.0/24 list=ZENLAYER
 add address=172.247.35.0/24 list=ZENLAYER
 add address=172.247.38.0/24 list=ZENLAYER
 add address=172.247.39.0/24 list=ZENLAYER
 add address=176.56.39.0/24 list=ZENLAYER
+add address=178.132.199.0/24 list=ZENLAYER
 add address=180.210.224.0/22 list=ZENLAYER
 add address=180.210.240.0/20 list=ZENLAYER
 add address=181.215.205.0/24 list=ZENLAYER
@@ -1387,6 +1386,7 @@ add address=182.161.36.0/24 list=ZENLAYER
 add address=182.161.37.0/24 list=ZENLAYER
 add address=182.161.38.0/23 list=ZENLAYER
 add address=185.29.165.0/24 list=ZENLAYER
+add address=185.58.156.0/24 list=ZENLAYER
 add address=185.180.141.0/24 list=ZENLAYER
 add address=185.194.229.0/24 list=ZENLAYER
 add address=185.194.230.0/24 list=ZENLAYER
@@ -1426,7 +1426,6 @@ add address=192.254.92.0/24 list=ZENLAYER
 add address=192.254.93.0/24 list=ZENLAYER
 add address=192.254.94.0/24 list=ZENLAYER
 add address=192.254.95.0/24 list=ZENLAYER
-add address=193.24.234.0/24 list=ZENLAYER
 add address=193.108.59.0/24 list=ZENLAYER
 add address=193.118.32.0/19 list=ZENLAYER
 add address=193.118.32.0/24 list=ZENLAYER
@@ -1515,6 +1514,10 @@ add address=223.26.72.0/23 list=ZENLAYER
 add address=223.26.74.0/23 list=ZENLAYER
 add address=2602:ffe4:c68::/46 list=ZENLAYER
 add address=2602:ffe4:c74::/46 list=ZENLAYER
+add address=2602:ffe4:c80::/48 list=ZENLAYER
+add address=2602:ffe4:c81::/48 list=ZENLAYER
+add address=2602:ffe4:c82::/48 list=ZENLAYER
+add address=2602:ffe4:c83::/48 list=ZENLAYER
 add address=2604:980:efc0::/42 list=ZENLAYER
 add address=2a0b:21c1:600c::/46 list=ZENLAYER
 add address=2a0b:21c1:6013::/48 list=ZENLAYER

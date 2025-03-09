@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sat Mar  8 06:00:54 +06 2025
+# Last Update - Sun Mar  9 06:00:48 +06 2025
 # --------------------------------------------
-# Total Prefixes: 1653
+# Total Prefixes: 1655
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -666,6 +666,9 @@ add address=170.33.104.0/24 list=ALIBABA
 add address=170.33.105.0/24 list=ALIBABA
 add address=170.33.106.0/24 list=ALIBABA
 add address=170.33.107.0/24 list=ALIBABA
+add address=170.33.136.0/24 list=ALIBABA
+add address=170.33.137.0/24 list=ALIBABA
+add address=170.33.138.0/24 list=ALIBABA
 add address=185.78.106.0/23 list=ALIBABA
 add address=198.11.128.0/18 list=ALIBABA
 add address=198.11.137.0/24 list=ALIBABA
@@ -1538,7 +1541,6 @@ add address=240b:400e:8000::/33 list=ALIBABA
 add address=240b:400f::/32 list=ALIBABA
 add address=240b:400f::/33 list=ALIBABA
 add address=240b:400f:8000::/33 list=ALIBABA
-add address=240b:400f:fffe::/48 list=ALIBABA
 add address=240b:4011::/32 list=ALIBABA
 add address=240b:4011::/33 list=ALIBABA
 add address=240b:4011:8000::/33 list=ALIBABA
