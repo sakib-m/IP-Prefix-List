@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Mon Mar 17 06:00:57 +06 2025
+# Last Update - Tue Mar 18 06:12:02 +06 2025
 # --------------------------------------------
 # Total Prefixes: 1673
 # --------------------------------------------
@@ -207,7 +207,6 @@ add address=43.96.72.0/24 list=ALIBABA
 add address=43.96.73.0/24 list=ALIBABA
 add address=43.96.74.0/24 list=ALIBABA
 add address=43.96.75.0/24 list=ALIBABA
-add address=43.96.78.0/24 list=ALIBABA
 add address=43.96.80.0/24 list=ALIBABA
 add address=43.96.85.0/24 list=ALIBABA
 add address=43.96.88.0/24 list=ALIBABA
@@ -791,6 +790,7 @@ add address=8.152.128.0/17 list=ALIBABA
 add address=8.152.180.0/24 list=ALIBABA
 add address=8.153.0.0/16 list=ALIBABA
 add address=8.153.0.0/17 list=ALIBABA
+add address=8.153.116.0/24 list=ALIBABA
 add address=8.153.128.0/17 list=ALIBABA
 add address=8.154.0.0/16 list=ALIBABA
 add address=8.154.0.0/17 list=ALIBABA
