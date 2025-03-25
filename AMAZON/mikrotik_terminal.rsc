@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Mon Mar 24 06:00:03 +06 2025
+# Last Update - Tue Mar 25 06:00:03 +06 2025
 # --------------------------------------------
-# Total Prefixes: 8505
+# Total Prefixes: 8467
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -4361,6 +4361,7 @@ add address=2606:7b40:1800::/48 list=AMAZON
 add address=2606:7b40:1b00:700::/56 list=AMAZON
 add address=2606:7b40:1b0c::/56 list=AMAZON
 add address=2606:7b40:1b0d:8000::/56 list=AMAZON
+add address=2606:7b40:1b0e::/56 list=AMAZON
 add address=2606:7b40:1b0f:4000::/56 list=AMAZON
 add address=2606:7b40:1b0f:c000::/56 list=AMAZON
 add address=2606:7b40:1b0f:ef00::/56 list=AMAZON
@@ -6171,46 +6172,6 @@ add address=47.129.90.0/24 list=AMAZON
 add address=47.130.7.128/25 list=AMAZON
 add address=5.174.0.0/16 list=AMAZON
 add address=5.179.96.0/20 list=AMAZON
-add address=5.60.0.0/22 list=AMAZON
-add address=5.60.104.0/22 list=AMAZON
-add address=5.60.112.0/22 list=AMAZON
-add address=5.60.120.0/22 list=AMAZON
-add address=5.60.128.0/22 list=AMAZON
-add address=5.60.136.0/22 list=AMAZON
-add address=5.60.144.0/22 list=AMAZON
-add address=5.60.152.0/22 list=AMAZON
-add address=5.60.156.0/22 list=AMAZON
-add address=5.60.16.0/22 list=AMAZON
-add address=5.60.164.0/22 list=AMAZON
-add address=5.60.172.0/22 list=AMAZON
-add address=5.60.180.0/22 list=AMAZON
-add address=5.60.188.0/22 list=AMAZON
-add address=5.60.196.0/22 list=AMAZON
-add address=5.60.200.0/22 list=AMAZON
-add address=5.60.204.0/22 list=AMAZON
-add address=5.60.208.0/22 list=AMAZON
-add address=5.60.212.0/22 list=AMAZON
-add address=5.60.216.0/22 list=AMAZON
-add address=5.60.220.0/22 list=AMAZON
-add address=5.60.224.0/22 list=AMAZON
-add address=5.60.228.0/22 list=AMAZON
-add address=5.60.232.0/22 list=AMAZON
-add address=5.60.236.0/22 list=AMAZON
-add address=5.60.24.0/22 list=AMAZON
-add address=5.60.240.0/22 list=AMAZON
-add address=5.60.244.0/22 list=AMAZON
-add address=5.60.248.0/22 list=AMAZON
-add address=5.60.252.0/22 list=AMAZON
-add address=5.60.32.0/22 list=AMAZON
-add address=5.60.40.0/22 list=AMAZON
-add address=5.60.48.0/22 list=AMAZON
-add address=5.60.56.0/22 list=AMAZON
-add address=5.60.64.0/22 list=AMAZON
-add address=5.60.72.0/22 list=AMAZON
-add address=5.60.8.0/22 list=AMAZON
-add address=5.60.80.0/22 list=AMAZON
-add address=5.60.88.0/22 list=AMAZON
-add address=5.60.96.0/22 list=AMAZON
 add address=50.112.0.0/16 list=AMAZON
 add address=50.16.0.0/15 list=AMAZON
 add address=50.18.0.0/16 list=AMAZON
@@ -7955,6 +7916,7 @@ add address=56.124.128.0/17 list=AMAZON
 add address=56.125.0.0/16 list=AMAZON
 add address=56.125.46.0/24 list=AMAZON
 add address=56.125.47.0/32 list=AMAZON
+add address=56.125.48.0/24 list=AMAZON
 add address=56.126.0.0/16 list=AMAZON
 add address=56.127.0.0/16 list=AMAZON
 add address=56.128.0.0/16 list=AMAZON

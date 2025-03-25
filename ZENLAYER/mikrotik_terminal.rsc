@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Mon Mar 24 06:01:11 +06 2025
+# Last Update - Tue Mar 25 06:01:16 +06 2025
 # --------------------------------------------
 # Total Prefixes: 1700
 # --------------------------------------------
@@ -56,6 +56,7 @@ add address=118.26.63.0/24 list=ZENLAYER
 add address=128.1.10.0/24 list=ZENLAYER
 add address=128.1.24.0/24 list=ZENLAYER
 add address=128.1.28.0/24 list=ZENLAYER
+add address=128.1.113.0/24 list=ZENLAYER
 add address=128.1.147.0/24 list=ZENLAYER
 add address=128.1.152.0/24 list=ZENLAYER
 add address=128.1.153.0/24 list=ZENLAYER
@@ -258,7 +259,6 @@ add address=43.152.178.0/24 list=ZENLAYER
 add address=43.229.152.0/24 list=ZENLAYER
 add address=43.243.195.0/24 list=ZENLAYER
 add address=45.8.33.0/24 list=ZENLAYER
-add address=45.8.205.0/24 list=ZENLAYER
 add address=45.10.69.0/24 list=ZENLAYER
 add address=45.10.70.0/23 list=ZENLAYER
 add address=45.39.71.0/24 list=ZENLAYER
@@ -908,7 +908,6 @@ add address=128.1.107.0/24 list=ZENLAYER
 add address=128.1.108.0/24 list=ZENLAYER
 add address=128.1.109.0/24 list=ZENLAYER
 add address=128.1.110.0/24 list=ZENLAYER
-add address=128.1.113.0/24 list=ZENLAYER
 add address=128.1.116.0/24 list=ZENLAYER
 add address=128.1.119.0/24 list=ZENLAYER
 add address=128.1.120.0/22 list=ZENLAYER
@@ -1157,6 +1156,7 @@ add address=141.11.48.0/24 list=ZENLAYER
 add address=146.103.46.0/24 list=ZENLAYER
 add address=147.79.1.0/24 list=ZENLAYER
 add address=149.40.236.0/24 list=ZENLAYER
+add address=151.242.33.0/24 list=ZENLAYER
 add address=151.242.63.0/24 list=ZENLAYER
 add address=151.243.13.0/24 list=ZENLAYER
 add address=152.32.230.0/24 list=ZENLAYER
