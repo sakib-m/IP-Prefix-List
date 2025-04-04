@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Thu Apr  3 06:00:48 +06 2025
+# Last Update - Fri Apr  4 06:00:45 +06 2025
 # --------------------------------------------
 # Total Prefixes: 1680
 # --------------------------------------------
@@ -819,6 +819,7 @@ add address=39.96.0.0/14 list=ALIBABA
 add address=39.100.0.0/14 list=ALIBABA
 add address=39.104.0.0/14 list=ALIBABA
 add address=39.104.0.0/15 list=ALIBABA
+add address=39.105.32.0/20 list=ALIBABA
 add address=39.106.0.0/15 list=ALIBABA
 add address=39.108.0.0/16 list=ALIBABA
 add address=39.108.0.0/17 list=ALIBABA
@@ -1372,6 +1373,7 @@ add address=8.221.152.0/24 list=ALIBABA
 add address=8.221.153.0/24 list=ALIBABA
 add address=8.221.154.0/24 list=ALIBABA
 add address=8.221.155.0/24 list=ALIBABA
+add address=38.47.151.0/24 list=ALIBABA
 add address=47.57.197.0/24 list=ALIBABA
 add address=47.90.172.0/24 list=ALIBABA
 add address=47.90.173.0/24 list=ALIBABA
@@ -1513,7 +1515,6 @@ add address=240b:4001:8000::/33 list=ALIBABA
 add address=240b:4002::/32 list=ALIBABA
 add address=240b:4002::/33 list=ALIBABA
 add address=240b:4002:8000::/33 list=ALIBABA
-add address=240b:4003:e::/48 list=ALIBABA
 add address=240b:4004::/32 list=ALIBABA
 add address=240b:4004::/33 list=ALIBABA
 add address=240b:4004:8000::/33 list=ALIBABA
@@ -1535,7 +1536,6 @@ add address=240b:4006:1028::/45 list=ALIBABA
 add address=240b:4007::/32 list=ALIBABA
 add address=240b:4007::/33 list=ALIBABA
 add address=240b:4007:8000::/33 list=ALIBABA
-add address=240b:4007:fffd::/48 list=ALIBABA
 add address=240b:4009::/32 list=ALIBABA
 add address=240b:4009::/33 list=ALIBABA
 add address=240b:4009:8000::/33 list=ALIBABA

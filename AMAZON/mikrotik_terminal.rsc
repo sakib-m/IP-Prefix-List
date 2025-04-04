@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Thu Apr  3 06:00:03 +06 2025
+# Last Update - Fri Apr  4 06:00:03 +06 2025
 # --------------------------------------------
-# Total Prefixes: 8528
+# Total Prefixes: 8532
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -2980,8 +2980,7 @@ add address=204.246.174.0/23 list=AMAZON
 add address=204.246.176.0/20 list=AMAZON
 add address=204.87.185.0/24 list=AMAZON
 add address=205.251.192.0/21 list=AMAZON
-add address=205.251.200.0/24 list=AMAZON
-add address=205.251.201.0/24 list=AMAZON
+add address=205.251.200.0/23 list=AMAZON
 add address=205.251.202.0/23 list=AMAZON
 add address=205.251.204.0/23 list=AMAZON
 add address=205.251.206.0/23 list=AMAZON
@@ -4266,6 +4265,7 @@ add address=2600:f0f0:85::/48 list=AMAZON
 add address=2600:f0f0:86::/48 list=AMAZON
 add address=2600:f0f0:87::/48 list=AMAZON
 add address=2600:f0f0:8::/48 list=AMAZON
+add address=2600:f0f0:90::/48 list=AMAZON
 add address=2600:f0f0:a0::/48 list=AMAZON
 add address=2600:f0f0:f00:100::/56 list=AMAZON
 add address=2600:f0f0:f00:200::/56 list=AMAZON
@@ -4401,6 +4401,9 @@ add address=2606:7b40:1b0f:fa00::/56 list=AMAZON
 add address=2606:7b40:1b0f:fd00::/56 list=AMAZON
 add address=2606:7b40:9fc::/48 list=AMAZON
 add address=2606:7b40:9fd::/48 list=AMAZON
+add address=2606:7b40:f000:1500::/56 list=AMAZON
+add address=2606:7b40:f000:1600::/56 list=AMAZON
+add address=2606:7b40:f000:1700::/56 list=AMAZON
 add address=2606:f40:1000::/39 list=AMAZON
 add address=2606:f40:1800::/40 list=AMAZON
 add address=2606:f40:2100::/40 list=AMAZON
@@ -6038,6 +6041,7 @@ add address=43.208.66.144/28 list=AMAZON
 add address=43.208.76.0/23 list=AMAZON
 add address=43.210.0.0/15 list=AMAZON
 add address=43.212.0.0/15 list=AMAZON
+add address=43.212.16.0/24 list=AMAZON
 add address=43.212.62.0/23 list=AMAZON
 add address=43.212.65.0/24 list=AMAZON
 add address=43.212.66.0/24 list=AMAZON
