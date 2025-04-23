@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Tue Apr 22 06:00:40 +06 2025
+# Last Update - Wed Apr 23 06:00:40 +06 2025
 # --------------------------------------------
 # Total Prefixes: 512
 # --------------------------------------------
@@ -157,6 +157,7 @@ add address=57.144.174.0/23 list=FACEBOOK
 add address=57.144.180.0/23 list=FACEBOOK
 add address=57.144.186.0/23 list=FACEBOOK
 add address=57.144.194.0/23 list=FACEBOOK
+add address=57.144.204.0/23 list=FACEBOOK
 add address=66.220.144.0/20 list=FACEBOOK
 add address=66.220.144.0/21 list=FACEBOOK
 add address=66.220.152.0/21 list=FACEBOOK
@@ -249,7 +250,6 @@ add address=185.89.219.0/24 list=FACEBOOK
 add address=204.15.20.0/22 list=FACEBOOK
 add address=2a03:2887:ff00::/48 list=FACEBOOK
 add address=2a03:2887:ff03::/48 list=FACEBOOK
-add address=2a03:2887:ff04::/48 list=FACEBOOK
 add address=2a03:2887:ff05::/48 list=FACEBOOK
 add address=2a03:2887:ff06::/48 list=FACEBOOK
 add address=2a03:2887:ff07::/48 list=FACEBOOK
@@ -267,7 +267,6 @@ add address=2a03:2887:ff29::/48 list=FACEBOOK
 add address=2a03:2887:ff2a::/48 list=FACEBOOK
 add address=2a03:2887:ff2b::/48 list=FACEBOOK
 add address=2a03:2887:ff2f::/48 list=FACEBOOK
-add address=2a03:2887:ff30::/48 list=FACEBOOK
 add address=2a03:2887:ff33::/48 list=FACEBOOK
 add address=2a03:2887:ff37::/48 list=FACEBOOK
 add address=2a03:2887:ff38::/48 list=FACEBOOK
@@ -510,6 +509,7 @@ add address=2a03:2880:f357::/48 list=FACEBOOK
 add address=2a03:2880:f35a::/48 list=FACEBOOK
 add address=2a03:2880:f35d::/48 list=FACEBOOK
 add address=2a03:2880:f361::/48 list=FACEBOOK
+add address=2a03:2880:f366::/48 list=FACEBOOK
 add address=2a03:2880:f800::/48 list=FACEBOOK
 add address=2a03:2880:f802::/48 list=FACEBOOK
 add address=2a03:2880:f804::/48 list=FACEBOOK
