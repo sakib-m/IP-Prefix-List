@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Mon May  5 06:00:05 +06 2025
+# Last Update - Tue May  6 06:00:05 +06 2025
 # --------------------------------------------
 # Total Prefixes: 1347
 # --------------------------------------------
@@ -320,6 +320,7 @@ add address=16.56.64.0/18 list=AWS_EC2
 add address=16.57.0.0/18 list=AWS_EC2
 add address=16.62.0.0/15 list=AWS_EC2
 add address=16.64.0.0/17 list=AWS_EC2
+add address=16.65.0.0/16 list=AWS_EC2
 add address=16.78.0.0/16 list=AWS_EC2
 add address=16.79.0.0/16 list=AWS_EC2
 add address=160.1.0.0/16 list=AWS_EC2
@@ -346,7 +347,6 @@ add address=162.250.236.0/24 list=AWS_EC2
 add address=162.250.237.0/24 list=AWS_EC2
 add address=162.250.238.0/23 list=AWS_EC2
 add address=168.185.4.0/24 list=AWS_EC2
-add address=168.185.5.0/24 list=AWS_EC2
 add address=173.83.192.0/22 list=AWS_EC2
 add address=173.83.196.0/23 list=AWS_EC2
 add address=173.83.198.0/24 list=AWS_EC2
