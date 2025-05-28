@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Tue May 27 06:00:48 +06 2025
+# Last Update - Wed May 28 06:00:47 +06 2025
 # --------------------------------------------
-# Total Prefixes: 224
+# Total Prefixes: 228
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -38,7 +38,6 @@ add address=164.90.80.0/24 list=BIGO
 add address=164.90.81.0/24 list=BIGO
 add address=164.90.82.0/24 list=BIGO
 add address=164.90.83.0/24 list=BIGO
-add address=164.90.84.0/24 list=BIGO
 add address=164.90.85.0/24 list=BIGO
 add address=164.90.86.0/24 list=BIGO
 add address=164.90.87.0/24 list=BIGO
@@ -75,12 +74,12 @@ add address=169.136.66.0/24 list=BIGO
 add address=169.136.68.0/24 list=BIGO
 add address=169.136.71.0/24 list=BIGO
 add address=169.136.73.0/24 list=BIGO
-add address=169.136.74.0/24 list=BIGO
 add address=169.136.75.0/24 list=BIGO
 add address=169.136.76.0/24 list=BIGO
 add address=169.136.77.0/24 list=BIGO
 add address=169.136.78.0/24 list=BIGO
 add address=169.136.79.0/24 list=BIGO
+add address=169.136.80.0/24 list=BIGO
 add address=169.136.81.0/24 list=BIGO
 add address=169.136.82.0/24 list=BIGO
 add address=169.136.83.0/24 list=BIGO
@@ -90,6 +89,7 @@ add address=169.136.86.0/24 list=BIGO
 add address=169.136.87.0/24 list=BIGO
 add address=169.136.88.0/24 list=BIGO
 add address=169.136.89.0/24 list=BIGO
+add address=169.136.90.0/24 list=BIGO
 add address=169.136.91.0/24 list=BIGO
 add address=169.136.92.0/24 list=BIGO
 add address=169.136.93.0/24 list=BIGO
@@ -101,6 +101,7 @@ add address=169.136.98.0/24 list=BIGO
 add address=169.136.99.0/24 list=BIGO
 add address=169.136.100.0/24 list=BIGO
 add address=169.136.101.0/24 list=BIGO
+add address=169.136.102.0/24 list=BIGO
 add address=169.136.104.0/24 list=BIGO
 add address=169.136.105.0/24 list=BIGO
 add address=169.136.106.0/24 list=BIGO
@@ -126,7 +127,6 @@ add address=169.136.127.0/24 list=BIGO
 add address=169.136.128.0/24 list=BIGO
 add address=169.136.131.0/24 list=BIGO
 add address=169.136.134.0/24 list=BIGO
-add address=169.136.135.0/24 list=BIGO
 add address=169.136.136.0/24 list=BIGO
 add address=169.136.137.0/24 list=BIGO
 add address=169.136.138.0/24 list=BIGO
@@ -180,6 +180,7 @@ add address=202.63.37.0/24 list=BIGO
 add address=202.63.38.0/24 list=BIGO
 add address=202.63.39.0/24 list=BIGO
 add address=202.63.41.0/24 list=BIGO
+add address=202.63.42.0/24 list=BIGO
 add address=202.63.43.0/24 list=BIGO
 add address=202.63.44.0/24 list=BIGO
 add address=202.63.45.0/24 list=BIGO
@@ -191,6 +192,9 @@ add address=202.63.50.0/24 list=BIGO
 add address=202.63.51.0/24 list=BIGO
 add address=202.63.52.0/24 list=BIGO
 add address=202.63.53.0/24 list=BIGO
+add address=202.63.54.0/24 list=BIGO
+add address=202.63.55.0/24 list=BIGO
+add address=202.63.56.0/24 list=BIGO
 add address=202.63.57.0/24 list=BIGO
 add address=202.63.58.0/24 list=BIGO
 add address=202.63.59.0/24 list=BIGO
