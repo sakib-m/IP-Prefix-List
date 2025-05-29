@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Wed May 28 06:00:03 +06 2025
+# Last Update - Thu May 29 06:00:04 +06 2025
 # --------------------------------------------
-# Total Prefixes: 8803
+# Total Prefixes: 8808
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -4210,6 +4210,7 @@ add address=2600:9000:520f::/48 list=AMAZON
 add address=2600:9000:5210::/48 list=AMAZON
 add address=2600:9000:5211::/48 list=AMAZON
 add address=2600:9000:5212::/48 list=AMAZON
+add address=2600:9000:5213::/48 list=AMAZON
 add address=2600:9000:5300::/45 list=AMAZON
 add address=2600:9000:5308::/45 list=AMAZON
 add address=2600:9000:5310::/44 list=AMAZON
@@ -4291,6 +4292,8 @@ add address=2600:f0f0:10::/48 list=AMAZON
 add address=2600:f0f0:110f::/48 list=AMAZON
 add address=2600:f0f0:1124::/48 list=AMAZON
 add address=2600:f0f0:1127::/48 list=AMAZON
+add address=2600:f0f0:1128::/48 list=AMAZON
+add address=2600:f0f0:1129::/48 list=AMAZON
 add address=2600:f0f0:11::/48 list=AMAZON
 add address=2600:f0f0:11fe::/48 list=AMAZON
 add address=2600:f0f0:11ff::/48 list=AMAZON
@@ -6057,6 +6060,8 @@ add address=35.55.127.0/24 list=AMAZON
 add address=35.55.16.0/24 list=AMAZON
 add address=35.55.37.0/24 list=AMAZON
 add address=35.55.40.0/24 list=AMAZON
+add address=35.55.41.0/24 list=AMAZON
+add address=35.55.42.0/24 list=AMAZON
 add address=35.56.0.0/15 list=AMAZON
 add address=35.60.0.0/15 list=AMAZON
 add address=35.71.100.0/24 list=AMAZON
