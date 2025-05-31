@@ -3,15 +3,15 @@
 # --------------------------------------------
 # Source: Linode Docs.
 # --------------------------------------------
-# Last Update - Fri May 30 06:00:40 +06 2025
+# Last Update - Sat May 31 06:00:41 +06 2025
 # --------------------------------------------
-# Total Prefixes: 4485
+# Total Prefixes: 4521
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=# This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805 list=LINODE
-add address=# Last modified: 2025-05-29 10:00:05.465747 list=LINODE
+add address=# Last modified: 2025-05-30 10:00:04.428376 list=LINODE
 add address=# ip_prefix list=LINODE
 add address=2600:3c00::/32 list=LINODE
 add address=2600:3c0f:2::/48 list=LINODE
@@ -3407,6 +3407,22 @@ add address=172.234.124.0/24 list=LINODE
 add address=172.234.125.0/24 list=LINODE
 add address=172.234.126.0/24 list=LINODE
 add address=172.234.127.0/24 list=LINODE
+add address=172.238.240.0/24 list=LINODE
+add address=172.238.241.0/24 list=LINODE
+add address=172.238.242.0/24 list=LINODE
+add address=172.238.243.0/24 list=LINODE
+add address=172.238.244.0/24 list=LINODE
+add address=172.238.245.0/24 list=LINODE
+add address=172.238.246.0/24 list=LINODE
+add address=172.238.247.0/24 list=LINODE
+add address=172.238.248.0/24 list=LINODE
+add address=172.238.249.0/24 list=LINODE
+add address=172.238.250.0/24 list=LINODE
+add address=172.238.251.0/24 list=LINODE
+add address=172.238.252.0/24 list=LINODE
+add address=172.238.253.0/24 list=LINODE
+add address=172.238.254.0/24 list=LINODE
+add address=172.238.255.0/24 list=LINODE
 add address=172.232.160.0/24 list=LINODE
 add address=172.232.161.0/24 list=LINODE
 add address=172.232.162.0/24 list=LINODE
@@ -3547,6 +3563,26 @@ add address=172.235.232.0/24 list=LINODE
 add address=172.235.233.0/24 list=LINODE
 add address=172.235.234.0/24 list=LINODE
 add address=172.235.235.0/24 list=LINODE
+add address=172.235.236.0/24 list=LINODE
+add address=172.235.237.0/24 list=LINODE
+add address=172.235.238.0/24 list=LINODE
+add address=172.235.239.0/24 list=LINODE
+add address=172.238.224.0/24 list=LINODE
+add address=172.238.225.0/24 list=LINODE
+add address=172.238.226.0/24 list=LINODE
+add address=172.238.227.0/24 list=LINODE
+add address=172.238.228.0/24 list=LINODE
+add address=172.238.229.0/24 list=LINODE
+add address=172.238.230.0/24 list=LINODE
+add address=172.238.231.0/24 list=LINODE
+add address=172.238.232.0/24 list=LINODE
+add address=172.238.233.0/24 list=LINODE
+add address=172.238.234.0/24 list=LINODE
+add address=172.238.235.0/24 list=LINODE
+add address=172.238.236.0/24 list=LINODE
+add address=172.238.237.0/24 list=LINODE
+add address=172.238.238.0/24 list=LINODE
+add address=172.238.239.0/24 list=LINODE
 add address=172.232.224.0/24 list=LINODE
 add address=172.232.225.0/24 list=LINODE
 add address=172.232.226.0/24 list=LINODE
