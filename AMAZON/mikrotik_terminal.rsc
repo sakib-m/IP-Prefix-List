@@ -3,13 +3,16 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Wed Jun 25 06:00:05 +06 2025
+# Last Update - Thu Jun 26 06:00:04 +06 2025
 # --------------------------------------------
-# Total Prefixes: 8967
+# Total Prefixes: 8977
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
+add address=1.178.4.0/24 list=AMAZON
+add address=1.178.5.0/24 list=AMAZON
+add address=1.178.6.0/24 list=AMAZON
 add address=1.178.72.0/21 list=AMAZON
 add address=1.178.8.0/22 list=AMAZON
 add address=100.20.0.0/14 list=AMAZON
@@ -4662,6 +4665,7 @@ add address=2606:7b40:f000:1500::/56 list=AMAZON
 add address=2606:7b40:f000:1600::/56 list=AMAZON
 add address=2606:7b40:f000:1700::/56 list=AMAZON
 add address=2606:8140:400::/40 list=AMAZON
+add address=2606:8140:500::/40 list=AMAZON
 add address=2606:f40:1000::/39 list=AMAZON
 add address=2606:f40:1400::/40 list=AMAZON
 add address=2606:f40:1800::/40 list=AMAZON
@@ -5051,7 +5055,10 @@ add address=2a05:d050:b000::/40 list=AMAZON
 add address=2a05:d050:c000::/40 list=AMAZON
 add address=2a05:d050:e000::/40 list=AMAZON
 add address=2a05:d059:1000::/40 list=AMAZON
-add address=2a05:d059:2000::/40 list=AMAZON
+add address=2a05:d059:2000::/56 list=AMAZON
+add address=2a05:d059:2040::/48 list=AMAZON
+add address=2a05:d059:2080::/48 list=AMAZON
+add address=2a05:d059:20c0::/48 list=AMAZON
 add address=2a05:d059:4000::/40 list=AMAZON
 add address=2a05:d059:5000::/40 list=AMAZON
 add address=2a05:d059:6000::/40 list=AMAZON
@@ -5111,7 +5118,10 @@ add address=2a05:d072:b000::/40 list=AMAZON
 add address=2a05:d072:c000::/40 list=AMAZON
 add address=2a05:d072:e000::/40 list=AMAZON
 add address=2a05:d074:1000::/40 list=AMAZON
-add address=2a05:d074:2000::/40 list=AMAZON
+add address=2a05:d074:2000::/56 list=AMAZON
+add address=2a05:d074:2040::/48 list=AMAZON
+add address=2a05:d074:2080::/48 list=AMAZON
+add address=2a05:d074:20c0::/48 list=AMAZON
 add address=2a05:d074:4000::/40 list=AMAZON
 add address=2a05:d074:5000::/40 list=AMAZON
 add address=2a05:d074:6000::/40 list=AMAZON
