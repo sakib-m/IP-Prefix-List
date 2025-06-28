@@ -3,13 +3,19 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Fri Jun 27 06:00:07 +06 2025
+# Last Update - Sat Jun 28 06:00:08 +06 2025
 # --------------------------------------------
-# Total Prefixes: 1430
+# Total Prefixes: 1436
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
+add address=1.178.10.0/24 list=AWS_EC2
+add address=1.178.11.0/24 list=AWS_EC2
+add address=1.178.5.0/24 list=AWS_EC2
+add address=1.178.6.0/24 list=AWS_EC2
+add address=1.178.8.0/24 list=AWS_EC2
+add address=1.178.9.0/24 list=AWS_EC2
 add address=100.20.0.0/14 list=AWS_EC2
 add address=100.24.0.0/13 list=AWS_EC2
 add address=103.4.8.0/21 list=AWS_EC2
