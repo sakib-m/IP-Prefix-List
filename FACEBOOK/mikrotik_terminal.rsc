@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sun Jun 29 06:00:43 +06 2025
+# Last Update - Mon Jun 30 06:00:42 +06 2025
 # --------------------------------------------
-# Total Prefixes: 512
+# Total Prefixes: 508
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -18,7 +18,6 @@ add address=102.132.117.0/24 list=FACEBOOK
 add address=102.132.119.0/24 list=FACEBOOK
 add address=102.132.120.0/24 list=FACEBOOK
 add address=102.132.121.0/24 list=FACEBOOK
-add address=102.132.122.0/24 list=FACEBOOK
 add address=102.132.123.0/24 list=FACEBOOK
 add address=102.132.125.0/24 list=FACEBOOK
 add address=102.132.126.0/24 list=FACEBOOK
@@ -29,7 +28,6 @@ add address=102.221.190.0/24 list=FACEBOOK
 add address=102.221.191.0/24 list=FACEBOOK
 add address=129.134.130.0/24 list=FACEBOOK
 add address=129.134.131.0/24 list=FACEBOOK
-add address=129.134.132.0/24 list=FACEBOOK
 add address=129.134.135.0/24 list=FACEBOOK
 add address=129.134.136.0/24 list=FACEBOOK
 add address=129.134.137.0/24 list=FACEBOOK
@@ -66,7 +64,6 @@ add address=129.134.178.0/24 list=FACEBOOK
 add address=129.134.179.0/24 list=FACEBOOK
 add address=129.134.180.0/24 list=FACEBOOK
 add address=129.134.181.0/24 list=FACEBOOK
-add address=129.134.182.0/24 list=FACEBOOK
 add address=129.134.183.0/24 list=FACEBOOK
 add address=129.134.184.0/24 list=FACEBOOK
 add address=129.134.185.0/24 list=FACEBOOK
@@ -137,7 +134,6 @@ add address=57.141.12.0/24 list=FACEBOOK
 add address=57.144.0.0/14 list=FACEBOOK
 add address=57.144.102.0/23 list=FACEBOOK
 add address=57.144.104.0/23 list=FACEBOOK
-add address=57.144.108.0/23 list=FACEBOOK
 add address=57.144.110.0/23 list=FACEBOOK
 add address=57.144.112.0/23 list=FACEBOOK
 add address=57.144.116.0/23 list=FACEBOOK
@@ -157,6 +153,7 @@ add address=57.144.194.0/23 list=FACEBOOK
 add address=57.144.196.0/23 list=FACEBOOK
 add address=57.144.198.0/23 list=FACEBOOK
 add address=57.144.204.0/23 list=FACEBOOK
+add address=57.144.216.0/23 list=FACEBOOK
 add address=57.144.218.0/23 list=FACEBOOK
 add address=57.144.222.0/23 list=FACEBOOK
 add address=66.220.144.0/20 list=FACEBOOK
@@ -255,7 +252,6 @@ add address=2a03:2887:ff09::/48 list=FACEBOOK
 add address=2a03:2887:ff0a::/48 list=FACEBOOK
 add address=2a03:2887:ff1b::/48 list=FACEBOOK
 add address=2a03:2887:ff1c::/48 list=FACEBOOK
-add address=2a03:2887:ff1d::/48 list=FACEBOOK
 add address=2a03:2887:ff1e::/48 list=FACEBOOK
 add address=2a03:2887:ff1f::/48 list=FACEBOOK
 add address=2a03:2887:ff23::/48 list=FACEBOOK
@@ -488,7 +484,6 @@ add address=2a03:2880:f289::/48 list=FACEBOOK
 add address=2a03:2880:f2ff::/48 list=FACEBOOK
 add address=2a03:2880:f32a::/48 list=FACEBOOK
 add address=2a03:2880:f32b::/48 list=FACEBOOK
-add address=2a03:2880:f32d::/48 list=FACEBOOK
 add address=2a03:2880:f32e::/48 list=FACEBOOK
 add address=2a03:2880:f330::/48 list=FACEBOOK
 add address=2a03:2880:f33a::/48 list=FACEBOOK
@@ -508,6 +503,7 @@ add address=2a03:2880:f361::/48 list=FACEBOOK
 add address=2a03:2880:f362::/48 list=FACEBOOK
 add address=2a03:2880:f363::/48 list=FACEBOOK
 add address=2a03:2880:f366::/48 list=FACEBOOK
+add address=2a03:2880:f36c::/48 list=FACEBOOK
 add address=2a03:2880:f36d::/48 list=FACEBOOK
 add address=2a03:2880:f36f::/48 list=FACEBOOK
 add address=2a03:2880:f800::/48 list=FACEBOOK
