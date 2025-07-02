@@ -3,15 +3,15 @@
 # --------------------------------------------
 # Source: Linode Docs.
 # --------------------------------------------
-# Last Update - Tue Jul  1 06:00:45 +06 2025
+# Last Update - Wed Jul  2 06:00:46 +06 2025
 # --------------------------------------------
-# Total Prefixes: 4521
+# Total Prefixes: 4555
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=# This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805 list=LINODE
-add address=# Last modified: 2025-06-30 10:00:05.243488 list=LINODE
+add address=# Last modified: 2025-07-01 10:00:05.377331 list=LINODE
 add address=# ip_prefix list=LINODE
 add address=2600:3c00::/32 list=LINODE
 add address=2600:3c0f:2::/48 list=LINODE
@@ -99,6 +99,8 @@ add address=2600:3c12:0c00::/40 list=LINODE
 add address=2600:3c0f:50::/48 list=LINODE
 add address=2600:3c19::/32 list=LINODE
 add address=2600:3c0f:51::/48 list=LINODE
+add address=2600:3c1a::/32 list=LINODE
+add address=2600:3c0f:53::/48 list=LINODE
 add address=72.14.177.0/24 list=LINODE
 add address=72.14.176.0/24 list=LINODE
 add address=72.14.178.0/24 list=LINODE
@@ -4531,3 +4533,35 @@ add address=172.238.159.0/24 list=LINODE
 add address=172.238.128.0/24 list=LINODE
 add address=172.238.129.0/24 list=LINODE
 add address=172.238.132.0/24 list=LINODE
+add address=172.239.0.0/24 list=LINODE
+add address=172.239.1.0/24 list=LINODE
+add address=172.239.2.0/24 list=LINODE
+add address=172.239.3.0/24 list=LINODE
+add address=172.239.4.0/24 list=LINODE
+add address=172.239.5.0/24 list=LINODE
+add address=172.239.6.0/24 list=LINODE
+add address=172.239.7.0/24 list=LINODE
+add address=172.239.8.0/24 list=LINODE
+add address=172.239.9.0/24 list=LINODE
+add address=172.239.10.0/24 list=LINODE
+add address=172.239.11.0/24 list=LINODE
+add address=172.239.12.0/24 list=LINODE
+add address=172.239.13.0/24 list=LINODE
+add address=172.239.14.0/24 list=LINODE
+add address=172.239.15.0/24 list=LINODE
+add address=172.239.16.0/24 list=LINODE
+add address=172.239.17.0/24 list=LINODE
+add address=172.239.18.0/24 list=LINODE
+add address=172.239.19.0/24 list=LINODE
+add address=172.239.20.0/24 list=LINODE
+add address=172.239.21.0/24 list=LINODE
+add address=172.239.22.0/24 list=LINODE
+add address=172.239.23.0/24 list=LINODE
+add address=172.239.24.0/24 list=LINODE
+add address=172.239.25.0/24 list=LINODE
+add address=172.239.26.0/24 list=LINODE
+add address=172.239.27.0/24 list=LINODE
+add address=172.239.28.0/24 list=LINODE
+add address=172.239.29.0/24 list=LINODE
+add address=172.239.30.0/24 list=LINODE
+add address=172.239.31.0/24 list=LINODE
