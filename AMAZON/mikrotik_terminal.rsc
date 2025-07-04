@@ -3,16 +3,21 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Thu Jul  3 06:00:04 +06 2025
+# Last Update - Fri Jul  4 06:00:04 +06 2025
 # --------------------------------------------
-# Total Prefixes: 9020
+# Total Prefixes: 9029
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
+add address=1.178.10.0/24 list=AMAZON
+add address=1.178.11.0/24 list=AMAZON
+add address=1.178.4.0/24 list=AMAZON
 add address=1.178.5.0/24 list=AMAZON
 add address=1.178.6.0/24 list=AMAZON
+add address=1.178.64.0/24 list=AMAZON
 add address=1.178.65.0/24 list=AMAZON
+add address=1.178.7.0/24 list=AMAZON
 add address=1.178.72.0/21 list=AMAZON
 add address=1.178.8.0/24 list=AMAZON
 add address=1.178.9.0/24 list=AMAZON
@@ -4540,7 +4545,11 @@ add address=2600:f0f2:7011::/48 list=AMAZON
 add address=2600:f0f2:7012::/48 list=AMAZON
 add address=2600:f0f2:7013::/48 list=AMAZON
 add address=2600:f0f2:7014::/48 list=AMAZON
+add address=2600:f0f2:7015::/48 list=AMAZON
+add address=2600:f0f2:7016::/48 list=AMAZON
 add address=2600:f0f2:7017::/48 list=AMAZON
+add address=2600:f0f2:7018::/48 list=AMAZON
+add address=2600:f0f2:7019::/48 list=AMAZON
 add address=2600:f0f2:7100::/40 list=AMAZON
 add address=2600:f0f2:7100::/48 list=AMAZON
 add address=2600:f0f2:7101::/48 list=AMAZON
