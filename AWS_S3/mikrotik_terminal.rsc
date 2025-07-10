@@ -3,13 +3,15 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Wed Jul  9 06:00:07 +06 2025
+# Last Update - Thu Jul 10 06:00:06 +06 2025
 # --------------------------------------------
-# Total Prefixes: 327
+# Total Prefixes: 329
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
+add address=1.178.4.0/24 list=AWS_S3
+add address=1.178.5.0/24 list=AWS_S3
 add address=108.136.154.16/28 list=AWS_S3
 add address=108.136.154.32/28 list=AWS_S3
 add address=108.136.154.48/28 list=AWS_S3
