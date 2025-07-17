@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Wed Jul 16 06:00:52 +06 2025
+# Last Update - Thu Jul 17 06:00:51 +06 2025
 # --------------------------------------------
-# Total Prefixes: 1885
+# Total Prefixes: 1888
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -402,6 +402,7 @@ add address=45.137.9.0/24 list=ZENLAYER
 add address=45.155.158.0/24 list=ZENLAYER
 add address=45.156.131.0/24 list=ZENLAYER
 add address=45.192.245.0/24 list=ZENLAYER
+add address=45.194.112.0/23 list=ZENLAYER
 add address=45.197.9.0/24 list=ZENLAYER
 add address=45.198.106.0/24 list=ZENLAYER
 add address=45.199.186.0/24 list=ZENLAYER
@@ -1519,6 +1520,8 @@ add address=162.128.202.0/24 list=ZENLAYER
 add address=162.128.203.0/24 list=ZENLAYER
 add address=162.128.204.0/24 list=ZENLAYER
 add address=162.128.205.0/24 list=ZENLAYER
+add address=162.128.206.0/24 list=ZENLAYER
+add address=162.128.207.0/24 list=ZENLAYER
 add address=162.128.254.0/24 list=ZENLAYER
 add address=162.128.255.0/24 list=ZENLAYER
 add address=162.141.96.0/24 list=ZENLAYER
