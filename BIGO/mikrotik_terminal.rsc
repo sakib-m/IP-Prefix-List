@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Mon Jul 21 06:00:52 +06 2025
+# Last Update - Tue Jul 22 06:00:51 +06 2025
 # --------------------------------------------
-# Total Prefixes: 229
+# Total Prefixes: 235
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -159,7 +159,13 @@ add address=169.136.171.0/24 list=BIGO
 add address=169.136.172.0/24 list=BIGO
 add address=169.136.173.0/24 list=BIGO
 add address=169.136.174.0/24 list=BIGO
+add address=169.136.175.0/24 list=BIGO
 add address=169.136.176.0/24 list=BIGO
+add address=169.136.177.0/24 list=BIGO
+add address=169.136.178.0/24 list=BIGO
+add address=169.136.179.0/24 list=BIGO
+add address=169.136.180.0/24 list=BIGO
+add address=169.136.181.0/24 list=BIGO
 add address=169.136.182.0/24 list=BIGO
 add address=169.136.183.0/24 list=BIGO
 add address=169.136.184.0/24 list=BIGO
