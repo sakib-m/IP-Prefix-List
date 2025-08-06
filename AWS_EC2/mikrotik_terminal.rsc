@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Aug  5 06:00:06 +06 2025
+# Last Update - Wed Aug  6 06:00:09 +06 2025
 # --------------------------------------------
-# Total Prefixes: 1463
+# Total Prefixes: 1467
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -611,6 +611,10 @@ add address=3.4.4.0/24 list=AWS_EC2
 add address=3.4.6.0/24 list=AWS_EC2
 add address=3.4.8.0/24 list=AWS_EC2
 add address=3.4.9.0/24 list=AWS_EC2
+add address=3.40.0.0/17 list=AWS_EC2
+add address=3.41.128.0/17 list=AWS_EC2
+add address=3.42.0.0/17 list=AWS_EC2
+add address=3.42.128.0/17 list=AWS_EC2
 add address=3.5.0.0/19 list=AWS_EC2
 add address=3.5.128.0/22 list=AWS_EC2
 add address=3.5.132.0/23 list=AWS_EC2
