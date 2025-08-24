@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: Linode Docs.
 # --------------------------------------------
-# Last Update - Sat Aug 23 06:00:41 +06 2025
+# Last Update - Sun Aug 24 06:00:43 +06 2025
 # --------------------------------------------
 # Total Prefixes: 4546
 # --------------------------------------------
@@ -11,7 +11,7 @@
 # --------------------------------------------
 /ip firewall address-list
 add address=# This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805 list=LINODE
-add address=# Last modified: 2025-08-22 10:00:04.962221 list=LINODE
+add address=# Last modified: 2025-08-23 10:00:04.719223 list=LINODE
 add address=# ip_prefix list=LINODE
 add address=2600:3c00::/32 list=LINODE
 add address=2600:3c0f:2::/48 list=LINODE
@@ -3146,7 +3146,6 @@ add address=172.234.210.0/24 list=LINODE
 add address=172.234.211.0/24 list=LINODE
 add address=172.233.210.0/24 list=LINODE
 add address=172.236.96.0/24 list=LINODE
-add address=172.236.97.0/24 list=LINODE
 add address=172.236.98.0/24 list=LINODE
 add address=172.236.99.0/24 list=LINODE
 add address=172.236.100.0/24 list=LINODE
@@ -3154,7 +3153,6 @@ add address=172.236.101.0/24 list=LINODE
 add address=172.236.102.0/24 list=LINODE
 add address=172.236.103.0/24 list=LINODE
 add address=172.236.104.0/24 list=LINODE
-add address=172.236.105.0/24 list=LINODE
 add address=172.236.106.0/24 list=LINODE
 add address=172.236.107.0/24 list=LINODE
 add address=172.236.108.0/24 list=LINODE
@@ -3162,7 +3160,6 @@ add address=172.236.109.0/24 list=LINODE
 add address=172.236.110.0/24 list=LINODE
 add address=172.236.111.0/24 list=LINODE
 add address=172.236.112.0/24 list=LINODE
-add address=172.236.113.0/24 list=LINODE
 add address=172.236.114.0/24 list=LINODE
 add address=172.236.115.0/24 list=LINODE
 add address=172.236.116.0/24 list=LINODE
@@ -3214,7 +3211,6 @@ add address=172.238.161.0/24 list=LINODE
 add address=172.238.162.0/24 list=LINODE
 add address=172.238.163.0/24 list=LINODE
 add address=172.238.164.0/24 list=LINODE
-add address=172.238.165.0/24 list=LINODE
 add address=172.238.166.0/24 list=LINODE
 add address=172.238.167.0/24 list=LINODE
 add address=172.238.168.0/24 list=LINODE
@@ -3241,6 +3237,10 @@ add address=172.238.188.0/24 list=LINODE
 add address=172.238.189.0/24 list=LINODE
 add address=172.238.190.0/24 list=LINODE
 add address=172.238.191.0/24 list=LINODE
+add address=172.236.113.0/24 list=LINODE
+add address=172.236.105.0/24 list=LINODE
+add address=172.236.97.0/24 list=LINODE
+add address=172.238.165.0/24 list=LINODE
 add address=172.232.96.0/24 list=LINODE
 add address=172.232.97.0/24 list=LINODE
 add address=172.232.98.0/24 list=LINODE
