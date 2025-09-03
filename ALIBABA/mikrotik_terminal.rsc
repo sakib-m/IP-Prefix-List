@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Tue Sep  2 06:00:35 +06 2025
+# Last Update - Wed Sep  3 06:00:38 +06 2025
 # --------------------------------------------
-# Total Prefixes: 1832
+# Total Prefixes: 1835
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -67,6 +67,8 @@ add address=8.212.64.0/18 list=ALIBABA
 add address=8.212.128.0/18 list=ALIBABA
 add address=8.212.128.0/19 list=ALIBABA
 add address=8.212.160.0/19 list=ALIBABA
+add address=8.212.190.0/24 list=ALIBABA
+add address=8.212.191.0/24 list=ALIBABA
 add address=8.212.192.0/18 list=ALIBABA
 add address=8.212.192.0/19 list=ALIBABA
 add address=8.212.224.0/19 list=ALIBABA
@@ -258,6 +260,7 @@ add address=47.74.64.0/19 list=ALIBABA
 add address=47.74.96.0/19 list=ALIBABA
 add address=47.74.128.0/17 list=ALIBABA
 add address=47.74.128.0/18 list=ALIBABA
+add address=47.74.165.0/24 list=ALIBABA
 add address=47.74.192.0/18 list=ALIBABA
 add address=47.75.0.0/16 list=ALIBABA
 add address=47.75.0.0/17 list=ALIBABA
@@ -312,10 +315,6 @@ add address=47.79.48.0/21 list=ALIBABA
 add address=47.79.52.0/23 list=ALIBABA
 add address=47.79.54.0/23 list=ALIBABA
 add address=47.79.56.0/21 list=ALIBABA
-add address=47.79.56.0/23 list=ALIBABA
-add address=47.79.58.0/23 list=ALIBABA
-add address=47.79.60.0/23 list=ALIBABA
-add address=47.79.62.0/23 list=ALIBABA
 add address=47.79.64.0/20 list=ALIBABA
 add address=47.79.64.0/21 list=ALIBABA
 add address=47.79.72.0/21 list=ALIBABA
@@ -393,7 +392,11 @@ add address=47.86.0.0/17 list=ALIBABA
 add address=47.86.128.0/17 list=ALIBABA
 add address=47.87.0.0/18 list=ALIBABA
 add address=47.87.0.0/19 list=ALIBABA
+add address=47.87.4.0/24 list=ALIBABA
+add address=47.87.6.0/24 list=ALIBABA
 add address=47.87.32.0/19 list=ALIBABA
+add address=47.87.41.0/24 list=ALIBABA
+add address=47.87.42.0/24 list=ALIBABA
 add address=47.87.64.0/18 list=ALIBABA
 add address=47.87.64.0/19 list=ALIBABA
 add address=47.87.96.0/19 list=ALIBABA

@@ -3,13 +3,14 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Sep  2 06:00:05 +06 2025
+# Last Update - Wed Sep  3 06:00:06 +06 2025
 # --------------------------------------------
-# Total Prefixes: 1536
+# Total Prefixes: 1554
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
+add address=1.178.1.0/24 list=AWS_EC2
 add address=1.178.10.0/24 list=AWS_EC2
 add address=1.178.11.0/24 list=AWS_EC2
 add address=1.178.4.0/24 list=AWS_EC2
@@ -788,6 +789,23 @@ add address=35.50.236.0/24 list=AWS_EC2
 add address=35.50.237.0/24 list=AWS_EC2
 add address=35.50.238.0/24 list=AWS_EC2
 add address=35.50.239.0/24 list=AWS_EC2
+add address=35.54.32.0/21 list=AWS_EC2
+add address=35.54.40.0/22 list=AWS_EC2
+add address=35.54.44.0/23 list=AWS_EC2
+add address=35.54.46.0/23 list=AWS_EC2
+add address=35.54.48.0/23 list=AWS_EC2
+add address=35.54.50.0/24 list=AWS_EC2
+add address=35.54.51.0/24 list=AWS_EC2
+add address=35.54.52.0/24 list=AWS_EC2
+add address=35.54.53.0/24 list=AWS_EC2
+add address=35.54.54.0/24 list=AWS_EC2
+add address=35.54.55.0/24 list=AWS_EC2
+add address=35.54.56.0/24 list=AWS_EC2
+add address=35.54.57.0/24 list=AWS_EC2
+add address=35.54.58.0/24 list=AWS_EC2
+add address=35.54.59.0/24 list=AWS_EC2
+add address=35.54.60.0/24 list=AWS_EC2
+add address=35.54.61.0/24 list=AWS_EC2
 add address=35.54.62.0/24 list=AWS_EC2
 add address=35.55.1.0/24 list=AWS_EC2
 add address=35.55.10.0/24 list=AWS_EC2
