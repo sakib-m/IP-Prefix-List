@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Wed Sep  3 06:00:04 +06 2025
+# Last Update - Thu Sep  4 06:00:05 +06 2025
 # --------------------------------------------
-# Total Prefixes: 9068
+# Total Prefixes: 9084
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -4475,11 +4475,25 @@ add address=2600:f0f0:90:2600::/56 list=AMAZON
 add address=2600:f0f0:91::/48 list=AMAZON
 add address=2600:f0f0:a0::/48 list=AMAZON
 add address=2600:f0f0:a::/47 list=AMAZON
-add address=2600:f0f0:b2::/48 list=AMAZON
+add address=2600:f0f0:c000::/48 list=AMAZON
+add address=2600:f0f0:c001::/48 list=AMAZON
+add address=2600:f0f0:c002::/48 list=AMAZON
+add address=2600:f0f0:c003::/48 list=AMAZON
+add address=2600:f0f0:c004::/48 list=AMAZON
+add address=2600:f0f0:c005::/48 list=AMAZON
+add address=2600:f0f0:c040::/48 list=AMAZON
+add address=2600:f0f0:c041::/48 list=AMAZON
+add address=2600:f0f0:c042::/48 list=AMAZON
+add address=2600:f0f0:c043::/48 list=AMAZON
+add address=2600:f0f0:c044::/48 list=AMAZON
 add address=2600:f0f0:e00::/48 list=AMAZON
 add address=2600:f0f0:e01::/48 list=AMAZON
+add address=2600:f0f0:e02::/48 list=AMAZON
+add address=2600:f0f0:e03::/48 list=AMAZON
 add address=2600:f0f0:e04::/48 list=AMAZON
 add address=2600:f0f0:e05::/48 list=AMAZON
+add address=2600:f0f0:e06::/48 list=AMAZON
+add address=2600:f0f0:e07::/48 list=AMAZON
 add address=2600:f0f0:f00:100::/56 list=AMAZON
 add address=2600:f0f0:f00:200::/56 list=AMAZON
 add address=2600:f0f0:f00:300::/56 list=AMAZON
@@ -5252,6 +5266,8 @@ add address=3.101.52.208/30 list=AMAZON
 add address=3.101.52.212/30 list=AMAZON
 add address=3.101.87.0/26 list=AMAZON
 add address=3.102.0.0/15 list=AMAZON
+add address=3.102.119.112/28 list=AMAZON
+add address=3.102.119.96/28 list=AMAZON
 add address=3.102.38.0/24 list=AMAZON
 add address=3.102.47.0/24 list=AMAZON
 add address=3.102.48.0/24 list=AMAZON
