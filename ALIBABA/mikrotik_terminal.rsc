@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Thu Sep 25 06:00:39 +06 2025
+# Last Update - Fri Sep 26 06:00:39 +06 2025
 # --------------------------------------------
-# Total Prefixes: 1866
+# Total Prefixes: 1881
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -248,6 +248,9 @@ add address=43.103.64.0/18 list=ALIBABA
 add address=43.104.0.0/15 list=ALIBABA
 add address=43.104.0.0/16 list=ALIBABA
 add address=43.105.0.0/16 list=ALIBABA
+add address=43.106.0.0/15 list=ALIBABA
+add address=43.106.0.0/16 list=ALIBABA
+add address=43.107.0.0/16 list=ALIBABA
 add address=43.108.0.0/17 list=ALIBABA
 add address=43.108.0.0/18 list=ALIBABA
 add address=43.108.64.0/18 list=ALIBABA
@@ -257,6 +260,12 @@ add address=43.110.128.0/17 list=ALIBABA
 add address=43.111.0.0/16 list=ALIBABA
 add address=43.111.0.0/17 list=ALIBABA
 add address=43.111.128.0/17 list=ALIBABA
+add address=43.112.0.0/15 list=ALIBABA
+add address=43.112.0.0/16 list=ALIBABA
+add address=43.113.0.0/16 list=ALIBABA
+add address=43.114.0.0/16 list=ALIBABA
+add address=43.114.0.0/17 list=ALIBABA
+add address=43.114.128.0/17 list=ALIBABA
 add address=45.196.28.0/24 list=ALIBABA
 add address=45.199.179.0/24 list=ALIBABA
 add address=47.52.0.0/16 list=ALIBABA
@@ -314,6 +323,7 @@ add address=47.77.136.0/21 list=ALIBABA
 add address=47.77.144.0/21 list=ALIBABA
 add address=47.77.152.0/21 list=ALIBABA
 add address=47.77.192.0/18 list=ALIBABA
+add address=47.78.0.0/16 list=ALIBABA
 add address=47.78.0.0/17 list=ALIBABA
 add address=47.78.128.0/17 list=ALIBABA
 add address=47.79.0.0/20 list=ALIBABA
@@ -940,6 +950,12 @@ add address=8.163.128.0/17 list=ALIBABA
 add address=8.164.0.0/16 list=ALIBABA
 add address=8.164.0.0/17 list=ALIBABA
 add address=8.164.128.0/17 list=ALIBABA
+add address=8.165.0.0/16 list=ALIBABA
+add address=8.165.0.0/17 list=ALIBABA
+add address=8.165.128.0/17 list=ALIBABA
+add address=8.166.0.0/15 list=ALIBABA
+add address=8.166.0.0/16 list=ALIBABA
+add address=8.167.0.0/16 list=ALIBABA
 add address=39.96.0.0/13 list=ALIBABA
 add address=39.96.0.0/14 list=ALIBABA
 add address=39.100.0.0/14 list=ALIBABA
@@ -1596,7 +1612,6 @@ add address=147.139.254.0/24 list=ALIBABA
 add address=147.139.255.0/24 list=ALIBABA
 add address=149.134.179.0/24 list=ALIBABA
 add address=155.102.71.0/24 list=ALIBABA
-add address=155.102.98.0/24 list=ALIBABA
 add address=163.181.41.0/24 list=ALIBABA
 add address=163.181.208.0/24 list=ALIBABA
 add address=170.33.0.0/24 list=ALIBABA
