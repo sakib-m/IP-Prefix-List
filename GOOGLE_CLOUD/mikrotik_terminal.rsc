@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Sat Sep 27 06:00:09 +06 2025
+# Last Update - Sun Sep 28 06:00:09 +06 2025
 # --------------------------------------------
-# Total Prefixes: 820
+# Total Prefixes: 838
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -75,6 +75,7 @@ add address=35.242.56.0/22 list=GOOGLE_CLOUD
 add address=35.243.64.0/18 list=GOOGLE_CLOUD
 add address=104.198.80.0/20 list=GOOGLE_CLOUD
 add address=104.198.112.0/20 list=GOOGLE_CLOUD
+add address=136.110.64.0/18 list=GOOGLE_CLOUD
 add address=34.97.0.0/16 list=GOOGLE_CLOUD
 add address=34.104.49.0/24 list=GOOGLE_CLOUD
 add address=34.127.177.0/24 list=GOOGLE_CLOUD
@@ -181,6 +182,7 @@ add address=35.234.192.0/20 list=GOOGLE_CLOUD
 add address=35.240.128.0/17 list=GOOGLE_CLOUD
 add address=35.242.24.0/23 list=GOOGLE_CLOUD
 add address=35.247.128.0/18 list=GOOGLE_CLOUD
+add address=136.110.0.0/18 list=GOOGLE_CLOUD
 add address=34.34.216.0/21 list=GOOGLE_CLOUD
 add address=34.50.64.0/18 list=GOOGLE_CLOUD
 add address=34.101.18.0/24 list=GOOGLE_CLOUD
@@ -225,6 +227,7 @@ add address=34.129.0.0/16 list=GOOGLE_CLOUD
 add address=34.152.101.0/24 list=GOOGLE_CLOUD
 add address=34.177.69.0/24 list=GOOGLE_CLOUD
 add address=34.0.240.0/20 list=GOOGLE_CLOUD
+add address=34.4.64.0/20 list=GOOGLE_CLOUD
 add address=34.104.116.0/22 list=GOOGLE_CLOUD
 add address=34.116.128.0/17 list=GOOGLE_CLOUD
 add address=34.118.0.0/17 list=GOOGLE_CLOUD
@@ -306,6 +309,7 @@ add address=34.157.250.0/23 list=GOOGLE_CLOUD
 add address=34.177.65.0/25 list=GOOGLE_CLOUD
 add address=34.177.78.0/25 list=GOOGLE_CLOUD
 add address=34.183.3.128/25 list=GOOGLE_CLOUD
+add address=34.4.48.0/20 list=GOOGLE_CLOUD
 add address=34.13.0.0/18 list=GOOGLE_CLOUD
 add address=34.39.0.0/17 list=GOOGLE_CLOUD
 add address=34.50.192.0/18 list=GOOGLE_CLOUD
@@ -313,6 +317,7 @@ add address=34.89.0.0/17 list=GOOGLE_CLOUD
 add address=34.105.128.0/17 list=GOOGLE_CLOUD
 add address=34.127.186.0/23 list=GOOGLE_CLOUD
 add address=34.128.52.0/22 list=GOOGLE_CLOUD
+add address=34.128.224.0/20 list=GOOGLE_CLOUD
 add address=34.142.0.0/17 list=GOOGLE_CLOUD
 add address=34.147.128.0/17 list=GOOGLE_CLOUD
 add address=34.153.128.0/18 list=GOOGLE_CLOUD
@@ -566,7 +571,9 @@ add address=34.170.0.0/15 list=GOOGLE_CLOUD
 add address=34.172.0.0/15 list=GOOGLE_CLOUD
 add address=34.177.52.0/22 list=GOOGLE_CLOUD
 add address=34.183.16.0/22 list=GOOGLE_CLOUD
+add address=34.183.40.0/21 list=GOOGLE_CLOUD
 add address=34.184.16.0/22 list=GOOGLE_CLOUD
+add address=34.184.40.0/21 list=GOOGLE_CLOUD
 add address=35.184.0.0/16 list=GOOGLE_CLOUD
 add address=35.188.0.0/17 list=GOOGLE_CLOUD
 add address=35.188.128.0/18 list=GOOGLE_CLOUD
@@ -604,7 +611,10 @@ add address=130.211.112.0/20 list=GOOGLE_CLOUD
 add address=130.211.128.0/18 list=GOOGLE_CLOUD
 add address=130.211.192.0/19 list=GOOGLE_CLOUD
 add address=130.211.224.0/20 list=GOOGLE_CLOUD
+add address=136.111.0.0/16 list=GOOGLE_CLOUD
 add address=136.112.0.0/14 list=GOOGLE_CLOUD
+add address=136.116.0.0/16 list=GOOGLE_CLOUD
+add address=136.119.0.0/16 list=GOOGLE_CLOUD
 add address=146.148.32.0/19 list=GOOGLE_CLOUD
 add address=146.148.64.0/19 list=GOOGLE_CLOUD
 add address=146.148.96.0/20 list=GOOGLE_CLOUD
@@ -661,6 +671,7 @@ add address=104.196.68.0/22 list=GOOGLE_CLOUD
 add address=104.196.96.0/19 list=GOOGLE_CLOUD
 add address=104.196.128.0/18 list=GOOGLE_CLOUD
 add address=104.196.192.0/19 list=GOOGLE_CLOUD
+add address=136.108.0.0/16 list=GOOGLE_CLOUD
 add address=162.216.148.0/22 list=GOOGLE_CLOUD
 add address=34.4.32.0/20 list=GOOGLE_CLOUD
 add address=34.11.0.0/17 list=GOOGLE_CLOUD
@@ -700,8 +711,12 @@ add address=35.236.192.0/18 list=GOOGLE_CLOUD
 add address=35.242.60.0/22 list=GOOGLE_CLOUD
 add address=35.243.40.0/21 list=GOOGLE_CLOUD
 add address=35.245.0.0/16 list=GOOGLE_CLOUD
+add address=136.107.0.0/16 list=GOOGLE_CLOUD
 add address=34.1.16.0/20 list=GOOGLE_CLOUD
 add address=34.127.160.0/20 list=GOOGLE_CLOUD
+add address=34.144.176.0/20 list=GOOGLE_CLOUD
+add address=34.152.112.0/20 list=GOOGLE_CLOUD
+add address=34.153.16.0/20 list=GOOGLE_CLOUD
 add address=34.157.32.0/22 list=GOOGLE_CLOUD
 add address=34.157.160.0/22 list=GOOGLE_CLOUD
 add address=34.162.0.0/16 list=GOOGLE_CLOUD
@@ -710,6 +725,7 @@ add address=34.127.184.0/23 list=GOOGLE_CLOUD
 add address=34.161.0.0/16 list=GOOGLE_CLOUD
 add address=35.206.10.0/23 list=GOOGLE_CLOUD
 add address=34.0.128.0/19 list=GOOGLE_CLOUD
+add address=34.127.156.0/22 list=GOOGLE_CLOUD
 add address=34.157.46.0/23 list=GOOGLE_CLOUD
 add address=34.157.174.0/23 list=GOOGLE_CLOUD
 add address=34.174.0.0/16 list=GOOGLE_CLOUD
@@ -746,9 +762,11 @@ add address=104.196.224.0/19 list=GOOGLE_CLOUD
 add address=104.198.0.0/20 list=GOOGLE_CLOUD
 add address=104.198.96.0/20 list=GOOGLE_CLOUD
 add address=104.199.112.0/20 list=GOOGLE_CLOUD
+add address=136.109.0.0/16 list=GOOGLE_CLOUD
 add address=136.117.0.0/16 list=GOOGLE_CLOUD
 add address=136.118.0.0/16 list=GOOGLE_CLOUD
 add address=34.2.76.0/23 list=GOOGLE_CLOUD
+add address=34.4.28.0/22 list=GOOGLE_CLOUD
 add address=34.20.128.0/17 list=GOOGLE_CLOUD
 add address=34.94.0.0/16 list=GOOGLE_CLOUD
 add address=34.102.0.0/17 list=GOOGLE_CLOUD
