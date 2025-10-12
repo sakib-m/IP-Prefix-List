@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Sat Oct 11 06:00:10 +06 2025
+# Last Update - Sun Oct 12 06:00:09 +06 2025
 # --------------------------------------------
-# Total Prefixes: 843
+# Total Prefixes: 850
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -313,6 +313,10 @@ add address=34.157.250.0/23 list=GOOGLE_CLOUD
 add address=34.177.65.0/25 list=GOOGLE_CLOUD
 add address=34.177.78.0/25 list=GOOGLE_CLOUD
 add address=34.183.3.128/25 list=GOOGLE_CLOUD
+add address=34.2.96.0/20 list=GOOGLE_CLOUD
+add address=34.15.0.0/17 list=GOOGLE_CLOUD
+add address=34.152.108.0/23 list=GOOGLE_CLOUD
+add address=34.177.76.0/23 list=GOOGLE_CLOUD
 add address=34.4.48.0/20 list=GOOGLE_CLOUD
 add address=34.13.0.0/18 list=GOOGLE_CLOUD
 add address=34.39.0.0/17 list=GOOGLE_CLOUD
@@ -423,6 +427,7 @@ add address=34.155.0.0/16 list=GOOGLE_CLOUD
 add address=34.157.12.0/22 list=GOOGLE_CLOUD
 add address=34.157.140.0/22 list=GOOGLE_CLOUD
 add address=34.163.0.0/16 list=GOOGLE_CLOUD
+add address=34.3.2.0/27 list=GOOGLE_CLOUD
 add address=34.8.0.0/16 list=GOOGLE_CLOUD
 add address=34.13.72.0/21 list=GOOGLE_CLOUD
 add address=34.13.112.0/20 list=GOOGLE_CLOUD
@@ -458,6 +463,7 @@ add address=130.211.4.0/22 list=GOOGLE_CLOUD
 add address=130.211.8.0/21 list=GOOGLE_CLOUD
 add address=130.211.16.0/20 list=GOOGLE_CLOUD
 add address=130.211.32.0/20 list=GOOGLE_CLOUD
+add address=136.110.128.0/17 list=GOOGLE_CLOUD
 add address=34.1.32.0/20 list=GOOGLE_CLOUD
 add address=34.18.0.0/16 list=GOOGLE_CLOUD
 add address=34.157.126.0/23 list=GOOGLE_CLOUD
@@ -826,6 +832,7 @@ add address=2600:1901:8100::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4010::/44 list=GOOGLE_CLOUD
 add address=2600:1901:81f0::/44 list=GOOGLE_CLOUD
 add address=2600:1901:81b0::/44 list=GOOGLE_CLOUD
+add address=2600:1900:42c0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:40c0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:40d0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4060::/44 list=GOOGLE_CLOUD
