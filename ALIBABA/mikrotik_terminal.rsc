@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Tue Oct 21 06:00:38 +06 2025
+# Last Update - Wed Oct 22 06:00:46 +06 2025
 # --------------------------------------------
-# Total Prefixes: 3776
+# Total Prefixes: 3778
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -752,6 +752,7 @@ add address=149.129.192.0/18 list=ALIBABA
 add address=149.129.192.0/19 list=ALIBABA
 add address=149.129.224.0/19 list=ALIBABA
 add address=156.227.20.0/24 list=ALIBABA
+add address=156.236.12.0/24 list=ALIBABA
 add address=156.236.17.0/24 list=ALIBABA
 add address=156.240.76.0/23 list=ALIBABA
 add address=161.117.0.0/16 list=ALIBABA
@@ -767,10 +768,6 @@ add address=170.33.20.0/24 list=ALIBABA
 add address=170.33.21.0/24 list=ALIBABA
 add address=170.33.22.0/24 list=ALIBABA
 add address=170.33.23.0/24 list=ALIBABA
-add address=170.33.24.0/24 list=ALIBABA
-add address=170.33.29.0/24 list=ALIBABA
-add address=170.33.30.0/24 list=ALIBABA
-add address=170.33.31.0/24 list=ALIBABA
 add address=170.33.32.0/24 list=ALIBABA
 add address=170.33.33.0/24 list=ALIBABA
 add address=170.33.34.0/24 list=ALIBABA
@@ -1561,6 +1558,7 @@ add address=149.129.192.0/18 list=ALIBABA
 add address=149.129.192.0/19 list=ALIBABA
 add address=149.129.224.0/19 list=ALIBABA
 add address=156.227.20.0/24 list=ALIBABA
+add address=156.236.12.0/24 list=ALIBABA
 add address=156.236.17.0/24 list=ALIBABA
 add address=156.240.76.0/23 list=ALIBABA
 add address=161.117.0.0/16 list=ALIBABA
@@ -1576,10 +1574,6 @@ add address=170.33.20.0/24 list=ALIBABA
 add address=170.33.21.0/24 list=ALIBABA
 add address=170.33.22.0/24 list=ALIBABA
 add address=170.33.23.0/24 list=ALIBABA
-add address=170.33.24.0/24 list=ALIBABA
-add address=170.33.29.0/24 list=ALIBABA
-add address=170.33.30.0/24 list=ALIBABA
-add address=170.33.31.0/24 list=ALIBABA
 add address=170.33.32.0/24 list=ALIBABA
 add address=170.33.33.0/24 list=ALIBABA
 add address=170.33.34.0/24 list=ALIBABA
@@ -3127,6 +3121,10 @@ add address=170.33.14.0/24 list=ALIBABA
 add address=170.33.15.0/24 list=ALIBABA
 add address=170.33.16.0/22 list=ALIBABA
 add address=170.33.24.0/21 list=ALIBABA
+add address=170.33.24.0/24 list=ALIBABA
+add address=170.33.29.0/24 list=ALIBABA
+add address=170.33.30.0/24 list=ALIBABA
+add address=170.33.31.0/24 list=ALIBABA
 add address=170.33.32.0/21 list=ALIBABA
 add address=170.33.40.0/24 list=ALIBABA
 add address=170.33.41.0/24 list=ALIBABA
@@ -3330,6 +3328,10 @@ add address=170.33.14.0/24 list=ALIBABA
 add address=170.33.15.0/24 list=ALIBABA
 add address=170.33.16.0/22 list=ALIBABA
 add address=170.33.24.0/21 list=ALIBABA
+add address=170.33.24.0/24 list=ALIBABA
+add address=170.33.29.0/24 list=ALIBABA
+add address=170.33.30.0/24 list=ALIBABA
+add address=170.33.31.0/24 list=ALIBABA
 add address=170.33.32.0/21 list=ALIBABA
 add address=170.33.40.0/24 list=ALIBABA
 add address=170.33.41.0/24 list=ALIBABA
