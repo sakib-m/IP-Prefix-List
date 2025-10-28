@@ -3,37 +3,13 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Mon Oct 27 06:00:46 +06 2025
+# Last Update - Tue Oct 28 06:00:48 +06 2025
 # --------------------------------------------
-# Total Prefixes: 168
+# Total Prefixes: 160
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
-add address=98.98.108.0/23 list=ZENLAYER
-add address=103.167.50.0/23 list=ZENLAYER
-add address=165.101.152.0/24 list=ZENLAYER
-add address=98.98.108.0/23 list=ZENLAYER
-add address=103.167.50.0/23 list=ZENLAYER
-add address=165.101.152.0/24 list=ZENLAYER
-add address=23.251.35.0/24 list=ZENLAYER
-add address=107.151.194.0/24 list=ZENLAYER
-add address=128.14.138.0/24 list=ZENLAYER
-add address=128.14.161.0/24 list=ZENLAYER
-add address=198.44.172.0/24 list=ZENLAYER
-add address=198.44.173.0/24 list=ZENLAYER
-add address=198.44.174.0/24 list=ZENLAYER
-add address=198.44.175.0/24 list=ZENLAYER
-add address=216.225.162.0/24 list=ZENLAYER
-add address=23.251.35.0/24 list=ZENLAYER
-add address=107.151.194.0/24 list=ZENLAYER
-add address=128.14.138.0/24 list=ZENLAYER
-add address=128.14.161.0/24 list=ZENLAYER
-add address=198.44.172.0/24 list=ZENLAYER
-add address=198.44.173.0/24 list=ZENLAYER
-add address=198.44.174.0/24 list=ZENLAYER
-add address=198.44.175.0/24 list=ZENLAYER
-add address=216.225.162.0/24 list=ZENLAYER
 add address=2602:ffe4:c68::/46 list=ZENLAYER
 add address=2602:ffe4:c74::/46 list=ZENLAYER
 add address=2602:ffe4:c80::/48 list=ZENLAYER
@@ -174,7 +150,23 @@ add address=2a0b:21c1:6024::/48 list=ZENLAYER
 add address=2a0b:21c1:6025::/48 list=ZENLAYER
 add address=2a0b:21c1:6026::/48 list=ZENLAYER
 add address=2a0b:21c1:6027::/48 list=ZENLAYER
-add address=2607:81c0::/48 list=ZENLAYER
-add address=2a0b:21c1:601c::/48 list=ZENLAYER
-add address=2607:81c0::/48 list=ZENLAYER
-add address=2a0b:21c1:601c::/48 list=ZENLAYER
+add address=2404:ff40::/32 list=ZENLAYER
+add address=2404:ff40::/36 list=ZENLAYER
+add address=2404:ff40:1000::/36 list=ZENLAYER
+add address=2404:ff40:2000::/36 list=ZENLAYER
+add address=2404:ff40:3000::/36 list=ZENLAYER
+add address=2404:ff40:4000::/36 list=ZENLAYER
+add address=2404:ff40:5000::/36 list=ZENLAYER
+add address=2404:ff40:6000::/36 list=ZENLAYER
+add address=2404:ff40:7000::/36 list=ZENLAYER
+add address=2404:ff40:8000::/36 list=ZENLAYER
+add address=2404:ff40::/32 list=ZENLAYER
+add address=2404:ff40::/36 list=ZENLAYER
+add address=2404:ff40:1000::/36 list=ZENLAYER
+add address=2404:ff40:2000::/36 list=ZENLAYER
+add address=2404:ff40:3000::/36 list=ZENLAYER
+add address=2404:ff40:4000::/36 list=ZENLAYER
+add address=2404:ff40:5000::/36 list=ZENLAYER
+add address=2404:ff40:6000::/36 list=ZENLAYER
+add address=2404:ff40:7000::/36 list=ZENLAYER
+add address=2404:ff40:8000::/36 list=ZENLAYER
