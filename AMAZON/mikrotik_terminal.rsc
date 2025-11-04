@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Mon Nov  3 06:00:03 +06 2025
+# Last Update - Tue Nov  4 06:00:04 +06 2025
 # --------------------------------------------
 # Total Prefixes: 9378
 # --------------------------------------------
@@ -3188,7 +3188,6 @@ add address=23.228.194.0/24 list=AMAZON
 add address=23.228.196.0/24 list=AMAZON
 add address=23.228.197.0/24 list=AMAZON
 add address=23.228.198.0/24 list=AMAZON
-add address=23.228.224.0/19 list=AMAZON
 add address=23.254.0.0/21 list=AMAZON
 add address=23.254.120.0/21 list=AMAZON
 add address=23.254.16.0/21 list=AMAZON
@@ -5040,6 +5039,7 @@ add address=2620:108:700f::/64 list=AMAZON
 add address=2620:108:d000::/44 list=AMAZON
 add address=2620:108:d00f::/64 list=AMAZON
 add address=2631:0:1::/48 list=AMAZON
+add address=2631:0:2::/48 list=AMAZON
 add address=2631:1:45c0::/48 list=AMAZON
 add address=2631:1:4680::/48 list=AMAZON
 add address=2631:1:46c0::/48 list=AMAZON
