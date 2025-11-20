@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Wed Nov 19 06:00:07 +06 2025
+# Last Update - Thu Nov 20 06:00:07 +06 2025
 # --------------------------------------------
-# Total Prefixes: 1633
+# Total Prefixes: 1638
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -40,7 +40,6 @@ add address=108.136.0.0/15 list=AWS_EC2
 add address=108.175.56.0/22 list=AWS_EC2
 add address=108.175.60.0/22 list=AWS_EC2
 add address=110.238.2.0/23 list=AWS_EC2
-add address=122.200.61.0/24 list=AWS_EC2
 add address=122.248.192.0/18 list=AWS_EC2
 add address=13.112.0.0/14 list=AWS_EC2
 add address=13.124.0.0/16 list=AWS_EC2
@@ -57,6 +56,7 @@ add address=13.158.0.0/15 list=AWS_EC2
 add address=13.160.0.0/16 list=AWS_EC2
 add address=13.162.0.0/16 list=AWS_EC2
 add address=13.192.0.0/16 list=AWS_EC2
+add address=13.193.0.0/16 list=AWS_EC2
 add address=13.200.0.0/15 list=AWS_EC2
 add address=13.202.0.0/15 list=AWS_EC2
 add address=13.204.0.0/14 list=AWS_EC2
@@ -286,8 +286,10 @@ add address=15.220.56.0/21 list=AWS_EC2
 add address=15.220.64.0/20 list=AWS_EC2
 add address=15.220.80.0/20 list=AWS_EC2
 add address=15.222.0.0/15 list=AWS_EC2
+add address=15.224.0.0/16 list=AWS_EC2
 add address=15.228.0.0/15 list=AWS_EC2
 add address=15.232.0.0/16 list=AWS_EC2
+add address=15.233.0.0/16 list=AWS_EC2
 add address=15.236.0.0/15 list=AWS_EC2
 add address=15.240.0.0/16 list=AWS_EC2
 add address=15.253.0.0/16 list=AWS_EC2
@@ -331,6 +333,8 @@ add address=16.140.0.0/16 list=AWS_EC2
 add address=16.144.0.0/16 list=AWS_EC2
 add address=16.145.0.0/16 list=AWS_EC2
 add address=16.146.0.0/16 list=AWS_EC2
+add address=16.147.0.0/16 list=AWS_EC2
+add address=16.148.0.0/16 list=AWS_EC2
 add address=16.15.0.0/21 list=AWS_EC2
 add address=16.15.12.0/22 list=AWS_EC2
 add address=16.15.16.0/22 list=AWS_EC2
@@ -1038,6 +1042,7 @@ add address=43.212.0.0/15 list=AWS_EC2
 add address=43.216.0.0/15 list=AWS_EC2
 add address=43.218.0.0/16 list=AWS_EC2
 add address=43.220.0.0/16 list=AWS_EC2
+add address=43.226.24.0/23 list=AWS_EC2
 add address=44.192.0.0/11 list=AWS_EC2
 add address=44.224.0.0/11 list=AWS_EC2
 add address=45.57.128.0/18 list=AWS_EC2
