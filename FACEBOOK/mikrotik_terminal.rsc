@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sat Nov 22 06:00:42 +06 2025
+# Last Update - Sun Nov 23 06:00:42 +06 2025
 # --------------------------------------------
-# Total Prefixes: 1080
+# Total Prefixes: 1120
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -226,13 +226,21 @@ add address=31.13.93.0/24 list=FACEBOOK
 add address=31.13.96.0/19 list=FACEBOOK
 add address=45.64.40.0/22 list=FACEBOOK
 add address=57.141.0.0/24 list=FACEBOOK
+add address=57.141.1.0/24 list=FACEBOOK
 add address=57.141.2.0/24 list=FACEBOOK
+add address=57.141.3.0/24 list=FACEBOOK
 add address=57.141.4.0/24 list=FACEBOOK
+add address=57.141.5.0/24 list=FACEBOOK
 add address=57.141.6.0/24 list=FACEBOOK
+add address=57.141.7.0/24 list=FACEBOOK
 add address=57.141.8.0/24 list=FACEBOOK
+add address=57.141.9.0/24 list=FACEBOOK
 add address=57.141.10.0/24 list=FACEBOOK
+add address=57.141.11.0/24 list=FACEBOOK
 add address=57.141.12.0/24 list=FACEBOOK
+add address=57.141.13.0/24 list=FACEBOOK
 add address=57.141.14.0/24 list=FACEBOOK
+add address=57.141.15.0/24 list=FACEBOOK
 add address=57.144.0.0/14 list=FACEBOOK
 add address=57.144.14.0/23 list=FACEBOOK
 add address=57.144.22.0/23 list=FACEBOOK
@@ -264,6 +272,7 @@ add address=57.144.216.0/23 list=FACEBOOK
 add address=57.144.218.0/23 list=FACEBOOK
 add address=57.144.220.0/23 list=FACEBOOK
 add address=57.144.222.0/23 list=FACEBOOK
+add address=57.144.234.0/23 list=FACEBOOK
 add address=57.144.236.0/23 list=FACEBOOK
 add address=57.144.238.0/23 list=FACEBOOK
 add address=57.144.240.0/23 list=FACEBOOK
@@ -285,6 +294,7 @@ add address=74.119.76.0/22 list=FACEBOOK
 add address=102.132.96.0/20 list=FACEBOOK
 add address=103.4.96.0/22 list=FACEBOOK
 add address=129.134.0.0/17 list=FACEBOOK
+add address=129.134.24.0/23 list=FACEBOOK
 add address=129.134.25.0/24 list=FACEBOOK
 add address=129.134.26.0/24 list=FACEBOOK
 add address=129.134.27.0/24 list=FACEBOOK
@@ -375,13 +385,21 @@ add address=31.13.93.0/24 list=FACEBOOK
 add address=31.13.96.0/19 list=FACEBOOK
 add address=45.64.40.0/22 list=FACEBOOK
 add address=57.141.0.0/24 list=FACEBOOK
+add address=57.141.1.0/24 list=FACEBOOK
 add address=57.141.2.0/24 list=FACEBOOK
+add address=57.141.3.0/24 list=FACEBOOK
 add address=57.141.4.0/24 list=FACEBOOK
+add address=57.141.5.0/24 list=FACEBOOK
 add address=57.141.6.0/24 list=FACEBOOK
+add address=57.141.7.0/24 list=FACEBOOK
 add address=57.141.8.0/24 list=FACEBOOK
+add address=57.141.9.0/24 list=FACEBOOK
 add address=57.141.10.0/24 list=FACEBOOK
+add address=57.141.11.0/24 list=FACEBOOK
 add address=57.141.12.0/24 list=FACEBOOK
+add address=57.141.13.0/24 list=FACEBOOK
 add address=57.141.14.0/24 list=FACEBOOK
+add address=57.141.15.0/24 list=FACEBOOK
 add address=57.144.0.0/14 list=FACEBOOK
 add address=57.144.14.0/23 list=FACEBOOK
 add address=57.144.22.0/23 list=FACEBOOK
@@ -413,6 +431,7 @@ add address=57.144.216.0/23 list=FACEBOOK
 add address=57.144.218.0/23 list=FACEBOOK
 add address=57.144.220.0/23 list=FACEBOOK
 add address=57.144.222.0/23 list=FACEBOOK
+add address=57.144.234.0/23 list=FACEBOOK
 add address=57.144.236.0/23 list=FACEBOOK
 add address=57.144.238.0/23 list=FACEBOOK
 add address=57.144.240.0/23 list=FACEBOOK
@@ -434,6 +453,7 @@ add address=74.119.76.0/22 list=FACEBOOK
 add address=102.132.96.0/20 list=FACEBOOK
 add address=103.4.96.0/22 list=FACEBOOK
 add address=129.134.0.0/17 list=FACEBOOK
+add address=129.134.24.0/23 list=FACEBOOK
 add address=129.134.25.0/24 list=FACEBOOK
 add address=129.134.26.0/24 list=FACEBOOK
 add address=129.134.27.0/24 list=FACEBOOK
@@ -853,6 +873,7 @@ add address=2a03:2880:f36c::/48 list=FACEBOOK
 add address=2a03:2880:f36d::/48 list=FACEBOOK
 add address=2a03:2880:f36e::/48 list=FACEBOOK
 add address=2a03:2880:f36f::/48 list=FACEBOOK
+add address=2a03:2880:f375::/48 list=FACEBOOK
 add address=2a03:2880:f376::/48 list=FACEBOOK
 add address=2a03:2880:f377::/48 list=FACEBOOK
 add address=2a03:2880:f378::/48 list=FACEBOOK
@@ -861,15 +882,24 @@ add address=2a03:2880:f37c::/48 list=FACEBOOK
 add address=2a03:2880:f37d::/48 list=FACEBOOK
 add address=2a03:2880:f37e::/48 list=FACEBOOK
 add address=2a03:2880:f800::/48 list=FACEBOOK
+add address=2a03:2880:f801::/48 list=FACEBOOK
 add address=2a03:2880:f802::/48 list=FACEBOOK
+add address=2a03:2880:f803::/48 list=FACEBOOK
 add address=2a03:2880:f804::/48 list=FACEBOOK
+add address=2a03:2880:f805::/48 list=FACEBOOK
 add address=2a03:2880:f806::/48 list=FACEBOOK
+add address=2a03:2880:f807::/48 list=FACEBOOK
 add address=2a03:2880:f808::/48 list=FACEBOOK
+add address=2a03:2880:f809::/48 list=FACEBOOK
 add address=2a03:2880:f80a::/48 list=FACEBOOK
+add address=2a03:2880:f80b::/48 list=FACEBOOK
 add address=2a03:2880:f80c::/48 list=FACEBOOK
+add address=2a03:2880:f80d::/48 list=FACEBOOK
 add address=2a03:2880:f80e::/48 list=FACEBOOK
+add address=2a03:2880:f80f::/48 list=FACEBOOK
 add address=2a03:2880:ff00::/48 list=FACEBOOK
 add address=2a03:2880:ff01::/48 list=FACEBOOK
+add address=2a03:2880:ff08::/47 list=FACEBOOK
 add address=2a03:2880:ff08::/48 list=FACEBOOK
 add address=2a03:2880:ff09::/48 list=FACEBOOK
 add address=2a03:2880:ff0a::/48 list=FACEBOOK
@@ -1066,6 +1096,7 @@ add address=2a03:2880:f36c::/48 list=FACEBOOK
 add address=2a03:2880:f36d::/48 list=FACEBOOK
 add address=2a03:2880:f36e::/48 list=FACEBOOK
 add address=2a03:2880:f36f::/48 list=FACEBOOK
+add address=2a03:2880:f375::/48 list=FACEBOOK
 add address=2a03:2880:f376::/48 list=FACEBOOK
 add address=2a03:2880:f377::/48 list=FACEBOOK
 add address=2a03:2880:f378::/48 list=FACEBOOK
@@ -1074,15 +1105,24 @@ add address=2a03:2880:f37c::/48 list=FACEBOOK
 add address=2a03:2880:f37d::/48 list=FACEBOOK
 add address=2a03:2880:f37e::/48 list=FACEBOOK
 add address=2a03:2880:f800::/48 list=FACEBOOK
+add address=2a03:2880:f801::/48 list=FACEBOOK
 add address=2a03:2880:f802::/48 list=FACEBOOK
+add address=2a03:2880:f803::/48 list=FACEBOOK
 add address=2a03:2880:f804::/48 list=FACEBOOK
+add address=2a03:2880:f805::/48 list=FACEBOOK
 add address=2a03:2880:f806::/48 list=FACEBOOK
+add address=2a03:2880:f807::/48 list=FACEBOOK
 add address=2a03:2880:f808::/48 list=FACEBOOK
+add address=2a03:2880:f809::/48 list=FACEBOOK
 add address=2a03:2880:f80a::/48 list=FACEBOOK
+add address=2a03:2880:f80b::/48 list=FACEBOOK
 add address=2a03:2880:f80c::/48 list=FACEBOOK
+add address=2a03:2880:f80d::/48 list=FACEBOOK
 add address=2a03:2880:f80e::/48 list=FACEBOOK
+add address=2a03:2880:f80f::/48 list=FACEBOOK
 add address=2a03:2880:ff00::/48 list=FACEBOOK
 add address=2a03:2880:ff01::/48 list=FACEBOOK
+add address=2a03:2880:ff08::/47 list=FACEBOOK
 add address=2a03:2880:ff08::/48 list=FACEBOOK
 add address=2a03:2880:ff09::/48 list=FACEBOOK
 add address=2a03:2880:ff0a::/48 list=FACEBOOK
