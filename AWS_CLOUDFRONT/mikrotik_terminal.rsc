@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Nov 25 06:00:05 +06 2025
+# Last Update - Wed Nov 26 06:00:05 +06 2025
 # --------------------------------------------
-# Total Prefixes: 197
+# Total Prefixes: 198
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -97,6 +97,7 @@ add address=216.137.32.0/19 list=AWS_CLOUDFRONT
 add address=23.228.220.0/24 list=AWS_CLOUDFRONT
 add address=23.228.221.0/24 list=AWS_CLOUDFRONT
 add address=23.228.222.0/24 list=AWS_CLOUDFRONT
+add address=23.228.223.0/24 list=AWS_CLOUDFRONT
 add address=23.91.0.0/19 list=AWS_CLOUDFRONT
 add address=24.110.32.0/19 list=AWS_CLOUDFRONT
 add address=3.10.17.128/25 list=AWS_CLOUDFRONT
