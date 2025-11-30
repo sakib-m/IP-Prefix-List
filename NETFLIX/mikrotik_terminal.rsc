@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sat Nov 29 06:00:40 +06 2025
+# Last Update - Sun Nov 30 06:00:40 +06 2025
 # --------------------------------------------
-# Total Prefixes: 732
+# Total Prefixes: 738
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -344,6 +344,7 @@ add address=192.173.80.0/24 list=NETFLIX
 add address=192.173.84.0/24 list=NETFLIX
 add address=192.173.88.0/24 list=NETFLIX
 add address=192.173.89.0/24 list=NETFLIX
+add address=192.173.99.0/24 list=NETFLIX
 add address=192.173.100.0/24 list=NETFLIX
 add address=192.173.105.0/24 list=NETFLIX
 add address=192.173.108.0/24 list=NETFLIX
@@ -353,6 +354,7 @@ add address=192.173.80.0/24 list=NETFLIX
 add address=192.173.84.0/24 list=NETFLIX
 add address=192.173.88.0/24 list=NETFLIX
 add address=192.173.89.0/24 list=NETFLIX
+add address=192.173.99.0/24 list=NETFLIX
 add address=192.173.100.0/24 list=NETFLIX
 add address=192.173.105.0/24 list=NETFLIX
 add address=192.173.108.0/24 list=NETFLIX
@@ -424,6 +426,7 @@ add address=2607:fb10:7381::/48 list=NETFLIX
 add address=2607:fb10:7391::/48 list=NETFLIX
 add address=2607:fb10:7392::/48 list=NETFLIX
 add address=2607:fb10:7401::/48 list=NETFLIX
+add address=2607:fb10:7412::/48 list=NETFLIX
 add address=2607:fb10:9015::/48 list=NETFLIX
 add address=2607:fb10:9016::/48 list=NETFLIX
 add address=2620:0:ef0::/48 list=NETFLIX
@@ -503,7 +506,6 @@ add address=2a00:86c0:8025::/48 list=NETFLIX
 add address=2a00:86c0:8029::/48 list=NETFLIX
 add address=2a00:86c0:806f::/48 list=NETFLIX
 add address=2a00:86c0:ff0a::/48 list=NETFLIX
-add address=2a03:5640::/32 list=NETFLIX
 add address=2a03:5640:1000::/36 list=NETFLIX
 add address=2a03:5640:2000::/35 list=NETFLIX
 add address=2a03:5640:4000::/34 list=NETFLIX
@@ -574,6 +576,7 @@ add address=2607:fb10:7381::/48 list=NETFLIX
 add address=2607:fb10:7391::/48 list=NETFLIX
 add address=2607:fb10:7392::/48 list=NETFLIX
 add address=2607:fb10:7401::/48 list=NETFLIX
+add address=2607:fb10:7412::/48 list=NETFLIX
 add address=2607:fb10:9015::/48 list=NETFLIX
 add address=2607:fb10:9016::/48 list=NETFLIX
 add address=2620:0:ef0::/48 list=NETFLIX
@@ -653,7 +656,6 @@ add address=2a00:86c0:8025::/48 list=NETFLIX
 add address=2a00:86c0:8029::/48 list=NETFLIX
 add address=2a00:86c0:806f::/48 list=NETFLIX
 add address=2a00:86c0:ff0a::/48 list=NETFLIX
-add address=2a03:5640::/32 list=NETFLIX
 add address=2a03:5640:1000::/36 list=NETFLIX
 add address=2a03:5640:2000::/35 list=NETFLIX
 add address=2a03:5640:4000::/34 list=NETFLIX
@@ -696,6 +698,8 @@ add address=2a00:86c0:2090::/48 list=NETFLIX
 add address=2a00:86c0:2091::/48 list=NETFLIX
 add address=2607:fb10:2014::/48 list=NETFLIX
 add address=2607:fb10:2015::/48 list=NETFLIX
+add address=2607:fb10:2033::/48 list=NETFLIX
+add address=2607:fb10:2034::/48 list=NETFLIX
 add address=2607:fb10:2042::/48 list=NETFLIX
 add address=2607:fb10:5015::/48 list=NETFLIX
 add address=2607:fb10:5016::/48 list=NETFLIX
@@ -720,6 +724,8 @@ add address=2607:fb10:73a1::/48 list=NETFLIX
 add address=2607:fb10:73a2::/48 list=NETFLIX
 add address=2607:fb10:2014::/48 list=NETFLIX
 add address=2607:fb10:2015::/48 list=NETFLIX
+add address=2607:fb10:2033::/48 list=NETFLIX
+add address=2607:fb10:2034::/48 list=NETFLIX
 add address=2607:fb10:2042::/48 list=NETFLIX
 add address=2607:fb10:5015::/48 list=NETFLIX
 add address=2607:fb10:5016::/48 list=NETFLIX
