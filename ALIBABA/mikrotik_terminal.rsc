@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Wed Dec  3 06:00:38 +06 2025
+# Last Update - Thu Dec  4 06:00:37 +06 2025
 # --------------------------------------------
 # Total Prefixes: 3776
 # --------------------------------------------
@@ -774,7 +774,6 @@ add address=149.129.160.0/19 list=ALIBABA
 add address=149.129.192.0/18 list=ALIBABA
 add address=149.129.192.0/19 list=ALIBABA
 add address=149.129.224.0/19 list=ALIBABA
-add address=156.227.20.0/24 list=ALIBABA
 add address=156.236.12.0/24 list=ALIBABA
 add address=156.236.17.0/24 list=ALIBABA
 add address=156.240.76.0/23 list=ALIBABA
@@ -1607,7 +1606,6 @@ add address=149.129.160.0/19 list=ALIBABA
 add address=149.129.192.0/18 list=ALIBABA
 add address=149.129.192.0/19 list=ALIBABA
 add address=149.129.224.0/19 list=ALIBABA
-add address=156.227.20.0/24 list=ALIBABA
 add address=156.236.12.0/24 list=ALIBABA
 add address=156.236.17.0/24 list=ALIBABA
 add address=156.240.76.0/23 list=ALIBABA
@@ -3105,6 +3103,7 @@ add address=47.238.24.0/24 list=ALIBABA
 add address=47.238.25.0/24 list=ALIBABA
 add address=47.238.26.0/24 list=ALIBABA
 add address=47.238.27.0/24 list=ALIBABA
+add address=47.240.190.0/24 list=ALIBABA
 add address=47.245.156.0/24 list=ALIBABA
 add address=47.245.157.0/24 list=ALIBABA
 add address=47.245.158.0/24 list=ALIBABA
@@ -3285,6 +3284,7 @@ add address=47.238.24.0/24 list=ALIBABA
 add address=47.238.25.0/24 list=ALIBABA
 add address=47.238.26.0/24 list=ALIBABA
 add address=47.238.27.0/24 list=ALIBABA
+add address=47.240.190.0/24 list=ALIBABA
 add address=47.245.156.0/24 list=ALIBABA
 add address=47.245.157.0/24 list=ALIBABA
 add address=47.245.158.0/24 list=ALIBABA
