@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Fri Dec 12 06:00:03 +06 2025
+# Last Update - Sat Dec 13 06:00:05 +06 2025
 # --------------------------------------------
-# Total Prefixes: 9500
+# Total Prefixes: 9506
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -3195,6 +3195,8 @@ add address=216.198.235.0/24 list=AMAZON
 add address=216.198.236.0/24 list=AMAZON
 add address=216.198.237.0/24 list=AMAZON
 add address=216.198.238.0/23 list=AMAZON
+add address=216.198.240.0/22 list=AMAZON
+add address=216.198.244.0/22 list=AMAZON
 add address=216.216.0.0/15 list=AMAZON
 add address=216.244.0.0/24 list=AMAZON
 add address=216.244.1.0/24 list=AMAZON
@@ -5077,6 +5079,7 @@ add address=2620:107:4000:8004::/64 list=AMAZON
 add address=2620:107:4000:8300::/56 list=AMAZON
 add address=2620:107:4000:8400::/56 list=AMAZON
 add address=2620:107:4000:8500::/56 list=AMAZON
+add address=2620:107:4000:8600::/56 list=AMAZON
 add address=2620:107:4000:9000::/63 list=AMAZON
 add address=2620:107:4000:9002::/64 list=AMAZON
 add address=2620:107:4000:9003::/64 list=AMAZON
@@ -6790,6 +6793,7 @@ add address=40.166.0.0/16 list=AMAZON
 add address=40.167.0.0/16 list=AMAZON
 add address=40.168.224.0/24 list=AMAZON
 add address=40.168.225.0/24 list=AMAZON
+add address=40.168.226.0/24 list=AMAZON
 add address=40.172.0.0/16 list=AMAZON
 add address=40.172.11.104/29 list=AMAZON
 add address=40.172.11.96/29 list=AMAZON
@@ -9071,6 +9075,8 @@ add address=69.107.10.80/29 list=AMAZON
 add address=69.107.10.88/29 list=AMAZON
 add address=69.107.10.96/29 list=AMAZON
 add address=69.107.11.0/29 list=AMAZON
+add address=69.107.11.16/29 list=AMAZON
+add address=69.107.11.24/29 list=AMAZON
 add address=69.107.11.8/29 list=AMAZON
 add address=69.107.3.176/29 list=AMAZON
 add address=69.107.3.184/29 list=AMAZON
