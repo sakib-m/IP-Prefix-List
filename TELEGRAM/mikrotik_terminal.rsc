@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sat Dec 13 06:01:49 +06 2025
+# Last Update - Sun Dec 14 06:00:54 +06 2025
 # --------------------------------------------
-# Total Prefixes: 44
+# Total Prefixes: 34
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -40,17 +40,7 @@ add address=91.108.12.0/22 list=TELEGRAM
 add address=149.154.172.0/22 list=TELEGRAM
 add address=91.108.12.0/22 list=TELEGRAM
 add address=149.154.172.0/22 list=TELEGRAM
-add address=91.108.20.0/22 list=TELEGRAM
-add address=91.108.20.0/23 list=TELEGRAM
-add address=91.108.20.0/22 list=TELEGRAM
-add address=91.108.20.0/23 list=TELEGRAM
-add address=91.105.192.0/23 list=TELEGRAM
-add address=185.76.151.0/24 list=TELEGRAM
-add address=91.105.192.0/23 list=TELEGRAM
-add address=185.76.151.0/24 list=TELEGRAM
 add address=2001:67c:4e8::/48 list=TELEGRAM
 add address=2001:67c:4e8::/48 list=TELEGRAM
-add address=2001:b28:f23f::/48 list=TELEGRAM
-add address=2001:b28:f23f::/48 list=TELEGRAM
-add address=2001:b28:f23d::/48 list=TELEGRAM
-add address=2001:b28:f23d::/48 list=TELEGRAM
+add address=2001:b28:f23c::/48 list=TELEGRAM
+add address=2001:b28:f23c::/48 list=TELEGRAM
