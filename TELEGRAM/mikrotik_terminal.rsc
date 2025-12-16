@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Mon Dec 15 06:00:55 +06 2025
+# Last Update - Tue Dec 16 06:01:21 +06 2025
 # --------------------------------------------
-# Total Prefixes: 46
+# Total Prefixes: 48
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -56,3 +56,5 @@ add address=2001:b28:f23d::/48 list=TELEGRAM
 add address=2001:b28:f23d::/48 list=TELEGRAM
 add address=2001:b28:f23c::/48 list=TELEGRAM
 add address=2001:b28:f23c::/48 list=TELEGRAM
+add address=2a0a:f280:203::/48 list=TELEGRAM
+add address=2a0a:f280:203::/48 list=TELEGRAM
