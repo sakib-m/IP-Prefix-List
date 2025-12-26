@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Thu Dec 25 06:00:39 +06 2025
+# Last Update - Fri Dec 26 06:00:39 +06 2025
 # --------------------------------------------
-# Total Prefixes: 1134
+# Total Prefixes: 1154
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -192,6 +192,26 @@ add address=157.240.188.0/24 list=FACEBOOK
 add address=157.240.189.0/24 list=FACEBOOK
 add address=157.240.190.0/24 list=FACEBOOK
 add address=157.240.191.0/24 list=FACEBOOK
+add address=163.114.128.0/20 list=FACEBOOK
+add address=163.114.128.0/24 list=FACEBOOK
+add address=163.114.129.0/24 list=FACEBOOK
+add address=163.114.130.0/24 list=FACEBOOK
+add address=163.114.131.0/24 list=FACEBOOK
+add address=163.114.132.0/24 list=FACEBOOK
+add address=163.114.133.0/24 list=FACEBOOK
+add address=163.114.134.0/24 list=FACEBOOK
+add address=163.114.135.0/24 list=FACEBOOK
+add address=199.201.64.0/22 list=FACEBOOK
+add address=163.114.128.0/20 list=FACEBOOK
+add address=163.114.128.0/24 list=FACEBOOK
+add address=163.114.129.0/24 list=FACEBOOK
+add address=163.114.130.0/24 list=FACEBOOK
+add address=163.114.131.0/24 list=FACEBOOK
+add address=163.114.132.0/24 list=FACEBOOK
+add address=163.114.133.0/24 list=FACEBOOK
+add address=163.114.134.0/24 list=FACEBOOK
+add address=163.114.135.0/24 list=FACEBOOK
+add address=199.201.64.0/22 list=FACEBOOK
 add address=31.13.24.0/21 list=FACEBOOK
 add address=31.13.64.0/18 list=FACEBOOK
 add address=31.13.66.0/24 list=FACEBOOK
