@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Thu Jan  8 06:00:35 +06 2026
+# Last Update - Fri Jan  9 06:00:35 +06 2026
 # --------------------------------------------
 # Total Prefixes: 3908
 # --------------------------------------------
@@ -3241,6 +3241,7 @@ add address=155.102.71.0/24 list=ALIBABA
 add address=163.181.41.0/24 list=ALIBABA
 add address=163.181.208.0/24 list=ALIBABA
 add address=170.33.0.0/24 list=ALIBABA
+add address=170.33.1.0/24 list=ALIBABA
 add address=170.33.2.0/24 list=ALIBABA
 add address=170.33.3.0/24 list=ALIBABA
 add address=170.33.8.0/24 list=ALIBABA
@@ -3270,7 +3271,6 @@ add address=170.33.96.0/24 list=ALIBABA
 add address=170.33.97.0/24 list=ALIBABA
 add address=170.33.98.0/24 list=ALIBABA
 add address=170.33.99.0/24 list=ALIBABA
-add address=170.33.100.0/24 list=ALIBABA
 add address=170.33.103.0/24 list=ALIBABA
 add address=170.33.112.0/24 list=ALIBABA
 add address=170.33.113.0/24 list=ALIBABA
@@ -3448,6 +3448,7 @@ add address=155.102.71.0/24 list=ALIBABA
 add address=163.181.41.0/24 list=ALIBABA
 add address=163.181.208.0/24 list=ALIBABA
 add address=170.33.0.0/24 list=ALIBABA
+add address=170.33.1.0/24 list=ALIBABA
 add address=170.33.2.0/24 list=ALIBABA
 add address=170.33.3.0/24 list=ALIBABA
 add address=170.33.8.0/24 list=ALIBABA
@@ -3477,7 +3478,6 @@ add address=170.33.96.0/24 list=ALIBABA
 add address=170.33.97.0/24 list=ALIBABA
 add address=170.33.98.0/24 list=ALIBABA
 add address=170.33.99.0/24 list=ALIBABA
-add address=170.33.100.0/24 list=ALIBABA
 add address=170.33.103.0/24 list=ALIBABA
 add address=170.33.112.0/24 list=ALIBABA
 add address=170.33.113.0/24 list=ALIBABA

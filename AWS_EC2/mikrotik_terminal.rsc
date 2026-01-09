@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Thu Jan  8 06:00:05 +06 2026
+# Last Update - Fri Jan  9 06:00:05 +06 2026
 # --------------------------------------------
-# Total Prefixes: 1672
+# Total Prefixes: 1684
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -21,6 +21,17 @@ add address=1.178.16.0/24 list=AWS_EC2
 add address=1.178.17.0/24 list=AWS_EC2
 add address=1.178.174.0/24 list=AWS_EC2
 add address=1.178.18.0/24 list=AWS_EC2
+add address=1.178.19.0/24 list=AWS_EC2
+add address=1.178.20.0/24 list=AWS_EC2
+add address=1.178.21.0/24 list=AWS_EC2
+add address=1.178.22.0/24 list=AWS_EC2
+add address=1.178.23.0/24 list=AWS_EC2
+add address=1.178.24.0/24 list=AWS_EC2
+add address=1.178.25.0/24 list=AWS_EC2
+add address=1.178.26.0/24 list=AWS_EC2
+add address=1.178.27.0/24 list=AWS_EC2
+add address=1.178.28.0/24 list=AWS_EC2
+add address=1.178.29.0/24 list=AWS_EC2
 add address=1.178.4.0/24 list=AWS_EC2
 add address=1.178.5.0/24 list=AWS_EC2
 add address=1.178.6.0/24 list=AWS_EC2
@@ -40,6 +51,7 @@ add address=1.178.95.0/24 list=AWS_EC2
 add address=100.20.0.0/14 list=AWS_EC2
 add address=100.24.0.0/13 list=AWS_EC2
 add address=100.48.0.0/12 list=AWS_EC2
+add address=103.13.188.0/23 list=AWS_EC2
 add address=103.4.8.0/21 list=AWS_EC2
 add address=107.176.0.0/15 list=AWS_EC2
 add address=107.20.0.0/14 list=AWS_EC2
