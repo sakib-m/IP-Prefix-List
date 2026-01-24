@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Fri Jan 23 06:00:08 +06 2026
+# Last Update - Sat Jan 24 06:00:09 +06 2026
 # --------------------------------------------
-# Total Prefixes: 372
+# Total Prefixes: 375
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -19,6 +19,9 @@ add address=1.178.11.0/24 list=AWS_S3
 add address=1.178.16.0/24 list=AWS_S3
 add address=1.178.17.0/24 list=AWS_S3
 add address=1.178.18.0/24 list=AWS_S3
+add address=1.178.19.0/24 list=AWS_S3
+add address=1.178.20.0/24 list=AWS_S3
+add address=1.178.21.0/24 list=AWS_S3
 add address=1.178.4.0/24 list=AWS_S3
 add address=1.178.5.0/24 list=AWS_S3
 add address=1.178.6.0/24 list=AWS_S3
