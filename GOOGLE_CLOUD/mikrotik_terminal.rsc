@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Sat Jan 24 06:00:12 +06 2026
+# Last Update - Sun Jan 25 06:00:11 +06 2026
 # --------------------------------------------
-# Total Prefixes: 917
+# Total Prefixes: 872
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -835,95 +835,50 @@ add address=34.37.0.0/16 list=GOOGLE_CLOUD
 add address=34.128.46.0/23 list=GOOGLE_CLOUD
 add address=34.128.62.0/23 list=GOOGLE_CLOUD
 add address=2600:1900:8000::/44 list=GOOGLE_CLOUD
-add address=2600:1902:10::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4030::/44 list=GOOGLE_CLOUD
-add address=2600:1902:20::/44 list=GOOGLE_CLOUD
 add address=2600:1900:41a0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:30::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4050::/44 list=GOOGLE_CLOUD
-add address=2600:1902:40::/44 list=GOOGLE_CLOUD
 add address=2600:1900:41d0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:50::/44 list=GOOGLE_CLOUD
 add address=2600:1901:8180::/44 list=GOOGLE_CLOUD
-add address=2600:1902:60::/44 list=GOOGLE_CLOUD
 add address=2600:1900:40a0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:70::/44 list=GOOGLE_CLOUD
 add address=2600:1900:41b0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:80::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4080::/44 list=GOOGLE_CLOUD
-add address=2600:1902:90::/44 list=GOOGLE_CLOUD
 add address=2600:1901:8170::/44 list=GOOGLE_CLOUD
-add address=2600:1902:a0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:42e0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:40b0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:b0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:41c0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:c0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4140::/44 list=GOOGLE_CLOUD
-add address=2600:1902:d0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4150::/44 list=GOOGLE_CLOUD
-add address=2600:1902:e0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:42a0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:f0::/44 list=GOOGLE_CLOUD
 add address=2600:1901:8100::/44 list=GOOGLE_CLOUD
-add address=2600:1902:100::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4010::/44 list=GOOGLE_CLOUD
-add address=2600:1902:110::/44 list=GOOGLE_CLOUD
 add address=2600:1901:81f0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:130::/44 list=GOOGLE_CLOUD
 add address=2600:1901:81b0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:140::/44 list=GOOGLE_CLOUD
 add address=2600:1900:42c0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:40c0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:120::/44 list=GOOGLE_CLOUD
 add address=2600:1900:40d0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:150::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4060::/44 list=GOOGLE_CLOUD
-add address=2600:1902:160::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4160::/44 list=GOOGLE_CLOUD
-add address=2600:1902:170::/44 list=GOOGLE_CLOUD
 add address=2600:1901:8110::/44 list=GOOGLE_CLOUD
-add address=2600:1902:180::/44 list=GOOGLE_CLOUD
 add address=2600:1901:8120::/44 list=GOOGLE_CLOUD
-add address=2600:1902:190::/44 list=GOOGLE_CLOUD
 add address=2600:1901::/48 list=GOOGLE_CLOUD
 add address=2600:1901:81c0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:1a0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:5400::/44 list=GOOGLE_CLOUD
-add address=2600:1902:1b0::/44 list=GOOGLE_CLOUD
 add address=2600:1901:8160::/44 list=GOOGLE_CLOUD
-add address=2600:1902:1c0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:40e0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:1d0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:41e0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:1e0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4290::/44 list=GOOGLE_CLOUD
-add address=2600:1902:1f0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:40f0::/44 list=GOOGLE_CLOUD
-add address=2600:1902:200::/44 list=GOOGLE_CLOUD
 add address=2600:1901:4010::/44 list=GOOGLE_CLOUD
-add address=2600:1902:210::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4000::/44 list=GOOGLE_CLOUD
-add address=2600:1902::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4070::/44 list=GOOGLE_CLOUD
-add address=2600:1902:220::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4020::/44 list=GOOGLE_CLOUD
-add address=2600:1902:230::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4090::/44 list=GOOGLE_CLOUD
-add address=2600:1902:250::/44 list=GOOGLE_CLOUD
 add address=2600:1901:8130::/44 list=GOOGLE_CLOUD
-add address=2600:1902:260::/44 list=GOOGLE_CLOUD
 add address=2600:1901:8150::/44 list=GOOGLE_CLOUD
-add address=2600:1902:270::/44 list=GOOGLE_CLOUD
 add address=2600:1901:8140::/44 list=GOOGLE_CLOUD
-add address=2600:1902:280::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4040::/44 list=GOOGLE_CLOUD
-add address=2600:1902:290::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4120::/44 list=GOOGLE_CLOUD
-add address=2600:1902:2a0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4170::/44 list=GOOGLE_CLOUD
-add address=2600:1902:2b0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4180::/44 list=GOOGLE_CLOUD
-add address=2600:1902:2c0::/44 list=GOOGLE_CLOUD
 add address=2600:1900:4280::/44 list=GOOGLE_CLOUD
-add address=2600:1902:2d0::/44 list=GOOGLE_CLOUD
