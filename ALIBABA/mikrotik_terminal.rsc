@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sat Jan 31 06:00:35 +06 2026
+# Last Update - Sun Feb  1 06:00:48 +06 2026
 # --------------------------------------------
-# Total Prefixes: 1977
+# Total Prefixes: 1993
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -84,6 +84,9 @@ add address=8.213.164.0/22 list=ALIBABA
 add address=8.213.168.0/22 list=ALIBABA
 add address=8.213.168.0/23 list=ALIBABA
 add address=8.213.170.0/23 list=ALIBABA
+add address=8.213.172.0/22 list=ALIBABA
+add address=8.213.172.0/23 list=ALIBABA
+add address=8.213.174.0/23 list=ALIBABA
 add address=8.213.176.0/20 list=ALIBABA
 add address=8.213.176.0/21 list=ALIBABA
 add address=8.213.184.0/21 list=ALIBABA
@@ -215,6 +218,7 @@ add address=43.96.51.0/24 list=ALIBABA
 add address=43.96.52.0/24 list=ALIBABA
 add address=43.96.53.0/24 list=ALIBABA
 add address=43.96.54.0/24 list=ALIBABA
+add address=43.96.55.0/24 list=ALIBABA
 add address=43.96.59.0/24 list=ALIBABA
 add address=43.96.63.0/24 list=ALIBABA
 add address=43.96.64.0/24 list=ALIBABA
@@ -796,9 +800,15 @@ add address=139.95.16.0/23 list=ALIBABA
 add address=139.95.18.0/23 list=ALIBABA
 add address=139.95.64.0/24 list=ALIBABA
 add address=139.95.65.0/24 list=ALIBABA
+add address=139.95.96.0/22 list=ALIBABA
+add address=139.95.96.0/23 list=ALIBABA
+add address=139.95.98.0/23 list=ALIBABA
 add address=139.95.128.0/22 list=ALIBABA
 add address=139.95.128.0/23 list=ALIBABA
 add address=139.95.130.0/23 list=ALIBABA
+add address=139.95.132.0/22 list=ALIBABA
+add address=139.95.132.0/23 list=ALIBABA
+add address=139.95.134.0/23 list=ALIBABA
 add address=140.205.1.0/24 list=ALIBABA
 add address=140.205.122.0/24 list=ALIBABA
 add address=147.139.0.0/17 list=ALIBABA
@@ -810,6 +820,12 @@ add address=147.139.192.0/18 list=ALIBABA
 add address=149.129.0.0/20 list=ALIBABA
 add address=149.129.0.0/21 list=ALIBABA
 add address=149.129.8.0/21 list=ALIBABA
+add address=149.129.16.0/22 list=ALIBABA
+add address=149.129.16.0/23 list=ALIBABA
+add address=149.129.18.0/23 list=ALIBABA
+add address=149.129.20.0/22 list=ALIBABA
+add address=149.129.20.0/23 list=ALIBABA
+add address=149.129.22.0/23 list=ALIBABA
 add address=149.129.32.0/19 list=ALIBABA
 add address=149.129.64.0/18 list=ALIBABA
 add address=149.129.64.0/19 list=ALIBABA
@@ -839,6 +855,10 @@ add address=170.33.24.0/24 list=ALIBABA
 add address=170.33.29.0/24 list=ALIBABA
 add address=170.33.30.0/24 list=ALIBABA
 add address=170.33.31.0/24 list=ALIBABA
+add address=170.33.32.0/24 list=ALIBABA
+add address=170.33.33.0/24 list=ALIBABA
+add address=170.33.34.0/24 list=ALIBABA
+add address=170.33.35.0/24 list=ALIBABA
 add address=170.33.64.0/24 list=ALIBABA
 add address=170.33.65.0/24 list=ALIBABA
 add address=170.33.66.0/24 list=ALIBABA
@@ -1729,10 +1749,6 @@ add address=170.33.15.0/24 list=ALIBABA
 add address=170.33.16.0/22 list=ALIBABA
 add address=170.33.24.0/21 list=ALIBABA
 add address=170.33.32.0/21 list=ALIBABA
-add address=170.33.32.0/24 list=ALIBABA
-add address=170.33.33.0/24 list=ALIBABA
-add address=170.33.34.0/24 list=ALIBABA
-add address=170.33.35.0/24 list=ALIBABA
 add address=170.33.40.0/24 list=ALIBABA
 add address=170.33.41.0/24 list=ALIBABA
 add address=170.33.44.0/24 list=ALIBABA
