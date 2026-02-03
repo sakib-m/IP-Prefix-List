@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Mon Feb  2 06:00:04 +06 2026
+# Last Update - Tue Feb  3 06:00:03 +06 2026
 # --------------------------------------------
-# Total Prefixes: 9888
+# Total Prefixes: 9865
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -5384,31 +5384,6 @@ add address=2631:0:4::/48 list=AMAZON
 add address=2631:0:7::/48 list=AMAZON
 add address=2631:0:8::/48 list=AMAZON
 add address=2631:0:9::/48 list=AMAZON
-add address=2631:1:45c0::/48 list=AMAZON
-add address=2631:1:4680::/48 list=AMAZON
-add address=2631:1:46c0::/48 list=AMAZON
-add address=2631:1:4740::/48 list=AMAZON
-add address=2631:1:4800::/48 list=AMAZON
-add address=2631:1:4900::/48 list=AMAZON
-add address=2631:1:4c00::/48 list=AMAZON
-add address=2631:1:4c40::/48 list=AMAZON
-add address=2631:1:4cc0::/48 list=AMAZON
-add address=2631:1:4d00::/48 list=AMAZON
-add address=2631:1:4d40::/48 list=AMAZON
-add address=2631:1:4d80::/48 list=AMAZON
-add address=2631:1:4dc0::/48 list=AMAZON
-add address=2631:1:4e00::/48 list=AMAZON
-add address=2631:1:4e40::/48 list=AMAZON
-add address=2631:1:4f00::/48 list=AMAZON
-add address=2631:1:4f40::/48 list=AMAZON
-add address=2631:1:4f80::/48 list=AMAZON
-add address=2631:1:4fc0::/48 list=AMAZON
-add address=2631:1:4fc1::/48 list=AMAZON
-add address=2631:1:4fc2::/48 list=AMAZON
-add address=2631:1:4fef::/48 list=AMAZON
-add address=2631:1:4ff0::/48 list=AMAZON
-add address=2631:1:4ff2::/48 list=AMAZON
-add address=2631:1:4ff4::/48 list=AMAZON
 add address=2631::/48 list=AMAZON
 add address=27.0.0.0/22 list=AMAZON
 add address=2804:800::/48 list=AMAZON
@@ -9454,6 +9429,8 @@ add address=69.107.12.16/29 list=AMAZON
 add address=69.107.12.24/29 list=AMAZON
 add address=69.107.12.32/29 list=AMAZON
 add address=69.107.12.40/29 list=AMAZON
+add address=69.107.12.48/29 list=AMAZON
+add address=69.107.12.56/29 list=AMAZON
 add address=69.107.12.8/29 list=AMAZON
 add address=69.107.3.176/29 list=AMAZON
 add address=69.107.3.184/29 list=AMAZON
