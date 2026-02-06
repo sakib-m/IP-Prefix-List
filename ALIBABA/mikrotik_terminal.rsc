@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Thu Feb  5 06:00:45 +06 2026
+# Last Update - Fri Feb  6 06:15:44 +06 2026
 # --------------------------------------------
-# Total Prefixes: 1994
+# Total Prefixes: 2013
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -329,6 +329,22 @@ add address=43.116.112.0/22 list=ALIBABA
 add address=43.116.116.0/22 list=ALIBABA
 add address=43.116.120.0/22 list=ALIBABA
 add address=43.116.124.0/22 list=ALIBABA
+add address=43.117.0.0/22 list=ALIBABA
+add address=43.117.4.0/22 list=ALIBABA
+add address=43.117.8.0/22 list=ALIBABA
+add address=43.117.12.0/22 list=ALIBABA
+add address=43.117.16.0/22 list=ALIBABA
+add address=43.117.20.0/22 list=ALIBABA
+add address=43.117.24.0/22 list=ALIBABA
+add address=43.117.28.0/22 list=ALIBABA
+add address=43.117.32.0/22 list=ALIBABA
+add address=43.117.36.0/22 list=ALIBABA
+add address=43.117.40.0/22 list=ALIBABA
+add address=43.117.44.0/22 list=ALIBABA
+add address=43.117.48.0/22 list=ALIBABA
+add address=43.117.52.0/22 list=ALIBABA
+add address=43.117.56.0/22 list=ALIBABA
+add address=43.117.60.0/22 list=ALIBABA
 add address=43.118.0.0/18 list=ALIBABA
 add address=43.118.0.0/19 list=ALIBABA
 add address=43.118.32.0/19 list=ALIBABA
@@ -883,6 +899,9 @@ add address=170.33.104.0/24 list=ALIBABA
 add address=170.33.105.0/24 list=ALIBABA
 add address=170.33.106.0/24 list=ALIBABA
 add address=170.33.107.0/24 list=ALIBABA
+add address=170.33.129.0/24 list=ALIBABA
+add address=170.33.130.0/24 list=ALIBABA
+add address=170.33.131.0/24 list=ALIBABA
 add address=170.33.136.0/24 list=ALIBABA
 add address=170.33.137.0/24 list=ALIBABA
 add address=170.33.138.0/24 list=ALIBABA
