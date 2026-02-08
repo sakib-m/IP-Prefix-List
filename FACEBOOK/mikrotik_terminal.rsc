@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sat Feb  7 06:01:17 +06 2026
+# Last Update - Sun Feb  8 06:02:04 +06 2026
 # --------------------------------------------
-# Total Prefixes: 586
+# Total Prefixes: 589
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -156,6 +156,7 @@ add address=57.144.14.0/23 list=FACEBOOK
 add address=57.144.22.0/23 list=FACEBOOK
 add address=57.144.44.0/23 list=FACEBOOK
 add address=57.144.68.0/23 list=FACEBOOK
+add address=57.144.74.0/23 list=FACEBOOK
 add address=57.144.104.0/23 list=FACEBOOK
 add address=57.144.108.0/23 list=FACEBOOK
 add address=57.144.110.0/23 list=FACEBOOK
@@ -203,6 +204,7 @@ add address=69.171.240.0/20 list=FACEBOOK
 add address=69.171.250.0/24 list=FACEBOOK
 add address=74.119.76.0/22 list=FACEBOOK
 add address=102.132.96.0/20 list=FACEBOOK
+add address=102.132.101.0/24 list=FACEBOOK
 add address=103.4.96.0/22 list=FACEBOOK
 add address=129.134.0.0/17 list=FACEBOOK
 add address=129.134.24.0/23 list=FACEBOOK
@@ -523,6 +525,7 @@ add address=2a03:2880:f27b::/48 list=FACEBOOK
 add address=2a03:2880:f289::/48 list=FACEBOOK
 add address=2a03:2880:f313::/48 list=FACEBOOK
 add address=2a03:2880:f31b::/48 list=FACEBOOK
+add address=2a03:2880:f31d::/48 list=FACEBOOK
 add address=2a03:2880:f32b::/48 list=FACEBOOK
 add address=2a03:2880:f32d::/48 list=FACEBOOK
 add address=2a03:2880:f32e::/48 list=FACEBOOK
