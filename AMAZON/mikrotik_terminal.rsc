@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Fri Feb 13 06:00:03 +06 2026
+# Last Update - Sat Feb 14 06:00:03 +06 2026
 # --------------------------------------------
 # Total Prefixes: 9894
 # --------------------------------------------
@@ -810,6 +810,7 @@ add address=15.129.0.0/22 list=AMAZON
 add address=15.129.16.0/21 list=AMAZON
 add address=15.129.24.0/22 list=AMAZON
 add address=15.129.28.0/24 list=AMAZON
+add address=15.129.29.0/24 list=AMAZON
 add address=15.129.4.0/22 list=AMAZON
 add address=15.129.8.0/21 list=AMAZON
 add address=15.134.0.0/16 list=AMAZON
@@ -4678,7 +4679,7 @@ add address=2600:f0f0:30e::/48 list=AMAZON
 add address=2600:f0f0:30f::/48 list=AMAZON
 add address=2600:f0f0:310::/48 list=AMAZON
 add address=2600:f0f0:4000::/48 list=AMAZON
-add address=2600:f0f0:400::/47 list=AMAZON
+add address=2600:f0f0:400::/44 list=AMAZON
 add address=2600:f0f0:40::/48 list=AMAZON
 add address=2600:f0f0:4100::/40 list=AMAZON
 add address=2600:f0f0:4100::/48 list=AMAZON
@@ -5137,6 +5138,7 @@ add address=2606:7b40:1a2f:c200::/60 list=AMAZON
 add address=2606:7b40:1a2f:c310::/60 list=AMAZON
 add address=2606:7b40:1a2f:c320::/60 list=AMAZON
 add address=2606:7b40:1a2f:c330::/60 list=AMAZON
+add address=2606:7b40:1a3c:330::/60 list=AMAZON
 add address=2606:7b40:1a3f:c200::/60 list=AMAZON
 add address=2606:7b40:1a3f:c310::/60 list=AMAZON
 add address=2606:7b40:1a3f:c320::/60 list=AMAZON
@@ -6716,8 +6718,6 @@ add address=34.250.63.248/29 list=AMAZON
 add address=35.111.128.0/22 list=AMAZON
 add address=35.111.132.0/22 list=AMAZON
 add address=35.111.136.0/22 list=AMAZON
-add address=35.111.160.0/24 list=AMAZON
-add address=35.111.164.0/24 list=AMAZON
 add address=35.111.252.0/24 list=AMAZON
 add address=35.111.253.0/24 list=AMAZON
 add address=35.111.254.0/24 list=AMAZON
