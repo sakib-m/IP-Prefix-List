@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Sat Feb 14 06:00:12 +06 2026
+# Last Update - Sun Feb 15 06:00:10 +06 2026
 # --------------------------------------------
-# Total Prefixes: 882
+# Total Prefixes: 884
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -86,6 +86,7 @@ add address=35.220.45.0/24 list=GOOGLE_CLOUD
 add address=35.242.45.0/24 list=GOOGLE_CLOUD
 add address=35.243.56.0/21 list=GOOGLE_CLOUD
 add address=8.228.128.0/18 list=GOOGLE_CLOUD
+add address=8.230.0.0/19 list=GOOGLE_CLOUD
 add address=34.0.96.0/19 list=GOOGLE_CLOUD
 add address=34.4.128.0/18 list=GOOGLE_CLOUD
 add address=34.22.64.0/19 list=GOOGLE_CLOUD
@@ -440,7 +441,6 @@ add address=34.157.12.0/22 list=GOOGLE_CLOUD
 add address=34.157.140.0/22 list=GOOGLE_CLOUD
 add address=34.163.0.0/16 list=GOOGLE_CLOUD
 add address=8.228.224.0/20 list=GOOGLE_CLOUD
-add address=34.3.2.0/27 list=GOOGLE_CLOUD
 add address=34.8.0.0/16 list=GOOGLE_CLOUD
 add address=34.13.72.0/21 list=GOOGLE_CLOUD
 add address=34.13.112.0/20 list=GOOGLE_CLOUD
@@ -491,6 +491,7 @@ add address=34.166.0.0/16 list=GOOGLE_CLOUD
 add address=34.177.48.0/23 list=GOOGLE_CLOUD
 add address=34.177.70.0/24 list=GOOGLE_CLOUD
 add address=35.252.32.0/19 list=GOOGLE_CLOUD
+add address=8.230.32.0/19 list=GOOGLE_CLOUD
 add address=34.0.64.0/19 list=GOOGLE_CLOUD
 add address=34.153.62.128/25 list=GOOGLE_CLOUD
 add address=34.153.252.128/25 list=GOOGLE_CLOUD
@@ -770,6 +771,7 @@ add address=34.157.46.0/23 list=GOOGLE_CLOUD
 add address=34.157.174.0/23 list=GOOGLE_CLOUD
 add address=34.157.219.128/26 list=GOOGLE_CLOUD
 add address=34.174.0.0/16 list=GOOGLE_CLOUD
+add address=8.229.0.0/16 list=GOOGLE_CLOUD
 add address=34.3.96.0/20 list=GOOGLE_CLOUD
 add address=34.11.128.0/17 list=GOOGLE_CLOUD
 add address=34.19.0.0/17 list=GOOGLE_CLOUD
