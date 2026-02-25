@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Tue Feb 24 06:00:50 +06 2026
+# Last Update - Wed Feb 25 06:00:42 +06 2026
 # --------------------------------------------
-# Total Prefixes: 11129
+# Total Prefixes: 11205
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -10124,6 +10124,82 @@ add address=2600:14e1:18::/46 list=AKAMAI
 add address=2600:14e1:1c::/46 list=AKAMAI
 add address=2600:14e1:20::/46 list=AKAMAI
 add address=2600:14e1:24::/46 list=AKAMAI
+add address=2001:4c08:2026::/48 list=AKAMAI
+add address=2404:4e00:4::/48 list=AKAMAI
+add address=2404:4e00:5::/48 list=AKAMAI
+add address=2404:4e00:6::/48 list=AKAMAI
+add address=2404:4e00:7::/48 list=AKAMAI
+add address=2404:4e00:101::/48 list=AKAMAI
+add address=2404:4e00:102::/48 list=AKAMAI
+add address=2404:4e00:200::/48 list=AKAMAI
+add address=2404:4e00:201::/48 list=AKAMAI
+add address=2404:4e00:202::/48 list=AKAMAI
+add address=2404:4e00:203::/48 list=AKAMAI
+add address=2404:4e00:204::/48 list=AKAMAI
+add address=2404:4e00:205::/48 list=AKAMAI
+add address=2404:4e00:206::/48 list=AKAMAI
+add address=2404:4e00:207::/48 list=AKAMAI
+add address=2404:4e00:208::/48 list=AKAMAI
+add address=2404:4e00:2000::/48 list=AKAMAI
+add address=2404:4e00:8000::/48 list=AKAMAI
+add address=2404:4e00:c000::/48 list=AKAMAI
+add address=2606:6c00::/48 list=AKAMAI
+add address=2606:6c00:4::/48 list=AKAMAI
+add address=2606:6c00:5::/48 list=AKAMAI
+add address=2606:6c00:6::/48 list=AKAMAI
+add address=2606:6c00:8::/48 list=AKAMAI
+add address=2606:6c00:9::/48 list=AKAMAI
+add address=2606:6c00:100::/48 list=AKAMAI
+add address=2606:6c00:104::/48 list=AKAMAI
+add address=2606:6c00:105::/48 list=AKAMAI
+add address=2606:6c00:106::/48 list=AKAMAI
+add address=2606:6c00:107::/48 list=AKAMAI
+add address=2606:6c00:108::/48 list=AKAMAI
+add address=2606:6c00:109::/48 list=AKAMAI
+add address=2606:6c00:200::/48 list=AKAMAI
+add address=2606:6c00:201::/48 list=AKAMAI
+add address=2606:6c00:202::/48 list=AKAMAI
+add address=2606:6c00:203::/48 list=AKAMAI
+add address=2606:6c00:204::/48 list=AKAMAI
+add address=2606:6c00:205::/48 list=AKAMAI
+add address=2606:6c00:206::/48 list=AKAMAI
+add address=2606:6c00:207::/48 list=AKAMAI
+add address=2606:6c00:208::/48 list=AKAMAI
+add address=2606:6c00:209::/48 list=AKAMAI
+add address=2606:6c00:20a::/48 list=AKAMAI
+add address=2606:6c00:20b::/48 list=AKAMAI
+add address=2606:6c00:20c::/48 list=AKAMAI
+add address=2606:6c00:20e::/48 list=AKAMAI
+add address=2606:6c00:20f::/48 list=AKAMAI
+add address=2606:6c00:4000::/48 list=AKAMAI
+add address=2606:6c00:8000::/48 list=AKAMAI
+add address=2606:6c00:c000::/48 list=AKAMAI
+add address=2606:6c00:fffe::/48 list=AKAMAI
+add address=2606:6c00:ffff::/48 list=AKAMAI
+add address=2a02:2370:3::/48 list=AKAMAI
+add address=2a02:2370:5::/48 list=AKAMAI
+add address=2a02:2370:6::/48 list=AKAMAI
+add address=2a02:2370:103::/48 list=AKAMAI
+add address=2a02:2370:104::/48 list=AKAMAI
+add address=2a02:2370:105::/48 list=AKAMAI
+add address=2a02:2370:106::/48 list=AKAMAI
+add address=2a02:2370:200::/48 list=AKAMAI
+add address=2a02:2370:201::/48 list=AKAMAI
+add address=2a02:2370:202::/48 list=AKAMAI
+add address=2a02:2370:203::/48 list=AKAMAI
+add address=2a02:2370:204::/48 list=AKAMAI
+add address=2a02:2370:205::/48 list=AKAMAI
+add address=2a02:2370:206::/48 list=AKAMAI
+add address=2a02:2370:207::/48 list=AKAMAI
+add address=2a02:2370:208::/48 list=AKAMAI
+add address=2a02:2370:209::/48 list=AKAMAI
+add address=2a02:2370:20a::/48 list=AKAMAI
+add address=2a02:2370:20b::/48 list=AKAMAI
+add address=2a02:2370:20c::/48 list=AKAMAI
+add address=2a02:2370:4000::/48 list=AKAMAI
+add address=2a02:2370:8000::/48 list=AKAMAI
+add address=2a02:2370:c000::/48 list=AKAMAI
+add address=2a02:2370:f000::/48 list=AKAMAI
 add address=2a02:26f0:1c::/48 list=AKAMAI
 add address=2a02:26f0:3d::/48 list=AKAMAI
 add address=2001:57a:102::/48 list=AKAMAI
