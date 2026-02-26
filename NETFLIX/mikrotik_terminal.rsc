@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Wed Feb 25 06:00:50 +06 2026
+# Last Update - Thu Feb 26 06:01:11 +06 2026
 # --------------------------------------------
 # Total Prefixes: 362
 # --------------------------------------------
@@ -28,6 +28,8 @@ add address=23.246.47.0/24 list=NETFLIX
 add address=23.246.48.0/24 list=NETFLIX
 add address=23.246.49.0/24 list=NETFLIX
 add address=23.246.50.0/24 list=NETFLIX
+add address=23.246.52.0/24 list=NETFLIX
+add address=23.246.53.0/24 list=NETFLIX
 add address=23.246.58.0/24 list=NETFLIX
 add address=23.246.59.0/24 list=NETFLIX
 add address=37.77.184.0/21 list=NETFLIX
@@ -173,7 +175,6 @@ add address=207.45.72.0/24 list=NETFLIX
 add address=207.45.73.0/24 list=NETFLIX
 add address=207.45.74.0/23 list=NETFLIX
 add address=207.45.74.0/24 list=NETFLIX
-add address=207.45.75.0/24 list=NETFLIX
 add address=192.173.80.0/24 list=NETFLIX
 add address=192.173.84.0/24 list=NETFLIX
 add address=192.173.88.0/24 list=NETFLIX
@@ -255,7 +256,6 @@ add address=2607:fb10:7401::/48 list=NETFLIX
 add address=2607:fb10:7410::/44 list=NETFLIX
 add address=2607:fb10:7411::/48 list=NETFLIX
 add address=2607:fb10:7412::/48 list=NETFLIX
-add address=2607:fb10:9016::/48 list=NETFLIX
 add address=2620:0:ef0::/48 list=NETFLIX
 add address=2620:10c:7000::/44 list=NETFLIX
 add address=2620:10c:7000::/48 list=NETFLIX
