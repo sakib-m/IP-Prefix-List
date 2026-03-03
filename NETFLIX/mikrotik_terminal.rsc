@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Mon Mar  2 06:00:53 +06 2026
+# Last Update - Tue Mar  3 06:00:48 +06 2026
 # --------------------------------------------
-# Total Prefixes: 363
+# Total Prefixes: 368
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -176,6 +176,7 @@ add address=207.45.72.0/24 list=NETFLIX
 add address=207.45.73.0/24 list=NETFLIX
 add address=207.45.74.0/23 list=NETFLIX
 add address=207.45.74.0/24 list=NETFLIX
+add address=207.45.75.0/24 list=NETFLIX
 add address=192.173.80.0/24 list=NETFLIX
 add address=192.173.84.0/24 list=NETFLIX
 add address=192.173.88.0/24 list=NETFLIX
@@ -218,6 +219,7 @@ add address=2607:fb10:70e7::/48 list=NETFLIX
 add address=2607:fb10:7146::/48 list=NETFLIX
 add address=2607:fb10:7147::/48 list=NETFLIX
 add address=2607:fb10:7161::/48 list=NETFLIX
+add address=2607:fb10:7170::/48 list=NETFLIX
 add address=2607:fb10:7171::/48 list=NETFLIX
 add address=2607:fb10:7172::/48 list=NETFLIX
 add address=2607:fb10:7181::/48 list=NETFLIX
@@ -354,6 +356,9 @@ add address=2607:fb10:2032::/48 list=NETFLIX
 add address=2607:fb10:2033::/48 list=NETFLIX
 add address=2607:fb10:2034::/48 list=NETFLIX
 add address=2607:fb10:2042::/48 list=NETFLIX
+add address=2607:fb10:2160::/44 list=NETFLIX
+add address=2607:fb10:2161::/48 list=NETFLIX
+add address=2607:fb10:2162::/48 list=NETFLIX
 add address=2607:fb10:5015::/48 list=NETFLIX
 add address=2607:fb10:5016::/48 list=NETFLIX
 add address=2607:fb10:5052::/48 list=NETFLIX
