@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Fri Mar  6 06:01:05 +06 2026
+# Last Update - Sat Mar  7 06:01:19 +06 2026
 # --------------------------------------------
-# Total Prefixes: 2054
+# Total Prefixes: 2051
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -55,6 +55,7 @@ add address=69.165.69.0/24 list=ZENLAYER
 add address=69.165.76.0/24 list=ZENLAYER
 add address=98.96.232.0/24 list=ZENLAYER
 add address=98.96.233.0/24 list=ZENLAYER
+add address=98.96.240.0/24 list=ZENLAYER
 add address=98.96.248.0/24 list=ZENLAYER
 add address=98.96.249.0/24 list=ZENLAYER
 add address=98.96.250.0/24 list=ZENLAYER
@@ -240,7 +241,6 @@ add address=107.151.194.0/24 list=ZENLAYER
 add address=128.14.13.0/24 list=ZENLAYER
 add address=128.14.90.0/24 list=ZENLAYER
 add address=128.14.91.0/24 list=ZENLAYER
-add address=128.14.138.0/24 list=ZENLAYER
 add address=128.14.161.0/24 list=ZENLAYER
 add address=198.44.172.0/24 list=ZENLAYER
 add address=198.44.173.0/24 list=ZENLAYER
@@ -548,11 +548,9 @@ add address=85.237.211.0/24 list=ZENLAYER
 add address=89.21.87.0/24 list=ZENLAYER
 add address=89.23.66.0/24 list=ZENLAYER
 add address=89.37.196.0/24 list=ZENLAYER
-add address=91.193.233.0/24 list=ZENLAYER
 add address=92.112.157.0/24 list=ZENLAYER
 add address=92.113.66.0/24 list=ZENLAYER
 add address=93.88.154.0/24 list=ZENLAYER
-add address=93.95.117.0/24 list=ZENLAYER
 add address=94.103.56.0/22 list=ZENLAYER
 add address=94.154.120.0/24 list=ZENLAYER
 add address=94.177.150.0/24 list=ZENLAYER
@@ -752,6 +750,7 @@ add address=103.149.156.0/23 list=ZENLAYER
 add address=103.155.86.0/23 list=ZENLAYER
 add address=103.155.100.0/24 list=ZENLAYER
 add address=103.156.78.0/23 list=ZENLAYER
+add address=103.188.121.0/24 list=ZENLAYER
 add address=103.193.125.0/24 list=ZENLAYER
 add address=103.193.126.0/24 list=ZENLAYER
 add address=103.193.127.0/24 list=ZENLAYER
@@ -971,6 +970,7 @@ add address=108.165.229.0/24 list=ZENLAYER
 add address=109.105.208.0/24 list=ZENLAYER
 add address=109.105.209.0/24 list=ZENLAYER
 add address=109.105.210.0/24 list=ZENLAYER
+add address=109.105.211.0/24 list=ZENLAYER
 add address=112.196.200.0/24 list=ZENLAYER
 add address=114.114.112.0/21 list=ZENLAYER
 add address=116.199.152.0/22 list=ZENLAYER
@@ -1350,9 +1350,9 @@ add address=140.150.9.0/24 list=ZENLAYER
 add address=140.150.17.0/24 list=ZENLAYER
 add address=140.233.187.0/24 list=ZENLAYER
 add address=143.14.125.0/24 list=ZENLAYER
+add address=143.109.36.0/24 list=ZENLAYER
 add address=144.31.42.0/24 list=ZENLAYER
 add address=144.31.44.0/24 list=ZENLAYER
-add address=144.225.112.0/24 list=ZENLAYER
 add address=145.79.168.0/24 list=ZENLAYER
 add address=146.103.69.0/24 list=ZENLAYER
 add address=146.103.70.0/24 list=ZENLAYER
@@ -1378,7 +1378,6 @@ add address=154.83.78.0/24 list=ZENLAYER
 add address=154.89.5.0/24 list=ZENLAYER
 add address=154.93.2.0/24 list=ZENLAYER
 add address=154.94.49.0/24 list=ZENLAYER
-add address=154.193.129.0/24 list=ZENLAYER
 add address=154.193.248.0/21 list=ZENLAYER
 add address=154.194.56.0/24 list=ZENLAYER
 add address=154.198.164.0/24 list=ZENLAYER
@@ -1538,7 +1537,6 @@ add address=162.128.128.0/24 list=ZENLAYER
 add address=162.128.129.0/24 list=ZENLAYER
 add address=162.128.130.0/24 list=ZENLAYER
 add address=162.128.131.0/24 list=ZENLAYER
-add address=162.128.134.0/24 list=ZENLAYER
 add address=162.128.135.0/24 list=ZENLAYER
 add address=162.128.136.0/24 list=ZENLAYER
 add address=162.128.137.0/24 list=ZENLAYER
@@ -1633,6 +1631,7 @@ add address=162.128.237.0/24 list=ZENLAYER
 add address=162.128.240.0/24 list=ZENLAYER
 add address=162.128.241.0/24 list=ZENLAYER
 add address=162.128.242.0/24 list=ZENLAYER
+add address=162.128.243.0/24 list=ZENLAYER
 add address=162.128.245.0/24 list=ZENLAYER
 add address=162.128.246.0/24 list=ZENLAYER
 add address=162.128.254.0/24 list=ZENLAYER
@@ -1651,9 +1650,7 @@ add address=162.221.196.0/24 list=ZENLAYER
 add address=163.5.66.0/24 list=ZENLAYER
 add address=166.0.245.0/24 list=ZENLAYER
 add address=166.0.246.0/24 list=ZENLAYER
-add address=166.88.248.0/24 list=ZENLAYER
 add address=167.148.223.0/24 list=ZENLAYER
-add address=168.93.208.0/24 list=ZENLAYER
 add address=168.222.4.0/24 list=ZENLAYER
 add address=169.129.184.0/24 list=ZENLAYER
 add address=169.129.185.0/24 list=ZENLAYER
@@ -1796,7 +1793,6 @@ add address=202.63.40.0/24 list=ZENLAYER
 add address=202.179.155.0/24 list=ZENLAYER
 add address=203.217.0.0/24 list=ZENLAYER
 add address=203.231.109.0/24 list=ZENLAYER
-add address=204.2.61.0/24 list=ZENLAYER
 add address=208.76.43.0/24 list=ZENLAYER
 add address=208.81.200.0/22 list=ZENLAYER
 add address=208.81.200.0/24 list=ZENLAYER
@@ -1828,6 +1824,7 @@ add address=211.79.102.0/24 list=ZENLAYER
 add address=212.135.30.0/24 list=ZENLAYER
 add address=213.139.235.0/24 list=ZENLAYER
 add address=216.132.101.0/24 list=ZENLAYER
+add address=216.195.216.0/22 list=ZENLAYER
 add address=216.247.99.0/24 list=ZENLAYER
 add address=217.198.191.0/24 list=ZENLAYER
 add address=223.26.72.0/23 list=ZENLAYER

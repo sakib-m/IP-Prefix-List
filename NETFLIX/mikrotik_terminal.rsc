@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Fri Mar  6 06:00:51 +06 2026
+# Last Update - Sat Mar  7 06:01:04 +06 2026
 # --------------------------------------------
-# Total Prefixes: 368
+# Total Prefixes: 365
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -350,8 +350,6 @@ add address=2a00:86c0:2090::/47 list=NETFLIX
 add address=2a00:86c0:2090::/48 list=NETFLIX
 add address=2a00:86c0:2091::/48 list=NETFLIX
 add address=2607:fb10:2013::/48 list=NETFLIX
-add address=2607:fb10:2014::/48 list=NETFLIX
-add address=2607:fb10:2015::/48 list=NETFLIX
 add address=2607:fb10:2032::/48 list=NETFLIX
 add address=2607:fb10:2033::/48 list=NETFLIX
 add address=2607:fb10:2034::/48 list=NETFLIX
@@ -366,8 +364,7 @@ add address=2607:fb10:5053::/48 list=NETFLIX
 add address=2607:fb10:5065::/48 list=NETFLIX
 add address=2607:fb10:5066::/48 list=NETFLIX
 add address=2607:fb10:5072::/48 list=NETFLIX
-add address=2607:fb10:5082::/48 list=NETFLIX
-add address=2607:fb10:5083::/48 list=NETFLIX
+add address=2607:fb10:5080::/44 list=NETFLIX
 add address=2607:fb10:5096::/48 list=NETFLIX
 add address=2607:fb10:5097::/48 list=NETFLIX
 add address=2607:fb10:50a2::/48 list=NETFLIX
