@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Fri Mar 13 06:00:56 +06 2026
+# Last Update - Sat Mar 14 06:00:53 +06 2026
 # --------------------------------------------
-# Total Prefixes: 589
+# Total Prefixes: 591
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -195,6 +195,7 @@ add address=57.144.244.0/23 list=FACEBOOK
 add address=57.144.248.0/23 list=FACEBOOK
 add address=57.144.250.0/23 list=FACEBOOK
 add address=57.144.252.0/23 list=FACEBOOK
+add address=57.144.254.0/23 list=FACEBOOK
 add address=57.145.0.0/23 list=FACEBOOK
 add address=57.145.4.0/23 list=FACEBOOK
 add address=66.220.144.0/20 list=FACEBOOK
@@ -561,6 +562,7 @@ add address=2a03:2880:f37a::/48 list=FACEBOOK
 add address=2a03:2880:f37c::/48 list=FACEBOOK
 add address=2a03:2880:f37d::/48 list=FACEBOOK
 add address=2a03:2880:f37e::/48 list=FACEBOOK
+add address=2a03:2880:f37f::/48 list=FACEBOOK
 add address=2a03:2880:f380::/48 list=FACEBOOK
 add address=2a03:2880:f382::/48 list=FACEBOOK
 add address=2a03:2880:f800::/48 list=FACEBOOK

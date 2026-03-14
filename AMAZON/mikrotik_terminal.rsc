@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Fri Mar 13 06:00:03 +06 2026
+# Last Update - Sat Mar 14 06:00:04 +06 2026
 # --------------------------------------------
-# Total Prefixes: 10126
+# Total Prefixes: 10128
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -5010,6 +5010,8 @@ add address=2600:f0f0:c046::/48 list=AMAZON
 add address=2600:f0f0:c047::/48 list=AMAZON
 add address=2600:f0f0:c048::/48 list=AMAZON
 add address=2600:f0f0:c049::/48 list=AMAZON
+add address=2600:f0f0:cfd::/48 list=AMAZON
+add address=2600:f0f0:cfe::/48 list=AMAZON
 add address=2600:f0f0:e00::/48 list=AMAZON
 add address=2600:f0f0:e01::/48 list=AMAZON
 add address=2600:f0f0:e02::/48 list=AMAZON
