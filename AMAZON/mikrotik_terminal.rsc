@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Thu Mar 19 06:00:04 +06 2026
+# Last Update - Fri Mar 20 06:00:04 +06 2026
 # --------------------------------------------
-# Total Prefixes: 10131
+# Total Prefixes: 10133
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -1829,8 +1829,6 @@ add address=15.248.128.0/21 list=AMAZON
 add address=15.248.136.0/24 list=AMAZON
 add address=15.248.137.0/24 list=AMAZON
 add address=15.248.138.0/24 list=AMAZON
-add address=15.248.139.1/32 list=AMAZON
-add address=15.248.139.2/32 list=AMAZON
 add address=15.248.140.0/24 list=AMAZON
 add address=15.248.141.0/24 list=AMAZON
 add address=15.248.142.0/24 list=AMAZON
@@ -5068,6 +5066,8 @@ add address=2600:f0f0:f00:300::/56 list=AMAZON
 add address=2600:f0f0:f00:400::/56 list=AMAZON
 add address=2600:f0f0:f00:500::/56 list=AMAZON
 add address=2600:f0f0:f00::/56 list=AMAZON
+add address=2600:f0f1:10::/47 list=AMAZON
+add address=2600:f0f1:12::/47 list=AMAZON
 add address=2600:f0f1:4000::/42 list=AMAZON
 add address=2600:f0f1:4040::/42 list=AMAZON
 add address=2600:f0f1:40c0::/42 list=AMAZON
@@ -5231,6 +5231,7 @@ add address=2606:7b40:1000:7220::/60 list=AMAZON
 add address=2606:7b40:1000:7240::/60 list=AMAZON
 add address=2606:7b40:1000:7270::/60 list=AMAZON
 add address=2606:7b40:1000:7280::/60 list=AMAZON
+add address=2606:7b40:1000:72a0::/60 list=AMAZON
 add address=2606:7b40:1000:72d0::/60 list=AMAZON
 add address=2606:7b40:1000:72e0::/60 list=AMAZON
 add address=2606:7b40:1000:8000::/56 list=AMAZON
@@ -7324,6 +7325,7 @@ add address=40.193.0.0/16 list=AMAZON
 add address=40.194.0.0/16 list=AMAZON
 add address=40.195.0.0/16 list=AMAZON
 add address=40.201.0.0/16 list=AMAZON
+add address=40.235.192.0/18 list=AMAZON
 add address=40.235.64.0/18 list=AMAZON
 add address=40.238.0.0/16 list=AMAZON
 add address=40.239.0.0/16 list=AMAZON
