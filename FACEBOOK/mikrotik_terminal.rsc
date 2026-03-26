@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Wed Mar 25 06:00:56 +06 2026
+# Last Update - Thu Mar 26 06:01:59 +06 2026
 # --------------------------------------------
 # Total Prefixes: 593
 # --------------------------------------------
@@ -11,7 +11,6 @@
 # --------------------------------------------
 /ip firewall address-list
 add address=102.132.112.0/24 list=FACEBOOK
-add address=102.132.114.0/24 list=FACEBOOK
 add address=102.132.115.0/24 list=FACEBOOK
 add address=102.132.116.0/24 list=FACEBOOK
 add address=102.132.117.0/24 list=FACEBOOK
@@ -198,6 +197,7 @@ add address=57.144.250.0/23 list=FACEBOOK
 add address=57.144.252.0/23 list=FACEBOOK
 add address=57.144.254.0/23 list=FACEBOOK
 add address=57.145.0.0/23 list=FACEBOOK
+add address=57.145.2.0/23 list=FACEBOOK
 add address=57.145.4.0/23 list=FACEBOOK
 add address=57.145.12.0/23 list=FACEBOOK
 add address=66.220.144.0/20 list=FACEBOOK
@@ -301,7 +301,6 @@ add address=2a03:2887:ff1e::/48 list=FACEBOOK
 add address=2a03:2887:ff20::/48 list=FACEBOOK
 add address=2a03:2887:ff22::/48 list=FACEBOOK
 add address=2a03:2887:ff23::/48 list=FACEBOOK
-add address=2a03:2887:ff27::/48 list=FACEBOOK
 add address=2a03:2887:ff28::/48 list=FACEBOOK
 add address=2a03:2887:ff29::/48 list=FACEBOOK
 add address=2a03:2887:ff2a::/48 list=FACEBOOK
@@ -565,6 +564,7 @@ add address=2a03:2880:f37d::/48 list=FACEBOOK
 add address=2a03:2880:f37e::/48 list=FACEBOOK
 add address=2a03:2880:f37f::/48 list=FACEBOOK
 add address=2a03:2880:f380::/48 list=FACEBOOK
+add address=2a03:2880:f381::/48 list=FACEBOOK
 add address=2a03:2880:f382::/48 list=FACEBOOK
 add address=2a03:2880:f386::/48 list=FACEBOOK
 add address=2a03:2880:f800::/48 list=FACEBOOK

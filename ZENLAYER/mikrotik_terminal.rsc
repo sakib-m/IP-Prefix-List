@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Wed Mar 25 06:01:09 +06 2026
+# Last Update - Thu Mar 26 06:02:25 +06 2026
 # --------------------------------------------
 # Total Prefixes: 2064
 # --------------------------------------------
@@ -385,6 +385,7 @@ add address=38.143.41.0/24 list=ZENLAYER
 add address=38.183.160.0/20 list=ZENLAYER
 add address=38.211.80.0/20 list=ZENLAYER
 add address=40.27.57.0/24 list=ZENLAYER
+add address=40.183.227.0/24 list=ZENLAYER
 add address=43.174.120.0/24 list=ZENLAYER
 add address=43.174.121.0/24 list=ZENLAYER
 add address=43.229.152.0/24 list=ZENLAYER
@@ -1383,7 +1384,6 @@ add address=154.83.71.0/24 list=ZENLAYER
 add address=154.83.78.0/24 list=ZENLAYER
 add address=154.89.5.0/24 list=ZENLAYER
 add address=154.93.2.0/24 list=ZENLAYER
-add address=154.94.49.0/24 list=ZENLAYER
 add address=154.193.248.0/21 list=ZENLAYER
 add address=154.194.56.0/24 list=ZENLAYER
 add address=154.198.164.0/24 list=ZENLAYER
