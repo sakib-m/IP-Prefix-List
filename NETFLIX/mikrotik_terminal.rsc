@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Mon Mar 30 06:00:55 +06 2026
+# Last Update - Tue Mar 31 06:00:52 +06 2026
 # --------------------------------------------
 # Total Prefixes: 367
 # --------------------------------------------
@@ -223,6 +223,7 @@ add address=2607:fb10:7147::/48 list=NETFLIX
 add address=2607:fb10:7161::/48 list=NETFLIX
 add address=2607:fb10:7170::/48 list=NETFLIX
 add address=2607:fb10:7171::/48 list=NETFLIX
+add address=2607:fb10:7172::/48 list=NETFLIX
 add address=2607:fb10:7181::/48 list=NETFLIX
 add address=2607:fb10:7182::/48 list=NETFLIX
 add address=2607:fb10:7193::/48 list=NETFLIX
@@ -258,7 +259,6 @@ add address=2607:fb10:7392::/48 list=NETFLIX
 add address=2607:fb10:7401::/48 list=NETFLIX
 add address=2607:fb10:7410::/44 list=NETFLIX
 add address=2607:fb10:7411::/48 list=NETFLIX
-add address=2607:fb10:7412::/48 list=NETFLIX
 add address=2620:10c:7000::/44 list=NETFLIX
 add address=2620:10c:7000::/48 list=NETFLIX
 add address=2a00:86c0::/32 list=NETFLIX
