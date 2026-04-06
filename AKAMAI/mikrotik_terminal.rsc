@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sun Apr  5 06:00:44 +06 2026
+# Last Update - Mon Apr  6 06:00:44 +06 2026
 # --------------------------------------------
-# Total Prefixes: 11073
+# Total Prefixes: 11078
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -8299,7 +8299,6 @@ add address=2a02:26f7:136::/48 list=AKAMAI
 add address=2a02:26f7:138::/48 list=AKAMAI
 add address=2a02:26f7:13a::/48 list=AKAMAI
 add address=2a02:26f7:13b::/48 list=AKAMAI
-add address=2a02:26f7:13e::/48 list=AKAMAI
 add address=2a02:26f7:140::/48 list=AKAMAI
 add address=2a02:26f7:142::/48 list=AKAMAI
 add address=2a02:26f7:143::/48 list=AKAMAI
@@ -8534,6 +8533,10 @@ add address=2a02:26f7:b244::/48 list=AKAMAI
 add address=2a02:26f7:b245::/48 list=AKAMAI
 add address=2a02:26f7:b246::/48 list=AKAMAI
 add address=2a02:26f7:b247::/48 list=AKAMAI
+add address=2a02:26f7:b248::/48 list=AKAMAI
+add address=2a02:26f7:b249::/48 list=AKAMAI
+add address=2a02:26f7:b24a::/48 list=AKAMAI
+add address=2a02:26f7:b24b::/48 list=AKAMAI
 add address=2a02:26f7:b24c::/48 list=AKAMAI
 add address=2a02:26f7:b24d::/48 list=AKAMAI
 add address=2a02:26f7:b24e::/48 list=AKAMAI
@@ -8794,6 +8797,7 @@ add address=2a02:26f7:bd88::/48 list=AKAMAI
 add address=2a02:26f7:bd8c::/48 list=AKAMAI
 add address=2a02:26f7:bdc0::/48 list=AKAMAI
 add address=2a02:26f7:bdc2::/48 list=AKAMAI
+add address=2a02:26f7:bdc6::/48 list=AKAMAI
 add address=2a02:26f7:bdc8::/48 list=AKAMAI
 add address=2a02:26f7:bdd4::/48 list=AKAMAI
 add address=2a02:26f7:be00::/48 list=AKAMAI
@@ -9467,6 +9471,7 @@ add address=2a02:26f7:e642::/48 list=AKAMAI
 add address=2a02:26f7:e644::/48 list=AKAMAI
 add address=2a02:26f7:e680::/48 list=AKAMAI
 add address=2a02:26f7:e682::/48 list=AKAMAI
+add address=2a02:26f7:e684::/48 list=AKAMAI
 add address=2a02:26f7:e688::/48 list=AKAMAI
 add address=2a02:26f7:e6c0::/48 list=AKAMAI
 add address=2a02:26f7:e6c2::/48 list=AKAMAI
@@ -9596,7 +9601,6 @@ add address=2a02:26f7:ef02::/48 list=AKAMAI
 add address=2a02:26f7:ef04::/48 list=AKAMAI
 add address=2a02:26f7:ef0c::/48 list=AKAMAI
 add address=2a02:26f7:ef10::/48 list=AKAMAI
-add address=2a02:26f7:ef14::/48 list=AKAMAI
 add address=2a02:26f7:ef40::/48 list=AKAMAI
 add address=2a02:26f7:ef44::/48 list=AKAMAI
 add address=2a02:26f7:ef48::/48 list=AKAMAI
@@ -9716,6 +9720,7 @@ add address=2a02:26f7:f6d0::/48 list=AKAMAI
 add address=2a02:26f7:f6d4::/48 list=AKAMAI
 add address=2a02:26f7:f6d8::/48 list=AKAMAI
 add address=2a02:26f7:f6d9::/48 list=AKAMAI
+add address=2a02:26f7:f6da::/48 list=AKAMAI
 add address=2a02:26f7:f6dc::/48 list=AKAMAI
 add address=2a02:26f7:f6e0::/48 list=AKAMAI
 add address=2a02:26f7:f6e1::/48 list=AKAMAI
