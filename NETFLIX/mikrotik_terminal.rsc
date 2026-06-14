@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Sat Jun 13 06:00:38 +06 2026
+# Last Update - Sun Jun 14 06:00:46 +06 2026
 # --------------------------------------------
-# Total Prefixes: 363
+# Total Prefixes: 362
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -126,6 +126,7 @@ add address=192.173.81.0/24 list=NETFLIX
 add address=192.173.86.0/24 list=NETFLIX
 add address=192.173.87.0/24 list=NETFLIX
 add address=192.173.91.0/24 list=NETFLIX
+add address=192.173.92.0/24 list=NETFLIX
 add address=192.173.93.0/24 list=NETFLIX
 add address=192.173.94.0/24 list=NETFLIX
 add address=192.173.95.0/24 list=NETFLIX
@@ -164,8 +165,6 @@ add address=45.57.9.0/24 list=NETFLIX
 add address=45.57.40.0/23 list=NETFLIX
 add address=45.57.40.0/24 list=NETFLIX
 add address=45.57.41.0/24 list=NETFLIX
-add address=45.57.44.0/24 list=NETFLIX
-add address=45.57.45.0/24 list=NETFLIX
 add address=45.57.86.0/23 list=NETFLIX
 add address=45.57.86.0/24 list=NETFLIX
 add address=45.57.87.0/24 list=NETFLIX
@@ -237,7 +236,9 @@ add address=2607:fb10:71e2::/48 list=NETFLIX
 add address=2607:fb10:71f1::/48 list=NETFLIX
 add address=2607:fb10:71f2::/48 list=NETFLIX
 add address=2607:fb10:7202::/48 list=NETFLIX
+add address=2607:fb10:7220::/48 list=NETFLIX
 add address=2607:fb10:7221::/48 list=NETFLIX
+add address=2607:fb10:7222::/48 list=NETFLIX
 add address=2607:fb10:7231::/48 list=NETFLIX
 add address=2607:fb10:7252::/48 list=NETFLIX
 add address=2607:fb10:7261::/48 list=NETFLIX
@@ -341,8 +342,6 @@ add address=2a00:86c0:2041::/48 list=NETFLIX
 add address=2a00:86c0:2042::/47 list=NETFLIX
 add address=2a00:86c0:2042::/48 list=NETFLIX
 add address=2a00:86c0:2043::/48 list=NETFLIX
-add address=2a00:86c0:2044::/48 list=NETFLIX
-add address=2a00:86c0:2045::/48 list=NETFLIX
 add address=2a00:86c0:2052::/47 list=NETFLIX
 add address=2a00:86c0:2052::/48 list=NETFLIX
 add address=2a00:86c0:2053::/48 list=NETFLIX
