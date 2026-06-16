@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Mon Jun 15 06:00:04 +06 2026
+# Last Update - Tue Jun 16 06:00:03 +06 2026
 # --------------------------------------------
-# Total Prefixes: 10563
+# Total Prefixes: 10574
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -328,6 +328,7 @@ add address=120.52.12.64/26 list=AMAZON
 add address=120.52.153.192/26 list=AMAZON
 add address=120.52.22.96/27 list=AMAZON
 add address=120.52.39.128/27 list=AMAZON
+add address=121.91.98.0/23 list=AMAZON
 add address=122.200.61.0/24 list=AMAZON
 add address=122.248.192.0/18 list=AMAZON
 add address=13.112.0.0/14 list=AMAZON
@@ -4260,6 +4261,7 @@ add address=2600:1f01:4900:700::/56 list=AMAZON
 add address=2600:1f01:4900:800::/56 list=AMAZON
 add address=2600:1f01:4900:900::/56 list=AMAZON
 add address=2600:1f01:4900:a00::/56 list=AMAZON
+add address=2600:1f01:4900:b00::/56 list=AMAZON
 add address=2600:1f01:4902:0:8000::/65 list=AMAZON
 add address=2600:1f01:4902:100::/56 list=AMAZON
 add address=2600:1f01:4902:1:8000::/65 list=AMAZON
@@ -4997,6 +4999,7 @@ add address=2600:f0f0:1:fd00::/56 list=AMAZON
 add address=2600:f0f0:1:fe00::/56 list=AMAZON
 add address=2600:f0f0:1:ff00::/56 list=AMAZON
 add address=2600:f0f0:20::/48 list=AMAZON
+add address=2600:f0f0:22::/47 list=AMAZON
 add address=2600:f0f0:2::/48 list=AMAZON
 add address=2600:f0f0:300:100::/56 list=AMAZON
 add address=2600:f0f0:30::/44 list=AMAZON
@@ -5546,6 +5549,7 @@ add address=2606:7b40:1b07:8000::/56 list=AMAZON
 add address=2606:7b40:1b07::/56 list=AMAZON
 add address=2606:7b40:1b07:c000::/56 list=AMAZON
 add address=2606:7b40:1b08:100::/56 list=AMAZON
+add address=2606:7b40:1b08:200::/56 list=AMAZON
 add address=2606:7b40:1b08::/56 list=AMAZON
 add address=2606:7b40:1b09:100::/56 list=AMAZON
 add address=2606:7b40:1b09:200::/56 list=AMAZON
@@ -7665,6 +7669,7 @@ add address=37.203.157.0/24 list=AMAZON
 add address=40.138.216.0/22 list=AMAZON
 add address=40.143.64.0/21 list=AMAZON
 add address=40.164.0.0/16 list=AMAZON
+add address=40.164.2.0/23 list=AMAZON
 add address=40.165.0.0/16 list=AMAZON
 add address=40.166.0.0/16 list=AMAZON
 add address=40.167.0.0/16 list=AMAZON
@@ -7714,6 +7719,7 @@ add address=40.239.0.0/16 list=AMAZON
 add address=40.32.0.0/16 list=AMAZON
 add address=40.35.0.0/16 list=AMAZON
 add address=40.38.0.0/16 list=AMAZON
+add address=40.38.204.0/23 list=AMAZON
 add address=40.39.0.0/16 list=AMAZON
 add address=43.192.0.0/16 list=AMAZON
 add address=43.192.144.0/22 list=AMAZON
@@ -7982,6 +7988,8 @@ add address=45.33.175.0/24 list=AMAZON
 add address=45.33.176.0/24 list=AMAZON
 add address=45.33.177.0/24 list=AMAZON
 add address=45.33.178.0/24 list=AMAZON
+add address=45.33.179.0/24 list=AMAZON
+add address=45.33.180.0/24 list=AMAZON
 add address=45.34.0.0/15 list=AMAZON
 add address=45.57.128.0/18 list=AMAZON
 add address=46.137.0.0/17 list=AMAZON
@@ -9906,6 +9914,9 @@ add address=63.246.113.0/24 list=AMAZON
 add address=63.246.114.0/23 list=AMAZON
 add address=63.246.119.0/24 list=AMAZON
 add address=63.246.120.0/21 list=AMAZON
+add address=63.249.154.0/24 list=AMAZON
+add address=63.249.155.0/24 list=AMAZON
+add address=63.249.156.0/24 list=AMAZON
 add address=63.32.0.0/14 list=AMAZON
 add address=63.34.60.0/22 list=AMAZON
 add address=64.187.128.0/20 list=AMAZON
@@ -9968,9 +9979,7 @@ add address=64.252.89.0/24 list=AMAZON
 add address=64.252.97.0/24 list=AMAZON
 add address=64.252.98.0/24 list=AMAZON
 add address=64.252.99.0/24 list=AMAZON
-add address=64.73.192.0/24 list=AMAZON
 add address=64.73.193.0/24 list=AMAZON
-add address=64.73.194.0/24 list=AMAZON
 add address=64.73.195.0/24 list=AMAZON
 add address=64.73.196.0/24 list=AMAZON
 add address=64.73.197.0/24 list=AMAZON
@@ -10121,6 +10130,8 @@ add address=69.107.12.80/29 list=AMAZON
 add address=69.107.12.88/29 list=AMAZON
 add address=69.107.12.96/29 list=AMAZON
 add address=69.107.13.0/29 list=AMAZON
+add address=69.107.13.16/29 list=AMAZON
+add address=69.107.13.24/29 list=AMAZON
 add address=69.107.13.8/29 list=AMAZON
 add address=69.107.3.176/29 list=AMAZON
 add address=69.107.3.184/29 list=AMAZON

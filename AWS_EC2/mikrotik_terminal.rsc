@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Mon Jun 15 06:00:06 +06 2026
+# Last Update - Tue Jun 16 06:00:05 +06 2026
 # --------------------------------------------
-# Total Prefixes: 1833
+# Total Prefixes: 1836
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -66,6 +66,7 @@ add address=108.136.0.0/15 list=AWS_EC2
 add address=108.175.56.0/22 list=AWS_EC2
 add address=108.175.60.0/22 list=AWS_EC2
 add address=110.238.2.0/23 list=AWS_EC2
+add address=121.91.98.0/23 list=AWS_EC2
 add address=122.200.61.0/24 list=AWS_EC2
 add address=122.248.192.0/18 list=AWS_EC2
 add address=13.112.0.0/14 list=AWS_EC2
@@ -1544,6 +1545,9 @@ add address=63.184.0.0/13 list=AWS_EC2
 add address=63.246.112.0/24 list=AWS_EC2
 add address=63.246.113.0/24 list=AWS_EC2
 add address=63.246.119.0/24 list=AWS_EC2
+add address=63.249.154.0/24 list=AWS_EC2
+add address=63.249.155.0/24 list=AWS_EC2
+add address=63.249.156.0/24 list=AWS_EC2
 add address=63.32.0.0/14 list=AWS_EC2
 add address=64.187.128.0/20 list=AWS_EC2
 add address=64.252.100.0/24 list=AWS_EC2
@@ -1602,9 +1606,7 @@ add address=64.252.89.0/24 list=AWS_EC2
 add address=64.252.97.0/24 list=AWS_EC2
 add address=64.252.98.0/24 list=AWS_EC2
 add address=64.252.99.0/24 list=AWS_EC2
-add address=64.73.192.0/24 list=AWS_EC2
 add address=64.73.193.0/24 list=AWS_EC2
-add address=64.73.194.0/24 list=AWS_EC2
 add address=64.73.195.0/24 list=AWS_EC2
 add address=64.73.196.0/24 list=AWS_EC2
 add address=64.73.197.0/24 list=AWS_EC2
@@ -1659,6 +1661,7 @@ add address=83.118.240.0/22 list=AWS_EC2
 add address=83.119.128.0/18 list=AWS_EC2
 add address=83.119.64.0/18 list=AWS_EC2
 add address=83.160.0.0/15 list=AWS_EC2
+add address=89.60.0.0/15 list=AWS_EC2
 add address=95.40.0.0/15 list=AWS_EC2
 add address=96.0.0.0/21 list=AWS_EC2
 add address=96.0.100.0/23 list=AWS_EC2
