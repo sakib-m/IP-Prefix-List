@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: GOOGLE DOCS
 # --------------------------------------------
-# Last Update - Wed Jun 17 06:00:11 +06 2026
+# Last Update - Thu Jun 18 06:00:10 +06 2026
 # --------------------------------------------
-# Total Prefixes: 111
+# Total Prefixes: 112
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -76,6 +76,7 @@ add address=136.107.0.0/16 list=GOOGLE
 add address=136.108.0.0/14 list=GOOGLE
 add address=136.112.0.0/13 list=GOOGLE
 add address=136.120.0.0/22 list=GOOGLE
+add address=136.121.8.0/21 list=GOOGLE
 add address=136.124.0.0/15 list=GOOGLE
 add address=142.250.0.0/15 list=GOOGLE
 add address=146.148.0.0/17 list=GOOGLE
