@@ -3,25 +3,43 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Fri Jun 19 06:00:46 +06 2026
+# Last Update - Sat Jun 20 06:00:43 +06 2026
 # --------------------------------------------
-# Total Prefixes: 24
+# Total Prefixes: 42
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=91.108.4.0/22 list=TELEGRAM
+add address=91.108.4.0/23 list=TELEGRAM
+add address=91.108.6.0/23 list=TELEGRAM
 add address=91.108.8.0/22 list=TELEGRAM
+add address=91.108.8.0/23 list=TELEGRAM
+add address=91.108.10.0/23 list=TELEGRAM
 add address=91.108.56.0/22 list=TELEGRAM
 add address=95.161.64.0/20 list=TELEGRAM
+add address=95.161.64.0/21 list=TELEGRAM
+add address=95.161.72.0/21 list=TELEGRAM
 add address=149.154.160.0/22 list=TELEGRAM
 add address=149.154.160.0/23 list=TELEGRAM
+add address=149.154.160.0/24 list=TELEGRAM
+add address=149.154.161.0/24 list=TELEGRAM
 add address=149.154.162.0/23 list=TELEGRAM
+add address=149.154.162.0/24 list=TELEGRAM
+add address=149.154.163.0/24 list=TELEGRAM
 add address=149.154.164.0/22 list=TELEGRAM
 add address=149.154.164.0/23 list=TELEGRAM
+add address=149.154.164.0/24 list=TELEGRAM
+add address=149.154.165.0/24 list=TELEGRAM
 add address=149.154.166.0/23 list=TELEGRAM
+add address=149.154.166.0/24 list=TELEGRAM
+add address=149.154.167.0/24 list=TELEGRAM
 add address=91.108.16.0/22 list=TELEGRAM
+add address=91.108.16.0/23 list=TELEGRAM
+add address=91.108.18.0/23 list=TELEGRAM
 add address=91.108.56.0/23 list=TELEGRAM
+add address=91.108.56.0/24 list=TELEGRAM
+add address=91.108.57.0/24 list=TELEGRAM
 add address=149.154.168.0/22 list=TELEGRAM
 add address=91.108.12.0/22 list=TELEGRAM
 add address=149.154.172.0/22 list=TELEGRAM
