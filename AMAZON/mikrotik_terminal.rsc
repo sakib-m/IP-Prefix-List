@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Thu Jun 25 06:00:03 +06 2026
+# Last Update - Fri Jun 26 06:00:04 +06 2026
 # --------------------------------------------
-# Total Prefixes: 10629
+# Total Prefixes: 10648
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -5146,6 +5146,7 @@ add address=2600:f0f0:721::/48 list=AMAZON
 add address=2600:f0f0:730::/48 list=AMAZON
 add address=2600:f0f0:731::/48 list=AMAZON
 add address=2600:f0f0:78::/45 list=AMAZON
+add address=2600:f0f0:7::/48 list=AMAZON
 add address=2600:f0f0:80::/48 list=AMAZON
 add address=2600:f0f0:8100::/48 list=AMAZON
 add address=2600:f0f0:8101::/48 list=AMAZON
@@ -9923,6 +9924,8 @@ add address=63.246.113.0/24 list=AMAZON
 add address=63.246.114.0/23 list=AMAZON
 add address=63.246.119.0/24 list=AMAZON
 add address=63.246.120.0/21 list=AMAZON
+add address=63.249.129.0/24 list=AMAZON
+add address=63.249.130.0/24 list=AMAZON
 add address=63.249.131.0/24 list=AMAZON
 add address=63.249.132.0/24 list=AMAZON
 add address=63.249.133.0/24 list=AMAZON
@@ -9934,6 +9937,7 @@ add address=63.249.144.0/24 list=AMAZON
 add address=63.249.145.0/24 list=AMAZON
 add address=63.249.146.0/24 list=AMAZON
 add address=63.249.148.0/24 list=AMAZON
+add address=63.249.149.0/24 list=AMAZON
 add address=63.249.150.0/24 list=AMAZON
 add address=63.249.151.0/24 list=AMAZON
 add address=63.249.152.0/24 list=AMAZON
@@ -9944,6 +9948,10 @@ add address=63.249.156.0/24 list=AMAZON
 add address=63.249.157.0/24 list=AMAZON
 add address=63.249.158.0/24 list=AMAZON
 add address=63.249.159.0/24 list=AMAZON
+add address=63.249.161.0/24 list=AMAZON
+add address=63.249.162.0/24 list=AMAZON
+add address=63.249.164.0/24 list=AMAZON
+add address=63.249.165.0/24 list=AMAZON
 add address=63.249.166.0/24 list=AMAZON
 add address=63.249.167.0/24 list=AMAZON
 add address=63.249.168.0/24 list=AMAZON
@@ -9951,25 +9959,36 @@ add address=63.249.169.0/24 list=AMAZON
 add address=63.249.170.0/24 list=AMAZON
 add address=63.249.171.0/24 list=AMAZON
 add address=63.249.172.0/24 list=AMAZON
+add address=63.249.174.0/24 list=AMAZON
+add address=63.249.175.0/24 list=AMAZON
 add address=63.249.176.0/24 list=AMAZON
 add address=63.249.177.0/24 list=AMAZON
 add address=63.249.178.0/24 list=AMAZON
+add address=63.249.179.0/24 list=AMAZON
 add address=63.249.181.0/24 list=AMAZON
 add address=63.249.182.0/24 list=AMAZON
 add address=63.249.185.0/24 list=AMAZON
 add address=63.249.186.0/24 list=AMAZON
 add address=63.249.187.0/24 list=AMAZON
 add address=63.249.188.0/24 list=AMAZON
+add address=63.249.189.0/24 list=AMAZON
 add address=63.249.192.0/24 list=AMAZON
 add address=63.249.193.0/24 list=AMAZON
 add address=63.249.194.0/24 list=AMAZON
 add address=63.249.198.0/24 list=AMAZON
+add address=63.249.199.0/24 list=AMAZON
 add address=63.249.200.0/24 list=AMAZON
 add address=63.249.201.0/24 list=AMAZON
 add address=63.249.202.0/24 list=AMAZON
 add address=63.249.203.0/24 list=AMAZON
 add address=63.249.204.0/24 list=AMAZON
+add address=63.249.205.0/24 list=AMAZON
+add address=63.249.206.0/24 list=AMAZON
 add address=63.249.207.0/24 list=AMAZON
+add address=63.249.208.0/24 list=AMAZON
+add address=63.249.209.0/24 list=AMAZON
+add address=63.249.213.0/24 list=AMAZON
+add address=63.249.214.0/24 list=AMAZON
 add address=63.249.215.0/24 list=AMAZON
 add address=63.32.0.0/14 list=AMAZON
 add address=63.34.60.0/22 list=AMAZON
@@ -10033,11 +10052,11 @@ add address=64.252.89.0/24 list=AMAZON
 add address=64.252.97.0/24 list=AMAZON
 add address=64.252.98.0/24 list=AMAZON
 add address=64.252.99.0/24 list=AMAZON
+add address=64.66.128.0/24 list=AMAZON
 add address=64.73.193.0/24 list=AMAZON
 add address=64.73.195.0/24 list=AMAZON
 add address=64.73.196.0/24 list=AMAZON
 add address=64.73.197.0/24 list=AMAZON
-add address=64.73.201.0/24 list=AMAZON
 add address=64.73.202.0/24 list=AMAZON
 add address=64.73.203.0/24 list=AMAZON
 add address=64.73.204.0/24 list=AMAZON
