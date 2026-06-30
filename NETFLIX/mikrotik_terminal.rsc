@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Mon Jun 29 06:00:37 +06 2026
+# Last Update - Tue Jun 30 06:00:39 +06 2026
 # --------------------------------------------
 # Total Prefixes: 364
 # --------------------------------------------
@@ -71,7 +71,6 @@ add address=64.120.128.0/17 list=NETFLIX
 add address=64.120.240.0/20 list=NETFLIX
 add address=66.197.128.0/17 list=NETFLIX
 add address=66.197.192.0/18 list=NETFLIX
-add address=66.197.192.0/24 list=NETFLIX
 add address=66.197.194.0/24 list=NETFLIX
 add address=66.197.195.0/24 list=NETFLIX
 add address=66.197.196.0/24 list=NETFLIX
@@ -255,7 +254,7 @@ add address=2607:fb10:7312::/48 list=NETFLIX
 add address=2607:fb10:7321::/48 list=NETFLIX
 add address=2607:fb10:7340::/48 list=NETFLIX
 add address=2607:fb10:7351::/48 list=NETFLIX
-add address=2607:fb10:7368::/48 list=NETFLIX
+add address=2607:fb10:7365::/48 list=NETFLIX
 add address=2607:fb10:7381::/48 list=NETFLIX
 add address=2607:fb10:7391::/48 list=NETFLIX
 add address=2607:fb10:7392::/48 list=NETFLIX
@@ -311,7 +310,6 @@ add address=2a00:86c0:2101::/48 list=NETFLIX
 add address=2a00:86c0:2102::/48 list=NETFLIX
 add address=2a00:86c0:2103::/48 list=NETFLIX
 add address=2a00:86c0:8000::/40 list=NETFLIX
-add address=2a00:86c0:8000::/48 list=NETFLIX
 add address=2a00:86c0:8002::/48 list=NETFLIX
 add address=2a00:86c0:8003::/48 list=NETFLIX
 add address=2a00:86c0:8005::/48 list=NETFLIX
@@ -368,9 +366,11 @@ add address=2607:fb10:5080::/44 list=NETFLIX
 add address=2607:fb10:5096::/48 list=NETFLIX
 add address=2607:fb10:5097::/48 list=NETFLIX
 add address=2607:fb10:50a1::/48 list=NETFLIX
+add address=2607:fb10:50b1::/48 list=NETFLIX
 add address=2607:fb10:50b2::/48 list=NETFLIX
 add address=2607:fb10:50b3::/48 list=NETFLIX
 add address=2607:fb10:50c2::/48 list=NETFLIX
+add address=2607:fb10:6010::/48 list=NETFLIX
 add address=2607:fb10:7301::/48 list=NETFLIX
 add address=2607:fb10:7367::/48 list=NETFLIX
 add address=2607:fb10:73a0::/44 list=NETFLIX

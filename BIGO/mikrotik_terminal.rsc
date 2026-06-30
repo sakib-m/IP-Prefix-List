@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Mon Jun 29 06:00:48 +06 2026
+# Last Update - Tue Jun 30 06:00:50 +06 2026
 # --------------------------------------------
-# Total Prefixes: 230
+# Total Prefixes: 226
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -82,7 +82,6 @@ add address=169.136.79.0/24 list=BIGO
 add address=169.136.80.0/24 list=BIGO
 add address=169.136.81.0/24 list=BIGO
 add address=169.136.82.0/24 list=BIGO
-add address=169.136.83.0/24 list=BIGO
 add address=169.136.84.0/24 list=BIGO
 add address=169.136.85.0/24 list=BIGO
 add address=169.136.86.0/24 list=BIGO
@@ -134,7 +133,6 @@ add address=169.136.139.0/24 list=BIGO
 add address=169.136.140.0/24 list=BIGO
 add address=169.136.142.0/24 list=BIGO
 add address=169.136.143.0/24 list=BIGO
-add address=169.136.144.0/24 list=BIGO
 add address=169.136.148.0/24 list=BIGO
 add address=169.136.149.0/24 list=BIGO
 add address=169.136.150.0/24 list=BIGO
@@ -148,7 +146,6 @@ add address=169.136.158.0/24 list=BIGO
 add address=169.136.159.0/24 list=BIGO
 add address=169.136.160.0/24 list=BIGO
 add address=169.136.161.0/24 list=BIGO
-add address=169.136.162.0/24 list=BIGO
 add address=169.136.163.0/24 list=BIGO
 add address=169.136.164.0/24 list=BIGO
 add address=169.136.165.0/24 list=BIGO
@@ -189,7 +186,6 @@ add address=202.63.39.0/24 list=BIGO
 add address=202.63.41.0/24 list=BIGO
 add address=202.63.42.0/24 list=BIGO
 add address=202.63.43.0/24 list=BIGO
-add address=202.63.44.0/24 list=BIGO
 add address=202.63.45.0/24 list=BIGO
 add address=202.63.46.0/24 list=BIGO
 add address=202.63.48.0/24 list=BIGO
