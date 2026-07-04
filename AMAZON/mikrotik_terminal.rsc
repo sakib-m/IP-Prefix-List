@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Fri Jul  3 06:00:03 +06 2026
+# Last Update - Sat Jul  4 06:00:04 +06 2026
 # --------------------------------------------
-# Total Prefixes: 10739
+# Total Prefixes: 10741
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -43,6 +43,7 @@ add address=1.178.65.0/24 list=AMAZON
 add address=1.178.7.0/24 list=AMAZON
 add address=1.178.72.0/21 list=AMAZON
 add address=1.178.8.0/24 list=AMAZON
+add address=1.178.86.0/24 list=AMAZON
 add address=1.178.88.0/24 list=AMAZON
 add address=1.178.89.0/24 list=AMAZON
 add address=1.178.9.0/24 list=AMAZON
@@ -2457,6 +2458,7 @@ add address=16.107.0.0/16 list=AMAZON
 add address=16.11.0.0/16 list=AMAZON
 add address=16.112.0.0/16 list=AMAZON
 add address=16.113.0.0/16 list=AMAZON
+add address=16.113.58.0/23 list=AMAZON
 add address=16.12.0.0/23 list=AMAZON
 add address=16.12.10.0/23 list=AMAZON
 add address=16.12.104.0/21 list=AMAZON
@@ -5673,6 +5675,7 @@ add address=2606:7b40:3007:c000::/50 list=AMAZON
 add address=2606:7b40:3008::/50 list=AMAZON
 add address=2606:7b40:3009:c000::/52 list=AMAZON
 add address=2606:7b40:300a::/56 list=AMAZON
+add address=2606:7b40:300b::/54 list=AMAZON
 add address=2606:7b40:901::/48 list=AMAZON
 add address=2606:7b40:903::/48 list=AMAZON
 add address=2606:7b40:9fc::/48 list=AMAZON
@@ -5894,7 +5897,6 @@ add address=2631:1:10b::/48 list=AMAZON
 add address=2631:1:10c::/48 list=AMAZON
 add address=2631:1:10d::/48 list=AMAZON
 add address=2631:1:10f::/48 list=AMAZON
-add address=2631:1:200::/40 list=AMAZON
 add address=2631::/48 list=AMAZON
 add address=27.0.0.0/22 list=AMAZON
 add address=2804:800::/48 list=AMAZON
