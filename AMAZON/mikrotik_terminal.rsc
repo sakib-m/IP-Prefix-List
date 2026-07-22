@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Jul 21 06:00:03 +06 2026
+# Last Update - Wed Jul 22 06:00:04 +06 2026
 # --------------------------------------------
-# Total Prefixes: 10695
+# Total Prefixes: 10703
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -18,6 +18,7 @@ add address=1.178.102.0/24 list=AMAZON
 add address=1.178.103.0/24 list=AMAZON
 add address=1.178.11.0/24 list=AMAZON
 add address=1.178.16.0/24 list=AMAZON
+add address=1.178.168.0/24 list=AMAZON
 add address=1.178.17.0/24 list=AMAZON
 add address=1.178.172.0/23 list=AMAZON
 add address=1.178.174.0/24 list=AMAZON
@@ -4289,6 +4290,10 @@ add address=2600:1f01:4902:0:8000::/65 list=AMAZON
 add address=2600:1f01:4902:100::/56 list=AMAZON
 add address=2600:1f01:4902:1:8000::/65 list=AMAZON
 add address=2600:1f01:4902:1::/65 list=AMAZON
+add address=2600:1f01:4902:2:8000::/65 list=AMAZON
+add address=2600:1f01:4902:2::/65 list=AMAZON
+add address=2600:1f01:4902:3:8000::/65 list=AMAZON
+add address=2600:1f01:4902:3::/65 list=AMAZON
 add address=2600:1f01:4902::/65 list=AMAZON
 add address=2600:1f01:4904::/47 list=AMAZON
 add address=2600:1f01:4906::/47 list=AMAZON
@@ -7973,6 +7978,7 @@ add address=45.33.178.0/24 list=AMAZON
 add address=45.33.179.0/24 list=AMAZON
 add address=45.33.180.0/24 list=AMAZON
 add address=45.33.181.0/24 list=AMAZON
+add address=45.33.182.0/24 list=AMAZON
 add address=45.33.183.0/24 list=AMAZON
 add address=45.33.184.0/24 list=AMAZON
 add address=45.33.185.0/24 list=AMAZON
@@ -10251,6 +10257,8 @@ add address=69.107.12.96/29 list=AMAZON
 add address=69.107.13.0/29 list=AMAZON
 add address=69.107.13.16/29 list=AMAZON
 add address=69.107.13.24/29 list=AMAZON
+add address=69.107.13.32/29 list=AMAZON
+add address=69.107.13.40/29 list=AMAZON
 add address=69.107.13.8/29 list=AMAZON
 add address=69.107.3.176/29 list=AMAZON
 add address=69.107.3.184/29 list=AMAZON

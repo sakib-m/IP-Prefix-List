@@ -3,13 +3,14 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Jul 21 06:00:04 +06 2026
+# Last Update - Wed Jul 22 06:00:05 +06 2026
 # --------------------------------------------
-# Total Prefixes: 209
+# Total Prefixes: 210
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
+add address=1.178.168.0/24 list=AWS_CLOUDFRONT
 add address=108.138.0.0/15 list=AWS_CLOUDFRONT
 add address=108.156.0.0/14 list=AWS_CLOUDFRONT
 add address=111.13.171.128/26 list=AWS_CLOUDFRONT
