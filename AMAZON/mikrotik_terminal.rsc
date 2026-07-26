@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Sat Jul 25 06:00:04 +06 2026
+# Last Update - Sun Jul 26 06:00:03 +06 2026
 # --------------------------------------------
-# Total Prefixes: 10722
+# Total Prefixes: 10726
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -57,6 +57,8 @@ add address=1.179.102.0/24 list=AMAZON
 add address=1.179.103.0/24 list=AMAZON
 add address=1.179.14.0/23 list=AMAZON
 add address=1.179.2.0/23 list=AMAZON
+add address=1.179.52.0/22 list=AMAZON
+add address=1.179.56.0/22 list=AMAZON
 add address=1.179.60.0/23 list=AMAZON
 add address=100.20.0.0/14 list=AMAZON
 add address=100.24.0.0/13 list=AMAZON
@@ -3528,6 +3530,7 @@ add address=2400:6700:ff00::/48 list=AMAZON
 add address=2400:7fc0:110::/48 list=AMAZON
 add address=2400:7fc0:110::/56 list=AMAZON
 add address=2400:7fc0:111::/48 list=AMAZON
+add address=2400:7fc0:112::/48 list=AMAZON
 add address=2400:7fc0:200::/40 list=AMAZON
 add address=2400:7fc0:2100::/40 list=AMAZON
 add address=2400:7fc0:2200::/40 list=AMAZON
@@ -3566,6 +3569,7 @@ add address=2403:b300::/48 list=AMAZON
 add address=2403:b300:ff00::/48 list=AMAZON
 add address=2404:c2c0:110::/48 list=AMAZON
 add address=2404:c2c0:111::/48 list=AMAZON
+add address=2404:c2c0:112::/48 list=AMAZON
 add address=2404:c2c0:200::/40 list=AMAZON
 add address=2404:c2c0:2100::/40 list=AMAZON
 add address=2404:c2c0:2200::/40 list=AMAZON
