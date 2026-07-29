@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Tue Jul 28 06:00:51 +06 2026
+# Last Update - Wed Jul 29 06:00:49 +06 2026
 # --------------------------------------------
-# Total Prefixes: 2205
+# Total Prefixes: 2211
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -69,8 +69,13 @@ add address=66.93.33.0/24 list=ZENLAYER
 add address=66.93.34.0/24 list=ZENLAYER
 add address=66.93.40.0/24 list=ZENLAYER
 add address=66.93.44.0/24 list=ZENLAYER
+add address=66.93.53.0/24 list=ZENLAYER
+add address=66.93.57.0/24 list=ZENLAYER
+add address=66.93.59.0/24 list=ZENLAYER
 add address=66.93.74.0/24 list=ZENLAYER
 add address=66.93.81.0/24 list=ZENLAYER
+add address=66.93.128.0/24 list=ZENLAYER
+add address=66.93.130.0/24 list=ZENLAYER
 add address=66.93.132.0/24 list=ZENLAYER
 add address=66.93.151.0/24 list=ZENLAYER
 add address=66.93.154.0/24 list=ZENLAYER
@@ -248,6 +253,7 @@ add address=198.44.167.0/24 list=ZENLAYER
 add address=198.44.168.0/24 list=ZENLAYER
 add address=198.44.169.0/24 list=ZENLAYER
 add address=198.44.171.0/24 list=ZENLAYER
+add address=198.44.175.0/24 list=ZENLAYER
 add address=198.44.188.0/24 list=ZENLAYER
 add address=198.44.189.0/24 list=ZENLAYER
 add address=198.44.190.0/24 list=ZENLAYER
@@ -1640,7 +1646,6 @@ add address=162.128.102.0/24 list=ZENLAYER
 add address=162.128.103.0/24 list=ZENLAYER
 add address=162.128.105.0/24 list=ZENLAYER
 add address=162.128.107.0/24 list=ZENLAYER
-add address=162.128.108.0/24 list=ZENLAYER
 add address=162.128.109.0/24 list=ZENLAYER
 add address=162.128.110.0/24 list=ZENLAYER
 add address=162.128.111.0/24 list=ZENLAYER
@@ -2036,6 +2041,7 @@ add address=2a0b:21c1:6024::/48 list=ZENLAYER
 add address=2a0b:21c1:6025::/48 list=ZENLAYER
 add address=2a0b:21c1:6026::/48 list=ZENLAYER
 add address=2a0b:21c1:6027::/48 list=ZENLAYER
+add address=2a0b:21c1:6032::/48 list=ZENLAYER
 add address=2a11:c40::/29 list=ZENLAYER
 add address=2a12:da80::/29 list=ZENLAYER
 add address=2a13:dcc0::/29 list=ZENLAYER

@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: ipapi.is
 # --------------------------------------------
-# Last Update - Tue Jul 28 06:00:38 +06 2026
+# Last Update - Wed Jul 29 06:00:37 +06 2026
 # --------------------------------------------
-# Total Prefixes: 2298
+# Total Prefixes: 2300
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -195,6 +195,9 @@ add address=8.223.64.0/18 list=ALIBABA
 add address=8.223.128.0/17 list=ALIBABA
 add address=8.223.128.0/18 list=ALIBABA
 add address=8.223.192.0/18 list=ALIBABA
+add address=43.90.0.0/16 list=ALIBABA
+add address=43.90.0.0/17 list=ALIBABA
+add address=43.90.128.0/17 list=ALIBABA
 add address=43.92.0.0/17 list=ALIBABA
 add address=43.92.0.0/18 list=ALIBABA
 add address=43.92.64.0/18 list=ALIBABA
@@ -214,6 +217,8 @@ add address=43.96.32.0/24 list=ALIBABA
 add address=43.96.33.0/24 list=ALIBABA
 add address=43.96.34.0/24 list=ALIBABA
 add address=43.96.35.0/24 list=ALIBABA
+add address=43.96.44.0/24 list=ALIBABA
+add address=43.96.45.0/24 list=ALIBABA
 add address=43.96.48.0/24 list=ALIBABA
 add address=43.96.49.0/24 list=ALIBABA
 add address=43.96.50.0/24 list=ALIBABA
@@ -462,7 +467,6 @@ add address=43.118.96.0/19 list=ALIBABA
 add address=43.118.128.0/18 list=ALIBABA
 add address=43.118.128.0/19 list=ALIBABA
 add address=43.118.160.0/19 list=ALIBABA
-add address=43.118.168.0/24 list=ALIBABA
 add address=43.119.0.0/17 list=ALIBABA
 add address=43.119.0.0/18 list=ALIBABA
 add address=43.119.64.0/18 list=ALIBABA
@@ -1974,7 +1978,6 @@ add address=149.129.164.0/24 list=ALIBABA
 add address=149.129.165.0/24 list=ALIBABA
 add address=149.129.166.0/24 list=ALIBABA
 add address=149.129.167.0/24 list=ALIBABA
-add address=149.134.179.0/24 list=ALIBABA
 add address=155.102.71.0/24 list=ALIBABA
 add address=155.102.102.0/24 list=ALIBABA
 add address=163.181.41.0/24 list=ALIBABA
@@ -2172,7 +2175,6 @@ add address=240b:4019::/32 list=ALIBABA
 add address=240b:401a::/32 list=ALIBABA
 add address=240b:401a::/33 list=ALIBABA
 add address=240b:401a:8000::/33 list=ALIBABA
-add address=240b:401a:ffff::/48 list=ALIBABA
 add address=240b:401b::/32 list=ALIBABA
 add address=240b:401b::/33 list=ALIBABA
 add address=240b:401b:8000::/33 list=ALIBABA
