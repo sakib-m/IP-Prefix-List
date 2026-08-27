@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: GOOGLE DOCS
 # --------------------------------------------
-# Last Update - Wed Aug 26 06:00:10 +06 2026
+# Last Update - Thu Aug 27 06:00:09 +06 2026
 # --------------------------------------------
-# Total Prefixes: 114
+# Total Prefixes: 145
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -81,6 +81,8 @@ add address=136.121.8.0/21 list=GOOGLE
 add address=136.124.0.0/15 list=GOOGLE
 add address=142.250.0.0/15 list=GOOGLE
 add address=146.148.0.0/17 list=GOOGLE
+add address=152.238.0.0/16 list=GOOGLE
+add address=152.239.128.0/17 list=GOOGLE
 add address=162.120.128.0/17 list=GOOGLE
 add address=162.216.148.0/22 list=GOOGLE
 add address=162.222.176.0/21 list=GOOGLE
@@ -89,6 +91,35 @@ add address=172.217.0.0/16 list=GOOGLE
 add address=172.253.0.0/16 list=GOOGLE
 add address=173.194.0.0/16 list=GOOGLE
 add address=173.255.112.0/20 list=GOOGLE
+add address=177.176.0.0/16 list=GOOGLE
+add address=177.178.0.0/15 list=GOOGLE
+add address=177.208.0.0/15 list=GOOGLE
+add address=179.67.0.0/17 list=GOOGLE
+add address=179.69.128.0/17 list=GOOGLE
+add address=179.193.128.0/17 list=GOOGLE
+add address=179.199.0.0/17 list=GOOGLE
+add address=186.242.0.0/17 list=GOOGLE
+add address=186.245.0.0/16 list=GOOGLE
+add address=187.78.0.0/17 list=GOOGLE
+add address=187.79.0.0/17 list=GOOGLE
+add address=187.126.128.0/17 list=GOOGLE
+add address=189.24.128.0/17 list=GOOGLE
+add address=189.48.0.0/16 list=GOOGLE
+add address=189.49.128.0/17 list=GOOGLE
+add address=189.70.0.0/15 list=GOOGLE
+add address=189.82.0.0/15 list=GOOGLE
+add address=189.105.128.0/17 list=GOOGLE
+add address=189.106.0.0/15 list=GOOGLE
+add address=191.0.128.0/17 list=GOOGLE
+add address=191.2.0.0/15 list=GOOGLE
+add address=191.40.128.0/17 list=GOOGLE
+add address=191.44.128.0/17 list=GOOGLE
+add address=191.45.128.0/17 list=GOOGLE
+add address=191.46.0.0/15 list=GOOGLE
+add address=191.212.0.0/15 list=GOOGLE
+add address=191.216.128.0/17 list=GOOGLE
+add address=191.218.0.0/17 list=GOOGLE
+add address=191.220.0.0/15 list=GOOGLE
 add address=192.104.160.0/23 list=GOOGLE
 add address=192.158.28.0/22 list=GOOGLE
 add address=192.178.0.0/15 list=GOOGLE
