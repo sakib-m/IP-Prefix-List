@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Thu Aug 27 06:00:03 +06 2026
+# Last Update - Fri Aug 28 06:00:04 +06 2026
 # --------------------------------------------
-# Total Prefixes: 10936
+# Total Prefixes: 10940
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -4446,6 +4446,7 @@ add address=2600:1f10:4a47:1300::/56 list=AMAZON
 add address=2600:1f10:4d24:2400::/56 list=AMAZON
 add address=2600:1f10:8000::/36 list=AMAZON
 add address=2600:1f10:c000::/36 list=AMAZON
+add address=2600:1f11:2000::/36 list=AMAZON
 add address=2600:1f11:4000::/36 list=AMAZON
 add address=2600:1f11:8000::/36 list=AMAZON
 add address=2600:1f11::/36 list=AMAZON
@@ -4545,6 +4546,7 @@ add address=2600:1f1c:fff:f800::/56 list=AMAZON
 add address=2600:1f1d:4000::/36 list=AMAZON
 add address=2600:1f1d:8000::/36 list=AMAZON
 add address=2600:1f1d:c000::/36 list=AMAZON
+add address=2600:1f1e:2000::/36 list=AMAZON
 add address=2600:1f1e:4000::/36 list=AMAZON
 add address=2600:1f1e:7ff:f800::/56 list=AMAZON
 add address=2600:1f1e:8000::/36 list=AMAZON
@@ -4703,6 +4705,7 @@ add address=2600:1f61:a400::/40 list=AMAZON
 add address=2600:1f61:c000::/40 list=AMAZON
 add address=2600:1f61:e000::/40 list=AMAZON
 add address=2600:1f61:ec00::/40 list=AMAZON
+add address=2600:1f6a:4c00::/46 list=AMAZON
 add address=2600:1f70:1000:100::/56 list=AMAZON
 add address=2600:1f70:1000:200::/56 list=AMAZON
 add address=2600:1f70:1000:300::/56 list=AMAZON
@@ -6852,6 +6855,7 @@ add address=3.2.1.0/24 list=AMAZON
 add address=3.2.100.0/24 list=AMAZON
 add address=3.2.101.0/24 list=AMAZON
 add address=3.2.102.0/24 list=AMAZON
+add address=3.2.103.0/24 list=AMAZON
 add address=3.2.2.0/24 list=AMAZON
 add address=3.2.3.0/24 list=AMAZON
 add address=3.2.4.0/23 list=AMAZON
