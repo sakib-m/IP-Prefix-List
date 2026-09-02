@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: AWS DOCS
 # --------------------------------------------
-# Last Update - Tue Sep  1 06:00:03 +06 2026
+# Last Update - Wed Sep  2 06:00:03 +06 2026
 # --------------------------------------------
-# Total Prefixes: 10945
+# Total Prefixes: 10987
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -5356,6 +5356,7 @@ add address=2600:f0f0:6123::/48 list=AMAZON
 add address=2600:f0f0:6124::/48 list=AMAZON
 add address=2600:f0f0:6125::/48 list=AMAZON
 add address=2600:f0f0:6126::/48 list=AMAZON
+add address=2600:f0f0:6127::/48 list=AMAZON
 add address=2600:f0f0:700::/48 list=AMAZON
 add address=2600:f0f0:701::/48 list=AMAZON
 add address=2600:f0f0:702::/48 list=AMAZON
@@ -5416,6 +5417,36 @@ add address=2600:f0f0:c002::/48 list=AMAZON
 add address=2600:f0f0:c003::/48 list=AMAZON
 add address=2600:f0f0:c004::/48 list=AMAZON
 add address=2600:f0f0:c005::/48 list=AMAZON
+add address=2600:f0f0:c00:100::/56 list=AMAZON
+add address=2600:f0f0:c00:200::/56 list=AMAZON
+add address=2600:f0f0:c00:300::/56 list=AMAZON
+add address=2600:f0f0:c00:400::/56 list=AMAZON
+add address=2600:f0f0:c00:500::/56 list=AMAZON
+add address=2600:f0f0:c00:600::/56 list=AMAZON
+add address=2600:f0f0:c00:700::/56 list=AMAZON
+add address=2600:f0f0:c00:8000::/56 list=AMAZON
+add address=2600:f0f0:c00:800::/56 list=AMAZON
+add address=2600:f0f0:c00:8100::/56 list=AMAZON
+add address=2600:f0f0:c00:8200::/56 list=AMAZON
+add address=2600:f0f0:c00:8300::/56 list=AMAZON
+add address=2600:f0f0:c00:8400::/56 list=AMAZON
+add address=2600:f0f0:c00:8500::/56 list=AMAZON
+add address=2600:f0f0:c00:8600::/56 list=AMAZON
+add address=2600:f0f0:c00:8700::/56 list=AMAZON
+add address=2600:f0f0:c00:8800::/56 list=AMAZON
+add address=2600:f0f0:c00:8900::/56 list=AMAZON
+add address=2600:f0f0:c00:900::/56 list=AMAZON
+add address=2600:f0f0:c00::/56 list=AMAZON
+add address=2600:f0f0:c01:100::/56 list=AMAZON
+add address=2600:f0f0:c01:200::/56 list=AMAZON
+add address=2600:f0f0:c01:300::/56 list=AMAZON
+add address=2600:f0f0:c01:400::/56 list=AMAZON
+add address=2600:f0f0:c01:500::/56 list=AMAZON
+add address=2600:f0f0:c01:600::/56 list=AMAZON
+add address=2600:f0f0:c01:700::/56 list=AMAZON
+add address=2600:f0f0:c01:800::/56 list=AMAZON
+add address=2600:f0f0:c01:900::/56 list=AMAZON
+add address=2600:f0f0:c01::/56 list=AMAZON
 add address=2600:f0f0:c040::/48 list=AMAZON
 add address=2600:f0f0:c041::/48 list=AMAZON
 add address=2600:f0f0:c042::/48 list=AMAZON
@@ -5492,6 +5523,15 @@ add address=2600:f0f0:c14b::/48 list=AMAZON
 add address=2600:f0f0:c14c::/48 list=AMAZON
 add address=2600:f0f0:c14d::/48 list=AMAZON
 add address=2600:f0f0:c14e::/48 list=AMAZON
+add address=2600:f0f0:cf8:800::/56 list=AMAZON
+add address=2600:f0f0:cf8:900::/56 list=AMAZON
+add address=2600:f0f0:cf8::/56 list=AMAZON
+add address=2600:f0f0:cf8:c00::/56 list=AMAZON
+add address=2600:f0f0:cf8:d00::/56 list=AMAZON
+add address=2600:f0f0:cf8:e00::/56 list=AMAZON
+add address=2600:f0f0:cf9:c00::/56 list=AMAZON
+add address=2600:f0f0:cf9:d00::/56 list=AMAZON
+add address=2600:f0f0:cf9:e00::/56 list=AMAZON
 add address=2600:f0f0:cfb::/48 list=AMAZON
 add address=2600:f0f0:cfc::/48 list=AMAZON
 add address=2600:f0f0:cfd::/48 list=AMAZON
@@ -5660,7 +5700,9 @@ add address=2600:f0fb:c002::/56 list=AMAZON
 add address=2600:f0fb:c003::/48 list=AMAZON
 add address=2600:f0fb:c0ff::/56 list=AMAZON
 add address=2600:f0fb:c800::/48 list=AMAZON
+add address=2600:f0fb:c900:1000::/52 list=AMAZON
 add address=2600:f0fb:c900::/52 list=AMAZON
+add address=2600:f0fb:ca00:1000::/52 list=AMAZON
 add address=2600:f0fb:ca00::/52 list=AMAZON
 add address=2600:f0fb:e000::/40 list=AMAZON
 add address=2600:f0fb:e100::/40 list=AMAZON
