@@ -3,7 +3,7 @@
 # --------------------------------------------
 # Source: GOOGLE DOCS
 # --------------------------------------------
-# Last Update - Sat Sep 19 06:00:07 +06 2026
+# Last Update - Sun Sep 20 06:00:07 +06 2026
 # --------------------------------------------
 # Total Prefixes: 145
 # --------------------------------------------
@@ -143,7 +143,7 @@ add address=216.252.220.0/22 list=GOOGLE
 add address=2001:4860::/32 list=GOOGLE
 add address=2404:6800::/32 list=GOOGLE
 add address=2404:f340::/32 list=GOOGLE
-add address=2600:1900::/28 list=GOOGLE
+add address=2600:1900::/29 list=GOOGLE
 add address=2605:ef80::/32 list=GOOGLE
 add address=2606:40::/32 list=GOOGLE
 add address=2606:73c0::/32 list=GOOGLE
