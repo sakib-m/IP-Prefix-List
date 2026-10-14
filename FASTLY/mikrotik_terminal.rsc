@@ -3,15 +3,17 @@
 # --------------------------------------------
 # Source: Fastly Website
 # --------------------------------------------
-# Last Update - Tue Oct 13 06:00:07 +06 2026
+# Last Update - Wed Oct 14 06:00:06 +06 2026
 # --------------------------------------------
-# Total Prefixes: 21
+# Total Prefixes: 24
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 /ip firewall address-list
 add address=23.235.32.0/20 list=FASTLY
 add address=43.249.72.0/22 list=FASTLY
+add address=90.98.0.0/17 list=FASTLY
+add address=90.98.128.0/18 list=FASTLY
 add address=103.244.50.0/24 list=FASTLY
 add address=103.245.222.0/23 list=FASTLY
 add address=103.245.224.0/24 list=FASTLY
@@ -30,4 +32,5 @@ add address=185.31.16.0/22 list=FASTLY
 add address=199.27.72.0/21 list=FASTLY
 add address=199.232.0.0/16 list=FASTLY
 add address=2a04:4e40::/32 list=FASTLY
-add address=2a04:4e42::/32 list=FASTLY
+add address=2a04:4e42::/31 list=FASTLY
+add address=2a04:4e44::/32 list=FASTLY
