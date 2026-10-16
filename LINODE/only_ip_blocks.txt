@@ -3,14 +3,14 @@
 # --------------------------------------------
 # Source: Linode Docs.
 # --------------------------------------------
-# Last Update - Thu Oct 15 06:00:31 +06 2026
+# Last Update - Fri Oct 16 06:00:38 +06 2026
 # --------------------------------------------
 # Total Prefixes: 5508
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
 # This file contains a self-published geofeed as defined in https://datatracker.ietf.org/doc/html/rfc8805
-# Last modified: 2026-10-14 10:00:05.306274
+# Last modified: 2026-10-15 10:00:06.010677
 # ip_prefix
 2600:3c00::/32
 2600:3c0f:2::/48
