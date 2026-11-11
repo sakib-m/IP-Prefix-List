@@ -3,9 +3,9 @@
 # --------------------------------------------
 # Source: DIGITALOCEAN DOCS
 # --------------------------------------------
-# Last Update - Tue Nov 10 06:00:06 +06 2026
+# Last Update - Wed Nov 11 06:00:05 +06 2026
 # --------------------------------------------
-# Total Prefixes: 1239
+# Total Prefixes: 1243
 # --------------------------------------------
 # Maintainer: Sakib Mahmud
 # --------------------------------------------
@@ -838,6 +838,8 @@ add address=168.144.192.0/22 list=DIGITALOCEAN
 add address=168.144.196.0/23 list=DIGITALOCEAN
 add address=168.144.198.0/23 list=DIGITALOCEAN
 add address=168.144.208.0/20 list=DIGITALOCEAN
+add address=168.144.228.0/22 list=DIGITALOCEAN
+add address=168.144.232.0/21 list=DIGITALOCEAN
 add address=168.144.240.0/20 list=DIGITALOCEAN
 add address=170.64.128.0/18 list=DIGITALOCEAN
 add address=170.64.192.0/19 list=DIGITALOCEAN
@@ -1046,6 +1048,7 @@ add address=201.79.80.0/20 list=DIGITALOCEAN
 add address=201.79.96.0/20 list=DIGITALOCEAN
 add address=201.79.112.0/20 list=DIGITALOCEAN
 add address=201.79.128.0/20 list=DIGITALOCEAN
+add address=201.79.144.0/20 list=DIGITALOCEAN
 add address=204.48.16.0/20 list=DIGITALOCEAN
 add address=206.81.0.0/20 list=DIGITALOCEAN
 add address=206.81.16.0/20 list=DIGITALOCEAN
@@ -1157,6 +1160,7 @@ add address=2604:a880:5:1::/64 list=DIGITALOCEAN
 add address=2604:a880:6:7::/64 list=DIGITALOCEAN
 add address=2604:a880:7:7::/64 list=DIGITALOCEAN
 add address=2604:a880:8:7::/64 list=DIGITALOCEAN
+add address=2604:a880:9:1::/64 list=DIGITALOCEAN
 add address=2604:a880:400:d0::/64 list=DIGITALOCEAN
 add address=2604:a880:400:d1::/64 list=DIGITALOCEAN
 add address=2604:a880:800:10::/64 list=DIGITALOCEAN
