@@ -1,3 +1,12 @@
+# 🚧 Under Maintenance
+
+This project is currently under maintenance as I'm working on a better version.
+
+A new version is in the works. Stay tuned!
+
+---
+
+
 ## Description
 In this repository, you will find IP Prefix list of big Internet Companies like Facebook, Google, Microsoft, etc. I used several websites & whois servers to get and merge IP Prefixes.
 
